@@ -20,7 +20,8 @@
    "ver": "9c5869b016",
    "size": 1611542,
    "file": "packs/ozma-of-oz.json",
-   "updated": "2026-11-14"
+   "updated": "2026-11-14",
+   "v": 1
   },
   {
    "id": "princess-and-goblin",
@@ -41,7 +42,8 @@
    "ver": "f17f68b1a2",
    "size": 2181200,
    "file": "packs/princess-and-goblin.json",
-   "updated": "2026-11-14"
+   "updated": "2026-11-14",
+   "v": 1
   }
  ]
 }
