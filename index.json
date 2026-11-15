@@ -28,6 +28,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "emerald-city-of-oz",
+   "title": "The Emerald City of Oz",
+   "zh_title": "奧茲國的翡翠城",
+   "author": "L. Frank Baum",
+   "chapters": 30,
+   "words": 415,
+   "coverage": {
+    "A1": 80.2,
+    "A2": 88.9,
+    "B1": 93.7,
+    "B2": 96.3,
+    "C1": 96.5,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 6,
+   "v": 1,
+   "ver": "6d78f4e2c5",
+   "size": 2182995,
+   "file": "packs/emerald-city-of-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "marvelous-land-of-oz",
    "title": "The Marvelous Land of Oz",
    "zh_title": "奧茲國的奇妙土地",
@@ -80,6 +106,32 @@
    "series_no": 3
   },
   {
+   "id": "patchwork-girl-of-oz",
+   "title": "The Patchwork Girl of Oz",
+   "zh_title": "奧茲國的拼布女孩",
+   "author": "L. Frank Baum",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 80.9,
+    "A2": 89.3,
+    "B1": 94.1,
+    "B2": 96.4,
+    "C1": 96.6,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 7,
+   "v": 1,
+   "ver": "37c7309093",
+   "size": 2234534,
+   "file": "packs/patchwork-girl-of-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "princess-and-goblin",
    "title": "The Princess and the Goblin",
    "zh_title": "公主與哥布林",
@@ -129,6 +181,32 @@
    "ver": "8d28bd153e",
    "size": 1724715,
    "file": "packs/road-to-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "tik-tok-of-oz",
+   "title": "Tik-Tok of Oz",
+   "zh_title": "奧茲國的機器人",
+   "author": "L. Frank Baum",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 77.7,
+    "A2": 87.2,
+    "B1": 92.8,
+    "B2": 95.4,
+    "C1": 95.7,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 8,
+   "v": 1,
+   "ver": "4bb71b98e4",
+   "size": 1982826,
+   "file": "packs/tik-tok-of-oz.json",
    "updated": "2026-11-15"
   }
  ]
