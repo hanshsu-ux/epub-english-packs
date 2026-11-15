@@ -23,7 +23,9 @@
    "updated": "2026-11-14",
    "v": 1,
    "genre": "奇幻",
-   "country": "美國"
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 3
   },
   {
    "id": "princess-and-goblin",
@@ -47,7 +49,9 @@
    "updated": "2026-11-14",
    "v": 1,
    "genre": "奇幻",
-   "country": "英國"
+   "country": "英國",
+   "series": "公主與哥布林",
+   "series_no": 1
   }
  ]
 }
