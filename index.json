@@ -54,6 +54,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "dutch-twins",
+   "title": "The Dutch Twins",
+   "zh_title": "荷蘭雙胞胎",
+   "author": "Lucy Fitch Perkins",
+   "chapters": 6,
+   "words": 84,
+   "coverage": {
+    "A1": 87.6,
+    "A2": 93.1,
+    "B1": 95.8,
+    "B2": 96.9,
+    "C1": 97.1,
+    "C2": 97.1
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "世界雙胞胎",
+   "series_no": 1,
+   "v": 1,
+   "ver": "7d63a69b90",
+   "size": 636010,
+   "file": "packs/dutch-twins.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "emerald-city-of-oz",
    "title": "The Emerald City of Oz",
    "zh_title": "奧茲國的翡翠城",
@@ -80,6 +106,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "five-little-peppers-and-how-they-grew",
+   "title": "Five Little Peppers and How They Grew",
+   "zh_title": "五個小胡椒",
+   "author": "Margaret Sidney",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 82.6,
+    "A2": 88.9,
+    "B1": 92.6,
+    "B2": 94.5,
+    "C1": 94.7,
+    "C2": 94.9
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "五個小胡椒",
+   "series_no": 1,
+   "v": 1,
+   "ver": "546af55989",
+   "size": 2539574,
+   "file": "packs/five-little-peppers-and-how-they-grew.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "glinda-of-oz",
    "title": "Glinda of Oz",
    "zh_title": "奧茲國的葛琳達",
@@ -103,6 +155,32 @@
    "ver": "5fb7c7023b",
    "size": 1729339,
    "file": "packs/glinda-of-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "japanese-twins",
+   "title": "The Japanese Twins",
+   "zh_title": "日本雙胞胎",
+   "author": "Lucy Fitch Perkins",
+   "chapters": 7,
+   "words": 98,
+   "coverage": {
+    "A1": 87.5,
+    "A2": 92.5,
+    "B1": 95.7,
+    "B2": 97.2,
+    "C1": 97.3,
+    "C2": 97.4
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "世界雙胞胎",
+   "series_no": 2,
+   "v": 1,
+   "ver": "ade58fe0a8",
+   "size": 630093,
+   "file": "packs/japanese-twins.json",
    "updated": "2026-11-15"
   },
   {
