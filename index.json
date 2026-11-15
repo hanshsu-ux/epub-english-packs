@@ -21,7 +21,9 @@
    "size": 1611542,
    "file": "packs/ozma-of-oz.json",
    "updated": "2026-11-14",
-   "v": 1
+   "v": 1,
+   "genre": "奇幻",
+   "country": "美國"
   },
   {
    "id": "princess-and-goblin",
@@ -43,7 +45,9 @@
    "size": 2181200,
    "file": "packs/princess-and-goblin.json",
    "updated": "2026-11-14",
-   "v": 1
+   "v": 1,
+   "genre": "奇幻",
+   "country": "英國"
   }
  ]
 }
