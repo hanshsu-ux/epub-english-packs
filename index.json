@@ -54,6 +54,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "lost-princess-of-oz",
+   "title": "The Lost Princess of Oz",
+   "zh_title": "奧茲國失蹤的公主",
+   "author": "L. Frank Baum",
+   "chapters": 26,
+   "words": 364,
+   "coverage": {
+    "A1": 79.6,
+    "A2": 89.0,
+    "B1": 94.0,
+    "B2": 96.1,
+    "C1": 96.4,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 11,
+   "v": 1,
+   "ver": "ca8a1dca11",
+   "size": 1947684,
+   "file": "packs/lost-princess-of-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "marvelous-land-of-oz",
    "title": "The Marvelous Land of Oz",
    "zh_title": "奧茲國的奇妙土地",
@@ -158,6 +184,32 @@
    "series_no": 1
   },
   {
+   "id": "rinkitink-in-oz",
+   "title": "Rinkitink in Oz",
+   "zh_title": "奧茲國的林奇丁克",
+   "author": "L. Frank Baum",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 77.1,
+    "A2": 87.1,
+    "B1": 92.7,
+    "B2": 95.5,
+    "C1": 95.8,
+    "C2": 95.9
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 10,
+   "v": 1,
+   "ver": "1cce451aac",
+   "size": 2098481,
+   "file": "packs/rinkitink-in-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "road-to-oz",
    "title": "The Road to Oz",
    "zh_title": "前往奧茲之路",
@@ -181,6 +233,32 @@
    "ver": "8d28bd153e",
    "size": 1724715,
    "file": "packs/road-to-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "scarecrow-of-oz",
+   "title": "The Scarecrow of Oz",
+   "zh_title": "奧茲國的稻草人",
+   "author": "L. Frank Baum",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 79.4,
+    "A2": 88.6,
+    "B1": 93.5,
+    "B2": 96.1,
+    "C1": 96.3,
+    "C2": 96.4
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 9,
+   "v": 1,
+   "ver": "d5ef2ee791",
+   "size": 1886994,
+   "file": "packs/scarecrow-of-oz.json",
    "updated": "2026-11-15"
   },
   {
