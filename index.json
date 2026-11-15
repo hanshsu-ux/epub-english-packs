@@ -2,6 +2,32 @@
  "v": 1,
  "packs": [
   {
+   "id": "813",
+   "title": "813",
+   "zh_title": "八一三之謎",
+   "author": "Maurice Leblanc",
+   "chapters": 17,
+   "words": 238,
+   "coverage": {
+    "A1": 78.1,
+    "A2": 87.3,
+    "B1": 92.8,
+    "B2": 95.3,
+    "C1": 95.7,
+    "C2": 95.9
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "法國",
+   "series": "亞森・羅蘋",
+   "series_no": 4,
+   "v": 1,
+   "ver": "e79ef4f388",
+   "size": 3419892,
+   "file": "packs/813.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "adventures-of-bobby-coon",
    "title": "The Adventures of Bobby Coon",
    "zh_title": "浣熊巴比",
@@ -470,6 +496,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "ars-ne-lupin-versus-herlock-sholmes",
+   "title": "Arsène Lupin versus Herlock Sholmes",
+   "zh_title": "亞森・羅蘋對福爾摩斯",
+   "author": "Maurice Leblanc",
+   "chapters": 8,
+   "words": 112,
+   "coverage": {
+    "A1": 76.5,
+    "A2": 86.1,
+    "B1": 92.3,
+    "B2": 94.9,
+    "C1": 95.4,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "法國",
+   "series": "亞森・羅蘋",
+   "series_no": 2,
+   "v": 1,
+   "ver": "dfb4c48003",
+   "size": 1912668,
+   "file": "packs/ars-ne-lupin-versus-herlock-sholmes.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "billy-mink",
    "title": "Billy Mink",
    "zh_title": "水貂比利",
@@ -571,6 +623,58 @@
    "ver": "100cc500cd",
    "size": 1209332,
    "file": "packs/buster-bear-s-twins.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "confessions-of-ars-ne-lupin",
+   "title": "The Confessions of Arsène Lupin",
+   "zh_title": "亞森・羅蘋的告白",
+   "author": "Maurice Leblanc",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 77.6,
+    "A2": 86.8,
+    "B1": 92.7,
+    "B2": 95.3,
+    "C1": 95.6,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "法國",
+   "series": "亞森・羅蘋",
+   "series_no": 6,
+   "v": 1,
+   "ver": "00292cb7e0",
+   "size": 2231033,
+   "file": "packs/confessions-of-ars-ne-lupin.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "crystal-stopper",
+   "title": "The Crystal Stopper",
+   "zh_title": "水晶瓶塞",
+   "author": "Maurice Leblanc",
+   "chapters": 13,
+   "words": 182,
+   "coverage": {
+    "A1": 77.6,
+    "A2": 86.6,
+    "B1": 92.4,
+    "B2": 95.0,
+    "C1": 95.3,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "法國",
+   "series": "亞森・羅蘋",
+   "series_no": 5,
+   "v": 1,
+   "ver": "1e69bc7e90",
+   "size": 2454543,
+   "file": "packs/crystal-stopper.json",
    "updated": "2026-11-15"
   },
   {
@@ -704,6 +808,58 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "five-little-peppers-grown-up",
+   "title": "Five Little Peppers Grown Up",
+   "zh_title": "五個小胡椒長大了",
+   "author": "Margaret Sidney",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 82.9,
+    "A2": 89.2,
+    "B1": 93.3,
+    "B2": 95.2,
+    "C1": 95.4,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "五個小胡椒",
+   "series_no": 3,
+   "v": 1,
+   "ver": "504e4f75bb",
+   "size": 2755736,
+   "file": "packs/five-little-peppers-grown-up.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "five-little-peppers-midway",
+   "title": "Five Little Peppers Midway",
+   "zh_title": "五個小胡椒中途記",
+   "author": "Margaret Sidney",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 81.2,
+    "A2": 88.1,
+    "B1": 92.7,
+    "B2": 94.8,
+    "C1": 95.1,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "五個小胡椒",
+   "series_no": 2,
+   "v": 1,
+   "ver": "5b5f4c211c",
+   "size": 2542907,
+   "file": "packs/five-little-peppers-midway.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "glinda-of-oz",
    "title": "Glinda of Oz",
    "zh_title": "奧茲國的葛琳達",
@@ -730,6 +886,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "golden-triangle",
+   "title": "The Golden Triangle",
+   "zh_title": "金三角",
+   "author": "Maurice Leblanc",
+   "chapters": 19,
+   "words": 266,
+   "coverage": {
+    "A1": 78.5,
+    "A2": 87.9,
+    "B1": 93.3,
+    "B2": 95.6,
+    "C1": 95.9,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "法國",
+   "series": "亞森・羅蘋",
+   "series_no": 8,
+   "v": 1,
+   "ver": "b68537c41e",
+   "size": 3004629,
+   "file": "packs/golden-triangle.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "happy-jack",
    "title": "Happy Jack",
    "zh_title": "快樂傑克",
@@ -753,6 +935,32 @@
    "ver": "aa3de4095a",
    "size": 1176196,
    "file": "packs/happy-jack.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "hollow-needle",
+   "title": "The Hollow Needle",
+   "zh_title": "奇巖城",
+   "author": "Maurice Leblanc",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 76.4,
+    "A2": 86.1,
+    "B1": 92.2,
+    "B2": 94.8,
+    "C1": 95.3,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "法國",
+   "series": "亞森・羅蘋",
+   "series_no": 3,
+   "v": 1,
+   "ver": "442c65b2ce",
+   "size": 2202320,
+   "file": "packs/hollow-needle.json",
    "updated": "2026-11-15"
   },
   {
@@ -1016,6 +1224,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "phronsie-pepper",
+   "title": "Phronsie Pepper",
+   "zh_title": "小胡椒芙朗西",
+   "author": "Margaret Sidney",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 83.4,
+    "A2": 89.3,
+    "B1": 93.1,
+    "B2": 94.9,
+    "C1": 95.2,
+    "C2": 95.3
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "五個小胡椒",
+   "series_no": 4,
+   "v": 1,
+   "ver": "01cdcb0349",
+   "size": 2686982,
+   "file": "packs/phronsie-pepper.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "princess-and-goblin",
    "title": "The Princess and the Goblin",
    "zh_title": "公主與哥布林",
@@ -1195,6 +1429,32 @@
    "ver": "941820044e",
    "size": 1759363,
    "file": "packs/study-in-scarlet.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "teeth-of-the-tiger",
+   "title": "The Teeth of the Tiger",
+   "zh_title": "虎牙",
+   "author": "Maurice Leblanc",
+   "chapters": 21,
+   "words": 294,
+   "coverage": {
+    "A1": 76.8,
+    "A2": 86.5,
+    "B1": 92.7,
+    "B2": 95.3,
+    "C1": 95.7,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "法國",
+   "series": "亞森・羅蘋",
+   "series_no": 7,
+   "v": 1,
+   "ver": "03d81d78bb",
+   "size": 4228890,
+   "file": "packs/teeth-of-the-tiger.json",
    "updated": "2026-11-15"
   },
   {
