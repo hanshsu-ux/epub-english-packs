@@ -2,6 +2,58 @@
  "v": 1,
  "packs": [
   {
+   "id": "dorothy-and-the-wizard-in-oz",
+   "title": "Dorothy and the Wizard in Oz",
+   "zh_title": "桃樂絲與奧茲巫師",
+   "author": "L. Frank Baum",
+   "chapters": 20,
+   "words": 280,
+   "coverage": {
+    "A1": 79.4,
+    "A2": 88.2,
+    "B1": 93.3,
+    "B2": 95.7,
+    "C1": 96.0,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 4,
+   "v": 1,
+   "ver": "7f2d482967",
+   "size": 1702537,
+   "file": "packs/dorothy-and-the-wizard-in-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "marvelous-land-of-oz",
+   "title": "The Marvelous Land of Oz",
+   "zh_title": "奧茲國的奇妙土地",
+   "author": "L. Frank Baum",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 76.5,
+    "A2": 86.8,
+    "B1": 92.8,
+    "B2": 95.7,
+    "C1": 96.0,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 2,
+   "v": 1,
+   "ver": "ec3d57bb3b",
+   "size": 1795782,
+   "file": "packs/marvelous-land-of-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "ozma-of-oz",
    "title": "Ozma of Oz",
    "zh_title": "奧茲國的奧茲瑪",
@@ -52,6 +104,32 @@
    "country": "英國",
    "series": "公主與哥布林",
    "series_no": 1
+  },
+  {
+   "id": "road-to-oz",
+   "title": "The Road to Oz",
+   "zh_title": "前往奧茲之路",
+   "author": "L. Frank Baum",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 79.8,
+    "A2": 87.8,
+    "B1": 92.3,
+    "B2": 94.8,
+    "C1": 95.0,
+    "C2": 95.1
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 5,
+   "v": 1,
+   "ver": "8d28bd153e",
+   "size": 1724715,
+   "file": "packs/road-to-oz.json",
+   "updated": "2026-11-15"
   }
  ]
 }
