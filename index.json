@@ -2,6 +2,32 @@
  "v": 1,
  "packs": [
   {
+   "id": "adventures-of-sherlock-holmes",
+   "title": "The Adventures of Sherlock Holmes",
+   "zh_title": "福爾摩斯冒險史",
+   "author": "Arthur Conan Doyle",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 79.1,
+    "A2": 88.4,
+    "B1": 93.4,
+    "B2": 95.7,
+    "C1": 96.0,
+    "C2": 96.2
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "series": "福爾摩斯",
+   "series_no": 3,
+   "v": 1,
+   "ver": "f11ddafdd7",
+   "size": 3443990,
+   "file": "packs/adventures-of-sherlock-holmes.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "dorothy-and-the-wizard-in-oz",
    "title": "Dorothy and the Wizard in Oz",
    "zh_title": "桃樂絲與奧茲巫師",
@@ -311,6 +337,58 @@
    "ver": "d5ef2ee791",
    "size": 1886994,
    "file": "packs/scarecrow-of-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "sign-of-the-four",
+   "title": "The Sign of the Four",
+   "zh_title": "四簽名",
+   "author": "Arthur Conan Doyle",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 78.1,
+    "A2": 87.6,
+    "B1": 92.8,
+    "B2": 95.1,
+    "C1": 95.4,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "series": "福爾摩斯",
+   "series_no": 2,
+   "v": 1,
+   "ver": "89c15eedad",
+   "size": 1614339,
+   "file": "packs/sign-of-the-four.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "study-in-scarlet",
+   "title": "A Study in Scarlet",
+   "zh_title": "血字的研究",
+   "author": "Arthur Conan Doyle",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 76.9,
+    "A2": 86.2,
+    "B1": 92.0,
+    "B2": 94.6,
+    "C1": 94.9,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "series": "福爾摩斯",
+   "series_no": 1,
+   "v": 1,
+   "ver": "941820044e",
+   "size": 1759363,
+   "file": "packs/study-in-scarlet.json",
    "updated": "2026-11-15"
   },
   {
