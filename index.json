@@ -54,6 +54,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "glinda-of-oz",
+   "title": "Glinda of Oz",
+   "zh_title": "奧茲國的葛琳達",
+   "author": "L. Frank Baum",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 78.9,
+    "A2": 88.2,
+    "B1": 93.8,
+    "B2": 96.0,
+    "C1": 96.3,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 14,
+   "v": 1,
+   "ver": "5fb7c7023b",
+   "size": 1729339,
+   "file": "packs/glinda-of-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
    "id": "lost-princess-of-oz",
    "title": "The Lost Princess of Oz",
    "zh_title": "奧茲國失蹤的公主",
@@ -77,6 +103,32 @@
    "ver": "ca8a1dca11",
    "size": 1947684,
    "file": "packs/lost-princess-of-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "magic-of-oz",
+   "title": "The Magic of Oz",
+   "zh_title": "奧茲國的魔法",
+   "author": "L. Frank Baum",
+   "chapters": 23,
+   "words": 322,
+   "coverage": {
+    "A1": 81.7,
+    "A2": 89.8,
+    "B1": 95.0,
+    "B2": 96.9,
+    "C1": 97.1,
+    "C2": 97.2
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 13,
+   "v": 1,
+   "ver": "f9fbb2f5c0",
+   "size": 1629609,
+   "file": "packs/magic-of-oz.json",
    "updated": "2026-11-15"
   },
   {
@@ -285,6 +337,32 @@
    "ver": "4bb71b98e4",
    "size": 1982826,
    "file": "packs/tik-tok-of-oz.json",
+   "updated": "2026-11-15"
+  },
+  {
+   "id": "tin-woodman-of-oz",
+   "title": "The Tin Woodman of Oz",
+   "zh_title": "奧茲國的錫樵夫",
+   "author": "L. Frank Baum",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 79.8,
+    "A2": 88.9,
+    "B1": 94.4,
+    "B2": 96.6,
+    "C1": 96.8,
+    "C2": 96.9
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "綠野仙蹤",
+   "series_no": 12,
+   "v": 1,
+   "ver": "82f56c98aa",
+   "size": 1800900,
+   "file": "packs/tin-woodman-of-oz.json",
    "updated": "2026-11-15"
   }
  ]
