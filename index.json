@@ -674,6 +674,30 @@
    "updated": "2026-11-16"
   },
   {
+   "id": "betrothed",
+   "title": "The Betrothed",
+   "zh_title": "約婚夫婦",
+   "author": "Alessandro Manzoni",
+   "chapters": 37,
+   "words": 518,
+   "coverage": {
+    "A1": 74.0,
+    "A2": 83.8,
+    "B1": 90.4,
+    "B2": 93.5,
+    "C1": 94.1,
+    "C2": 94.5
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "義大利",
+   "v": 1,
+   "ver": "e3e7aeac99",
+   "size": 6163192,
+   "file": "packs/betrothed.json",
+   "updated": "2026-11-16"
+  },
+  {
    "id": "billy-mink",
    "title": "Billy Mink",
    "zh_title": "水貂比利",
@@ -903,6 +927,30 @@
    "ver": "971f32228d",
    "size": 2724493,
    "file": "packs/doctor-dolittle-s-post-office.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "don-quixote",
+   "title": "Don Quixote",
+   "zh_title": "唐吉訶德",
+   "author": "Miguel de Cervantes Saavedra",
+   "chapters": 126,
+   "words": 1750,
+   "coverage": {
+    "A1": 76.4,
+    "A2": 85.0,
+    "B1": 90.3,
+    "B2": 93.1,
+    "C1": 93.5,
+    "C2": 93.8
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "西班牙",
+   "v": 1,
+   "ver": "650c617247",
+   "size": 13527629,
+   "file": "packs/don-quixote.json",
    "updated": "2026-11-16"
   },
   {
@@ -1244,6 +1292,78 @@
    "updated": "2026-11-16"
   },
   {
+   "id": "in-the-days-of-the-comet",
+   "title": "In the Days of the Comet",
+   "zh_title": "彗星來的時候",
+   "author": "H. G. Wells",
+   "chapters": 13,
+   "words": 182,
+   "coverage": {
+    "A1": 74.7,
+    "A2": 83.6,
+    "B1": 89.6,
+    "B2": 92.8,
+    "C1": 93.3,
+    "C2": 93.6
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "英國",
+   "v": 1,
+   "ver": "ab3be6af63",
+   "size": 3036849,
+   "file": "packs/in-the-days-of-the-comet.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "invisible-man",
+   "title": "The Invisible Man",
+   "zh_title": "隱形人",
+   "author": "H. G. Wells",
+   "chapters": 29,
+   "words": 406,
+   "coverage": {
+    "A1": 75.8,
+    "A2": 84.6,
+    "B1": 90.2,
+    "B2": 93.4,
+    "C1": 93.8,
+    "C2": 94.1
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "英國",
+   "v": 1,
+   "ver": "c9f8b32e1f",
+   "size": 2131307,
+   "file": "packs/invisible-man.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "jane-eyre",
+   "title": "Jane Eyre",
+   "zh_title": "簡愛",
+   "author": "Charlotte Brontë",
+   "chapters": 38,
+   "words": 532,
+   "coverage": {
+    "A1": 75.7,
+    "A2": 84.4,
+    "B1": 90.3,
+    "B2": 93.3,
+    "C1": 93.9,
+    "C2": 94.2
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "英國",
+   "v": 1,
+   "ver": "27082811d6",
+   "size": 6521463,
+   "file": "packs/jane-eyre.json",
+   "updated": "2026-11-16"
+  },
+  {
    "id": "japanese-twins",
    "title": "The Japanese Twins",
    "zh_title": "日本雙胞胎",
@@ -1397,6 +1517,30 @@
    "ver": "fbe63736c0",
    "size": 1954521,
    "file": "packs/lost-princess-of-oz.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "madame-bovary",
+   "title": "Madame Bovary",
+   "zh_title": "包法利夫人",
+   "author": "Gustave Flaubert",
+   "chapters": 35,
+   "words": 490,
+   "coverage": {
+    "A1": 76.0,
+    "A2": 84.8,
+    "B1": 90.7,
+    "B2": 93.4,
+    "C1": 93.9,
+    "C2": 94.1
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "法國",
+   "v": 1,
+   "ver": "8a3f6be514",
+   "size": 4683189,
+   "file": "packs/madame-bovary.json",
    "updated": "2026-11-16"
   },
   {
@@ -1733,6 +1877,30 @@
    "ver": "619ca629eb",
    "size": 749879,
    "file": "packs/old-mother-west-wind.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "oliver-twist",
+   "title": "Oliver Twist",
+   "zh_title": "孤雛淚",
+   "author": "Charles Dickens",
+   "chapters": 53,
+   "words": 742,
+   "coverage": {
+    "A1": 76.0,
+    "A2": 85.2,
+    "B1": 91.1,
+    "B2": 94.0,
+    "C1": 94.4,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "英國",
+   "v": 1,
+   "ver": "9f29f34616",
+   "size": 6181276,
+   "file": "packs/oliver-twist.json",
    "updated": "2026-11-16"
   },
   {
@@ -2145,6 +2313,30 @@
    "ver": "42265252b6",
    "size": 3775406,
    "file": "packs/son-of-tarzan.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "sorrows-of-young-werther",
+   "title": "The Sorrows of Young Werther",
+   "zh_title": "少年維特的煩惱",
+   "author": "Johann Wolfgang von Goethe",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 74.0,
+    "A2": 83.9,
+    "B1": 91.0,
+    "B2": 94.3,
+    "C1": 94.9,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "德國",
+   "v": 1,
+   "ver": "bdad564c3b",
+   "size": 1711929,
+   "file": "packs/sorrows-of-young-werther.json",
    "updated": "2026-11-16"
   },
   {
@@ -2586,6 +2778,30 @@
    "updated": "2026-11-16"
   },
   {
+   "id": "uncle-tom-s-cabin",
+   "title": "Uncle Tom's Cabin",
+   "zh_title": "湯姆叔叔的小屋",
+   "author": "Harriet Beecher Stowe",
+   "chapters": 45,
+   "words": 630,
+   "coverage": {
+    "A1": 77.4,
+    "A2": 85.3,
+    "B1": 90.6,
+    "B2": 93.3,
+    "C1": 93.7,
+    "C2": 93.9
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "美國",
+   "v": 1,
+   "ver": "7cea8890bc",
+   "size": 6551158,
+   "file": "packs/uncle-tom-s-cabin.json",
+   "updated": "2026-11-16"
+  },
+  {
    "id": "uncle-wiggily-in-the-woods",
    "title": "Uncle Wiggily in the Woods",
    "zh_title": "威格利叔叔在森林",
@@ -2841,6 +3057,30 @@
    "ver": "64da3e6e2a",
    "size": 2630719,
    "file": "packs/wisdom-of-father-brown.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "wuthering-heights",
+   "title": "Wuthering Heights",
+   "zh_title": "咆哮山莊",
+   "author": "Emily Brontë",
+   "chapters": 34,
+   "words": 476,
+   "coverage": {
+    "A1": 75.2,
+    "A2": 84.0,
+    "B1": 89.9,
+    "B2": 93.2,
+    "C1": 93.8,
+    "C2": 94.1
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "英國",
+   "v": 1,
+   "ver": "08a68bf7c3",
+   "size": 4394687,
+   "file": "packs/wuthering-heights.json",
    "updated": "2026-11-16"
   }
  ]
