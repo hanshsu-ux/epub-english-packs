@@ -496,6 +496,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "anne-s-house-of-dreams",
+   "title": "Anne's House of Dreams",
+   "zh_title": "清秀佳人 5：安妮的夢幻小屋",
+   "author": "L. M. Montgomery",
+   "chapters": 40,
+   "words": 560,
+   "coverage": {
+    "A1": 81.8,
+    "A2": 88.9,
+    "B1": 93.1,
+    "B2": 95.2,
+    "C1": 95.5,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "series": "清秀佳人",
+   "series_no": 5,
+   "v": 1,
+   "ver": "8e2ee01cb5",
+   "size": 3113850,
+   "file": "packs/anne-s-house-of-dreams.json",
+   "updated": "2026-11-16"
+  },
+  {
    "id": "ars-ne-lupin-versus-herlock-sholmes",
    "title": "Arsène Lupin versus Herlock Sholmes",
    "zh_title": "亞森・羅蘋對福爾摩斯",
@@ -572,6 +598,32 @@
    "size": 2735790,
    "file": "packs/beasts-of-tarzan.json",
    "updated": "2026-11-15"
+  },
+  {
+   "id": "ben-the-luggage-boy",
+   "title": "Ben, the Luggage Boy",
+   "zh_title": "搬行李的男孩班",
+   "author": "Horatio Alger",
+   "chapters": 26,
+   "words": 364,
+   "coverage": {
+    "A1": 81.0,
+    "A2": 89.2,
+    "B1": 94.3,
+    "B2": 96.3,
+    "C1": 96.5,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "衣衫襤褸的迪克",
+   "series_no": 5,
+   "v": 1,
+   "ver": "22415a48d9",
+   "size": 1976739,
+   "file": "packs/ben-the-luggage-boy.json",
+   "updated": "2026-11-16"
   },
   {
    "id": "billy-mink",
@@ -936,6 +988,32 @@
    "size": 2549430,
    "file": "packs/five-little-peppers-midway.json",
    "updated": "2026-11-15"
+  },
+  {
+   "id": "further-adventures-of-lad",
+   "title": "Further Adventures of Lad",
+   "zh_title": "萊德的新冒險",
+   "author": "Albert Payson Terhune",
+   "chapters": 11,
+   "words": 154,
+   "coverage": {
+    "A1": 72.2,
+    "A2": 80.9,
+    "B1": 87.1,
+    "B2": 90.6,
+    "C1": 91.2,
+    "C2": 91.6
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "萊德",
+   "series_no": 2,
+   "v": 1,
+   "ver": "e7ca47d2f1",
+   "size": 2684265,
+   "file": "packs/further-adventures-of-lad.json",
+   "updated": "2026-11-16"
   },
   {
    "id": "glinda-of-oz",
@@ -1328,6 +1406,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "mother-west-wind-s-animal-friends",
+   "title": "Mother West Wind's Animal Friends",
+   "zh_title": "西風媽媽的動物朋友",
+   "author": "Thornton W. Burgess",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 83.6,
+    "A2": 90.5,
+    "B1": 94.3,
+    "B2": 96.2,
+    "C1": 96.4,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "西風媽媽",
+   "series_no": 3,
+   "v": 1,
+   "ver": "312bd46620",
+   "size": 1021257,
+   "file": "packs/mother-west-wind-s-animal-friends.json",
+   "updated": "2026-11-16"
+  },
+  {
    "id": "mother-west-wind-s-children",
    "title": "Mother West Wind's Children",
    "zh_title": "西風媽媽的孩子們",
@@ -1352,6 +1456,84 @@
    "size": 1165923,
    "file": "packs/mother-west-wind-s-children.json",
    "updated": "2026-11-15"
+  },
+  {
+   "id": "mother-west-wind-when-stories",
+   "title": "Mother West Wind 'When' Stories",
+   "zh_title": "西風媽媽的「什麼時候」故事",
+   "author": "Thornton W. Burgess",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 85.3,
+    "A2": 92.7,
+    "B1": 96.1,
+    "B2": 97.5,
+    "C1": 97.7,
+    "C2": 97.8
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "西風媽媽",
+   "series_no": 7,
+   "v": 1,
+   "ver": "753ddcf1da",
+   "size": 1091478,
+   "file": "packs/mother-west-wind-when-stories.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "mother-west-wind-where-stories",
+   "title": "Mother West Wind 'Where' Stories",
+   "zh_title": "西風媽媽的「在哪裡」故事",
+   "author": "Thornton W. Burgess",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 84.9,
+    "A2": 92.5,
+    "B1": 96.1,
+    "B2": 97.7,
+    "C1": 97.8,
+    "C2": 97.9
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "西風媽媽",
+   "series_no": 8,
+   "v": 1,
+   "ver": "ec5ceabb84",
+   "size": 1159464,
+   "file": "packs/mother-west-wind-where-stories.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "mother-west-wind-why-stories",
+   "title": "Mother West Wind 'Why' Stories",
+   "zh_title": "西風媽媽的「為什麼」故事",
+   "author": "Thornton W. Burgess",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 85.7,
+    "A2": 92.2,
+    "B1": 95.4,
+    "B2": 97.3,
+    "C1": 97.4,
+    "C2": 97.5
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "西風媽媽",
+   "series_no": 5,
+   "v": 1,
+   "ver": "7bd39eea21",
+   "size": 1099710,
+   "file": "packs/mother-west-wind-why-stories.json",
+   "updated": "2026-11-16"
   },
   {
    "id": "mrs-peter-rabbit",
@@ -1666,6 +1848,32 @@
    "updated": "2026-11-15"
   },
   {
+   "id": "sammie-and-susie-littletail",
+   "title": "Sammie and Susie Littletail",
+   "zh_title": "小尾巴兔兄妹",
+   "author": "Howard R. Garis",
+   "chapters": 31,
+   "words": 428,
+   "coverage": {
+    "A1": 87.0,
+    "A2": 92.4,
+    "B1": 94.9,
+    "B2": 96.1,
+    "C1": 96.2,
+    "C2": 96.3
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "睡前故事",
+   "series_no": 1,
+   "v": 1,
+   "ver": "25705eaeb7",
+   "size": 1329976,
+   "file": "packs/sammie-and-susie-littletail.json",
+   "updated": "2026-11-16"
+  },
+  {
    "id": "scarecrow-of-oz",
    "title": "The Scarecrow of Oz",
    "zh_title": "奧茲國的稻草人",
@@ -1976,6 +2184,32 @@
    "size": 4236519,
    "file": "packs/teeth-of-the-tiger.json",
    "updated": "2026-11-15"
+  },
+  {
+   "id": "thief-in-the-night",
+   "title": "A Thief in the Night",
+   "zh_title": "夜之賊",
+   "author": "E. W. Hornung",
+   "chapters": 9,
+   "words": 126,
+   "coverage": {
+    "A1": 79.1,
+    "A2": 87.7,
+    "B1": 92.5,
+    "B2": 94.9,
+    "C1": 95.2,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "series": "萊佛士",
+   "series_no": 3,
+   "v": 1,
+   "ver": "fea6657e34",
+   "size": 2182223,
+   "file": "packs/thief-in-the-night.json",
+   "updated": "2026-11-16"
   },
   {
    "id": "tik-tok-of-oz",
@@ -2314,6 +2548,32 @@
    "size": 1077394,
    "file": "packs/whitefoot-the-wood-mouse.json",
    "updated": "2026-11-15"
+  },
+  {
+   "id": "wild-animals-i-have-known",
+   "title": "Wild Animals I Have Known",
+   "zh_title": "西頓動物記",
+   "author": "Ernest Thompson Seton",
+   "chapters": 8,
+   "words": 112,
+   "coverage": {
+    "A1": 74.4,
+    "A2": 83.8,
+    "B1": 89.7,
+    "B2": 92.8,
+    "C1": 93.2,
+    "C2": 93.5
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "西頓動物記",
+   "series_no": 1,
+   "v": 1,
+   "ver": "5efddbebcc",
+   "size": 1926587,
+   "file": "packs/wild-animals-i-have-known.json",
+   "updated": "2026-11-16"
   },
   {
    "id": "wisdom-of-father-brown",
