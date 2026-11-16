@@ -1162,6 +1162,30 @@
    "updated": "2026-11-16"
   },
   {
+   "id": "golden-age",
+   "title": "The Golden Age",
+   "zh_title": "黃金時代",
+   "author": "Kenneth Grahame",
+   "chapters": 18,
+   "words": 252,
+   "coverage": {
+    "A1": 73.3,
+    "A2": 82.4,
+    "B1": 88.6,
+    "B2": 91.7,
+    "C1": 92.3,
+    "C2": 92.6
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "英國",
+   "v": 1,
+   "ver": "fe149c119b",
+   "size": 1665161,
+   "file": "packs/golden-age.json",
+   "updated": "2026-11-16"
+  },
+  {
    "id": "golden-triangle",
    "title": "The Golden Triangle",
    "zh_title": "金三角",
@@ -1491,6 +1515,30 @@
    "ver": "291153cd03",
    "size": 2865926,
    "file": "packs/lad-a-dog.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "les-mis-rables",
+   "title": "Les Misérables",
+   "zh_title": "悲慘世界",
+   "author": "Victor Hugo",
+   "chapters": 365,
+   "words": 3373,
+   "coverage": {
+    "A1": 73.9,
+    "A2": 82.7,
+    "B1": 88.9,
+    "B2": 92.1,
+    "C1": 92.7,
+    "C2": 93.1
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "法國",
+   "v": 1,
+   "ver": "20fd65e1a5",
+   "size": 21900132,
+   "file": "packs/les-mis-rables.json",
    "updated": "2026-11-16"
   },
   {
@@ -2979,6 +3027,30 @@
    "ver": "750997382c",
    "size": 22665945,
    "file": "packs/war-and-peace.json",
+   "updated": "2026-11-16"
+  },
+  {
+   "id": "white-fang",
+   "title": "White Fang",
+   "zh_title": "白牙",
+   "author": "Jack London",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 74.2,
+    "A2": 82.9,
+    "B1": 88.9,
+    "B2": 92.8,
+    "C1": 93.3,
+    "C2": 93.6
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "v": 1,
+   "ver": "17272a32dc",
+   "size": 2876966,
+   "file": "packs/white-fang.json",
    "updated": "2026-11-16"
   },
   {
