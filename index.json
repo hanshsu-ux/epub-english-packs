@@ -470,6 +470,32 @@
    "updated": "2026-11-17"
   },
   {
+   "id": "adventures-of-tom-sawyer",
+   "title": "The Adventures of Tom Sawyer",
+   "zh_title": "湯姆歷險記",
+   "author": "Mark Twain",
+   "chapters": 35,
+   "words": 490,
+   "coverage": {
+    "A1": 77.5,
+    "A2": 85.9,
+    "B1": 91.0,
+    "B2": 93.8,
+    "C1": 94.2,
+    "C2": 94.4
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "湯姆歷險記",
+   "series_no": 1,
+   "v": 1,
+   "ver": "824c2dfe5f",
+   "size": 2920002,
+   "file": "packs/adventures-of-tom-sawyer.json",
+   "updated": "2026-11-17"
+  },
+  {
    "id": "adventures-of-unc-billy-possum",
    "title": "The Adventures of Unc' Billy Possum",
    "zh_title": "負鼠比利叔叔",
@@ -901,6 +927,32 @@
    "ver": "37e3404199",
    "size": 2460441,
    "file": "packs/crystal-stopper.json",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "deerslayer",
+   "title": "The Deerslayer",
+   "zh_title": "殺鹿人",
+   "author": "James Fenimore Cooper",
+   "chapters": 32,
+   "words": 448,
+   "coverage": {
+    "A1": 74.1,
+    "A2": 84.4,
+    "B1": 90.8,
+    "B2": 93.6,
+    "C1": 94.3,
+    "C2": 94.6
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "皮襪子故事",
+   "series_no": 1,
+   "v": 1,
+   "ver": "249b03d67c",
+   "size": 7684993,
+   "file": "packs/deerslayer.json",
    "updated": "2026-11-17"
   },
   {
@@ -1570,6 +1622,32 @@
    "updated": "2026-11-17"
   },
   {
+   "id": "last-of-the-mohicans",
+   "title": "The Last of the Mohicans",
+   "zh_title": "最後的摩希根人",
+   "author": "James Fenimore Cooper",
+   "chapters": 33,
+   "words": 462,
+   "coverage": {
+    "A1": 69.1,
+    "A2": 80.2,
+    "B1": 88.2,
+    "B2": 92.0,
+    "C1": 92.7,
+    "C2": 93.1
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "皮襪子故事",
+   "series_no": 2,
+   "v": 1,
+   "ver": "4fedadb047",
+   "size": 5895119,
+   "file": "packs/last-of-the-mohicans.json",
+   "updated": "2026-11-17"
+  },
+  {
    "id": "les-mis-rables",
    "title": "Les Misérables",
    "zh_title": "悲慘世界",
@@ -1825,6 +1903,32 @@
    "updated": "2026-11-17"
   },
   {
+   "id": "mcguffey-s-sixth-eclectic-reader",
+   "title": "McGuffey's Sixth Eclectic Reader",
+   "zh_title": "麥加菲讀本 6",
+   "author": "William Holmes McGuffey",
+   "chapters": 36,
+   "words": 504,
+   "coverage": {
+    "A1": 70.7,
+    "A2": 80.8,
+    "B1": 88.0,
+    "B2": 91.6,
+    "C1": 92.3,
+    "C2": 92.7
+   },
+   "refined": 0,
+   "genre": "讀本",
+   "country": "美國",
+   "series": "麥加菲讀本",
+   "series_no": 6,
+   "v": 1,
+   "ver": "c6b9208230",
+   "size": 4580346,
+   "file": "packs/mcguffey-s-sixth-eclectic-reader.json",
+   "updated": "2026-11-17"
+  },
+  {
    "id": "mcguffey-s-third-eclectic-reader",
    "title": "McGuffey's Third Eclectic Reader",
    "zh_title": "麥加菲讀本 3",
@@ -1900,6 +2004,32 @@
    "ver": "9121efbc50",
    "size": 3846574,
    "file": "packs/michael-brother-of-jerry.json",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "mike",
+   "title": "Mike",
+   "zh_title": "麥克",
+   "author": "P. G. Wodehouse",
+   "chapters": 59,
+   "words": 826,
+   "coverage": {
+    "A1": 79.2,
+    "A2": 87.7,
+    "B1": 92.6,
+    "B2": 94.9,
+    "C1": 95.3,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "series": "史密斯",
+   "series_no": 1,
+   "v": 1,
+   "ver": "70ef036b54",
+   "size": 4363434,
+   "file": "packs/mike.json",
    "updated": "2026-11-17"
   },
   {
@@ -2237,6 +2367,32 @@
    "updated": "2026-11-17"
   },
   {
+   "id": "pathfinder",
+   "title": "The Pathfinder",
+   "zh_title": "探路人",
+   "author": "James Fenimore Cooper",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 74.9,
+    "A2": 84.8,
+    "B1": 91.0,
+    "B2": 93.7,
+    "C1": 94.3,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "皮襪子故事",
+   "series_no": 3,
+   "v": 1,
+   "ver": "9d6ac01939",
+   "size": 6190608,
+   "file": "packs/pathfinder.json",
+   "updated": "2026-11-17"
+  },
+  {
    "id": "phronsie-pepper",
    "title": "Phronsie Pepper",
    "zh_title": "小胡椒芙朗西",
@@ -2260,6 +2416,58 @@
    "ver": "88093825c7",
    "size": 2695742,
    "file": "packs/phronsie-pepper.json",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "pioneers",
+   "title": "The Pioneers",
+   "zh_title": "拓荒者",
+   "author": "James Fenimore Cooper",
+   "chapters": 41,
+   "words": 574,
+   "coverage": {
+    "A1": 73.3,
+    "A2": 83.3,
+    "B1": 89.8,
+    "B2": 92.9,
+    "C1": 93.5,
+    "C2": 93.8
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "皮襪子故事",
+   "series_no": 4,
+   "v": 1,
+   "ver": "2e48fb7014",
+   "size": 6424552,
+   "file": "packs/pioneers.json",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "prairie",
+   "title": "The Prairie",
+   "zh_title": "大草原",
+   "author": "James Fenimore Cooper",
+   "chapters": 34,
+   "words": 476,
+   "coverage": {
+    "A1": 71.7,
+    "A2": 81.7,
+    "B1": 89.1,
+    "B2": 92.5,
+    "C1": 93.1,
+    "C2": 93.5
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "皮襪子故事",
+   "series_no": 5,
+   "v": 1,
+   "ver": "e48a760d64",
+   "size": 6345275,
+   "file": "packs/prairie.json",
    "updated": "2026-11-17"
   },
   {
@@ -2310,6 +2518,32 @@
    "ver": "d78357ff40",
    "size": 2184395,
    "file": "packs/princess-and-goblin.json",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "psmith-in-the-city",
+   "title": "Psmith in the City",
+   "zh_title": "史密斯在城裡",
+   "author": "P. G. Wodehouse",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 77.6,
+    "A2": 86.8,
+    "B1": 92.4,
+    "B2": 94.9,
+    "C1": 95.3,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "series": "史密斯",
+   "series_no": 2,
+   "v": 1,
+   "ver": "4009d7e36f",
+   "size": 2297953,
+   "file": "packs/psmith-in-the-city.json",
    "updated": "2026-11-17"
   },
   {
@@ -2978,6 +3212,32 @@
    "ver": "9d57b3f151",
    "size": 1807374,
    "file": "packs/tin-woodman-of-oz.json",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "tom-sawyer-abroad",
+   "title": "Tom Sawyer Abroad",
+   "zh_title": "湯姆歷險記：出國記",
+   "author": "Mark Twain",
+   "chapters": 13,
+   "words": 182,
+   "coverage": {
+    "A1": 83.4,
+    "A2": 89.8,
+    "B1": 93.6,
+    "B2": 95.2,
+    "C1": 95.3,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "湯姆歷險記",
+   "series_no": 3,
+   "v": 1,
+   "ver": "bb7b36cac0",
+   "size": 1201653,
+   "file": "packs/tom-sawyer-abroad.json",
    "updated": "2026-11-17"
   },
   {
