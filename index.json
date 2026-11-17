@@ -1444,6 +1444,32 @@
    "updated": "2026-11-17"
   },
   {
+   "id": "inimitable-jeeves",
+   "title": "The Inimitable Jeeves",
+   "zh_title": "無與倫比的吉夫斯",
+   "author": "P. G. Wodehouse",
+   "chapters": 18,
+   "words": 252,
+   "coverage": {
+    "A1": 80.1,
+    "A2": 87.8,
+    "B1": 92.2,
+    "B2": 94.3,
+    "C1": 94.6,
+    "C2": 94.8
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "series": "吉夫斯",
+   "series_no": 2,
+   "v": 1,
+   "ver": "eb3eb2332b",
+   "size": 2346867,
+   "file": "packs/inimitable-jeeves.json",
+   "updated": "2026-11-17"
+  },
+  {
    "id": "invisible-man",
    "title": "The Invisible Man",
    "zh_title": "隱形人",
@@ -1622,6 +1648,32 @@
    "updated": "2026-11-17"
   },
   {
+   "id": "land-of-mist",
+   "title": "The Land of Mist",
+   "zh_title": "迷霧之地",
+   "author": "Arthur Conan Doyle",
+   "chapters": 17,
+   "words": 238,
+   "coverage": {
+    "A1": 77.6,
+    "A2": 86.4,
+    "B1": 92.1,
+    "B2": 94.6,
+    "C1": 95.0,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "驚悚",
+   "country": "英國",
+   "series": "查林傑教授",
+   "series_no": 3,
+   "v": 1,
+   "ver": "dee6e22162",
+   "size": 2611453,
+   "file": "packs/land-of-mist.json",
+   "updated": "2026-11-17"
+  },
+  {
    "id": "last-of-the-mohicans",
    "title": "The Last of the Mohicans",
    "zh_title": "最後的摩希根人",
@@ -1645,6 +1697,32 @@
    "ver": "0b5ce50bff",
    "size": 5895087,
    "file": "packs/last-of-the-mohicans.json",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "leave-it-to-psmith",
+   "title": "Leave it to Psmith",
+   "zh_title": "交給史密斯吧",
+   "author": "P. G. Wodehouse",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 76.8,
+    "A2": 85.6,
+    "B1": 91.2,
+    "B2": 94.0,
+    "C1": 94.5,
+    "C2": 94.8
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "series": "史密斯",
+   "series_no": 4,
+   "v": 1,
+   "ver": "ba3fdf3e5f",
+   "size": 3084810,
+   "file": "packs/leave-it-to-psmith.json",
    "updated": "2026-11-17"
   },
   {
@@ -2189,6 +2267,32 @@
    "updated": "2026-11-17"
   },
   {
+   "id": "my-man-jeeves",
+   "title": "My Man Jeeves",
+   "zh_title": "萬能管家吉夫斯",
+   "author": "P. G. Wodehouse",
+   "chapters": 8,
+   "words": 112,
+   "coverage": {
+    "A1": 82.4,
+    "A2": 89.6,
+    "B1": 93.7,
+    "B2": 95.6,
+    "C1": 95.8,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "series": "吉夫斯",
+   "series_no": 1,
+   "v": 1,
+   "ver": "bb0470d057",
+   "size": 1611885,
+   "file": "packs/my-man-jeeves.json",
+   "updated": "2026-11-17"
+  },
+  {
    "id": "notes-from-the-underground",
    "title": "Notes from the Underground",
    "zh_title": "地下室手記",
@@ -2393,6 +2497,31 @@
    "updated": "2026-11-17"
   },
   {
+   "id": "peter-pan-in-kensington-gardens",
+   "title": "Peter Pan in Kensington Gardens",
+   "zh_title": "肯辛頓公園裡的彼得潘",
+   "author": "J. M. Barrie",
+   "chapters": 4,
+   "words": 56,
+   "coverage": {
+    "A1": 83.0,
+    "A2": 90.4,
+    "B1": 94.0,
+    "B2": 95.8,
+    "C1": 96.0,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "series": "彼得潘",
+   "v": 1,
+   "ver": "00b66525c6",
+   "size": 601893,
+   "file": "packs/peter-pan-in-kensington-gardens.json",
+   "updated": "2026-11-17"
+  },
+  {
    "id": "phronsie-pepper",
    "title": "Phronsie Pepper",
    "zh_title": "小胡椒芙朗西",
@@ -2547,6 +2676,32 @@
    "updated": "2026-11-17"
   },
   {
+   "id": "psmith-journalist",
+   "title": "Psmith, Journalist",
+   "zh_title": "記者史密斯",
+   "author": "P. G. Wodehouse",
+   "chapters": 29,
+   "words": 406,
+   "coverage": {
+    "A1": 77.0,
+    "A2": 86.1,
+    "B1": 91.5,
+    "B2": 94.2,
+    "C1": 94.6,
+    "C2": 94.8
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "series": "史密斯",
+   "series_no": 3,
+   "v": 1,
+   "ver": "396b214807",
+   "size": 2361281,
+   "file": "packs/psmith-journalist.json",
+   "updated": "2026-11-17"
+  },
+  {
    "id": "raffles-further-adventures-of-the-amateu",
    "title": "Raffles: Further Adventures of the Amateur Cracksman",
    "zh_title": "萊佛士續集",
@@ -2571,6 +2726,32 @@
    "size": 1865141,
    "file": "packs/raffles-further-adventures-of-the-amateu.json",
    "updated": "2026-11-16"
+  },
+  {
+   "id": "rainbow-trail",
+   "title": "The Rainbow Trail",
+   "zh_title": "彩虹小徑",
+   "author": "Zane Grey",
+   "chapters": 20,
+   "words": 280,
+   "coverage": {
+    "A1": 76.1,
+    "A2": 85.3,
+    "B1": 90.9,
+    "B2": 93.9,
+    "C1": 94.3,
+    "C2": 94.5
+   },
+   "refined": 0,
+   "genre": "西部",
+   "country": "美國",
+   "series": "紫艾草",
+   "series_no": 2,
+   "v": 1,
+   "ver": "901704369f",
+   "size": 3384134,
+   "file": "packs/rainbow-trail.json",
+   "updated": "2026-11-17"
   },
   {
    "id": "return-of-sherlock-holmes",
@@ -2802,6 +2983,32 @@
    "ver": "b293ce05b1",
    "size": 1618682,
    "file": "packs/sign-of-the-four.json",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "something-new",
+   "title": "Something New",
+   "zh_title": "新鮮事",
+   "author": "P. G. Wodehouse",
+   "chapters": 13,
+   "words": 182,
+   "coverage": {
+    "A1": 77.4,
+    "A2": 86.2,
+    "B1": 91.6,
+    "B2": 94.3,
+    "C1": 94.7,
+    "C2": 95.0
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "series": "布蘭丁斯城堡",
+   "series_no": 1,
+   "v": 1,
+   "ver": "4571957895",
+   "size": 2601244,
+   "file": "packs/something-new.json",
    "updated": "2026-11-17"
   },
   {
@@ -3161,6 +3368,58 @@
    "size": 2182903,
    "file": "packs/thief-in-the-night.json",
    "updated": "2026-11-16"
+  },
+  {
+   "id": "three-men-in-a-boat",
+   "title": "Three Men in a Boat",
+   "zh_title": "三人同舟",
+   "author": "Jerome K. Jerome",
+   "chapters": 19,
+   "words": 266,
+   "coverage": {
+    "A1": 80.3,
+    "A2": 88.7,
+    "B1": 93.3,
+    "B2": 95.3,
+    "C1": 95.6,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "series": "三人同舟",
+   "series_no": 1,
+   "v": 1,
+   "ver": "e8de01e7db",
+   "size": 2539444,
+   "file": "packs/three-men-in-a-boat.json",
+   "updated": "2026-11-17"
+  },
+  {
+   "id": "three-men-on-the-bummel",
+   "title": "Three Men on the Bummel",
+   "zh_title": "三人出遊記",
+   "author": "Jerome K. Jerome",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 78.5,
+    "A2": 87.9,
+    "B1": 93.1,
+    "B2": 95.3,
+    "C1": 95.6,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "series": "三人同舟",
+   "series_no": 2,
+   "v": 1,
+   "ver": "d37d8cf29b",
+   "size": 2389831,
+   "file": "packs/three-men-on-the-bummel.json",
+   "updated": "2026-11-17"
   },
   {
    "id": "tik-tok-of-oz",
