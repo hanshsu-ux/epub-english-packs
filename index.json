@@ -1228,6 +1228,30 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "fall-of-the-house-of-usher",
+   "title": "The Fall of the House of Usher",
+   "zh_title": "厄舍府的沒落",
+   "author": "Edgar Allan Poe",
+   "chapters": 3,
+   "words": 42,
+   "coverage": {
+    "A1": 65.9,
+    "A2": 76.8,
+    "B1": 84.6,
+    "B2": 88.9,
+    "C1": 89.6,
+    "C2": 90.1
+   },
+   "refined": 0,
+   "genre": "驚悚",
+   "country": "美國",
+   "v": 1,
+   "ver": "0dc40e5429",
+   "size": 329753,
+   "file": "packs/fall-of-the-house-of-usher.json",
+   "updated": "2026-11-18"
+  },
+  {
    "id": "fifty-famous-people",
    "title": "Fifty Famous People",
    "zh_title": "五十個名人",
