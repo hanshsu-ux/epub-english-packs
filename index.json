@@ -650,6 +650,32 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "allan-quatermain",
+   "title": "Allan Quatermain",
+   "zh_title": "艾倫・夸特曼",
+   "author": "H. Rider Haggard",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 75.2,
+    "A2": 85.1,
+    "B1": 91.0,
+    "B2": 93.7,
+    "C1": 94.1,
+    "C2": 94.3
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "夸特曼",
+   "series_no": 2,
+   "v": 1,
+   "ver": "e337ccd759",
+   "size": 3993073,
+   "file": "packs/allan-quatermain.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "anne-s-house-of-dreams",
    "title": "Anne's House of Dreams",
    "zh_title": "清秀佳人 5：安妮的夢幻小屋",
@@ -1236,6 +1262,32 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "clover",
+   "title": "Clover",
+   "zh_title": "克蘿弗",
+   "author": "Susan Coolidge",
+   "chapters": 11,
+   "words": 154,
+   "coverage": {
+    "A1": 80.0,
+    "A2": 88.4,
+    "B1": 93.3,
+    "B2": 95.3,
+    "C1": 95.7,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "凱蒂",
+   "series_no": 4,
+   "v": 1,
+   "ver": "281505c388",
+   "size": 1906392,
+   "file": "packs/clover.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "confessions-of-ars-ne-lupin",
    "title": "The Confessions of Arsène Lupin",
    "zh_title": "亞森・羅蘋的告白",
@@ -1486,6 +1538,32 @@
    "size": 640236,
    "file": "packs/dutch-twins.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "eight-cousins",
+   "title": "Eight Cousins",
+   "zh_title": "八個表兄弟",
+   "author": "Louisa May Alcott",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 80.0,
+    "A2": 87.6,
+    "B1": 92.3,
+    "B2": 94.8,
+    "C1": 95.1,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "八個表兄弟",
+   "series_no": 1,
+   "v": 1,
+   "ver": "84a2b61ce5",
+   "size": 2827561,
+   "file": "packs/eight-cousins.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "emerald-city-of-oz",
@@ -2076,6 +2154,32 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "in-the-high-valley",
+   "title": "In the High Valley",
+   "zh_title": "高山谷中",
+   "author": "Susan Coolidge",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 80.0,
+    "A2": 88.2,
+    "B1": 93.0,
+    "B2": 95.1,
+    "C1": 95.5,
+    "C2": 95.7
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "凱蒂",
+   "series_no": 5,
+   "v": 1,
+   "ver": "d74354bd91",
+   "size": 1793689,
+   "file": "packs/in-the-high-valley.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "inimitable-jeeves",
    "title": "The Inimitable Jeeves",
    "zh_title": "無與倫比的吉夫斯",
@@ -2330,6 +2434,32 @@
    "size": 2643533,
    "file": "packs/kazan.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "king-solomon-s-mines",
+   "title": "King Solomon's Mines",
+   "zh_title": "所羅門王的寶藏",
+   "author": "H. Rider Haggard",
+   "chapters": 20,
+   "words": 280,
+   "coverage": {
+    "A1": 76.0,
+    "A2": 85.7,
+    "B1": 91.4,
+    "B2": 94.0,
+    "C1": 94.4,
+    "C2": 94.6
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "夸特曼",
+   "series_no": 1,
+   "v": 1,
+   "ver": "a7e66cb78a",
+   "size": 3110720,
+   "file": "packs/king-solomon-s-mines.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "lad-a-dog",
@@ -3738,6 +3868,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "princess-and-curdie",
+   "title": "The Princess and Curdie",
+   "zh_title": "公主與柯迪",
+   "author": "George MacDonald",
+   "chapters": 35,
+   "words": 490,
+   "coverage": {
+    "A1": 80.8,
+    "A2": 89.1,
+    "B1": 93.4,
+    "B2": 95.5,
+    "C1": 95.7,
+    "C2": 95.9
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "series": "公主與哥布林",
+   "series_no": 2,
+   "v": 1,
+   "ver": "020734e30d",
+   "size": 2459871,
+   "file": "packs/princess-and-curdie.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "princess-and-goblin",
    "title": "The Princess and the Goblin",
    "zh_title": "公主與哥布林",
@@ -4019,6 +4175,32 @@
    "ver": "b68d92a3e1",
    "size": 4182843,
    "file": "packs/robinson-crusoe.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "rose-in-bloom",
+   "title": "Rose in Bloom",
+   "zh_title": "玫瑰盛開",
+   "author": "Louisa May Alcott",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 79.5,
+    "A2": 87.6,
+    "B1": 92.7,
+    "B2": 95.3,
+    "C1": 95.6,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "八個表兄弟",
+   "series_no": 2,
+   "v": 1,
+   "ver": "1cf67bd956",
+   "size": 3585119,
+   "file": "packs/rose-in-bloom.json",
    "updated": "2026-11-19"
   },
   {
@@ -5299,6 +5481,84 @@
    "ver": "4baba9d550",
    "size": 1921227,
    "file": "packs/water-babies.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "what-katy-did",
+   "title": "What Katy Did",
+   "zh_title": "凱蒂的故事",
+   "author": "Susan Coolidge",
+   "chapters": 13,
+   "words": 182,
+   "coverage": {
+    "A1": 83.3,
+    "A2": 90.6,
+    "B1": 94.3,
+    "B2": 96.2,
+    "C1": 96.4,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "凱蒂",
+   "series_no": 1,
+   "v": 1,
+   "ver": "694c89952a",
+   "size": 1764606,
+   "file": "packs/what-katy-did.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "what-katy-did-at-school",
+   "title": "What Katy Did at School",
+   "zh_title": "凱蒂上學記",
+   "author": "Susan Coolidge",
+   "chapters": 13,
+   "words": 182,
+   "coverage": {
+    "A1": 82.1,
+    "A2": 89.7,
+    "B1": 94.0,
+    "B2": 96.0,
+    "C1": 96.2,
+    "C2": 96.4
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "凱蒂",
+   "series_no": 2,
+   "v": 1,
+   "ver": "fc8ece0337",
+   "size": 1822556,
+   "file": "packs/what-katy-did-at-school.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "what-katy-did-next",
+   "title": "What Katy Did Next",
+   "zh_title": "凱蒂的後來",
+   "author": "Susan Coolidge",
+   "chapters": 11,
+   "words": 154,
+   "coverage": {
+    "A1": 79.2,
+    "A2": 87.7,
+    "B1": 92.5,
+    "B2": 94.9,
+    "C1": 95.2,
+    "C2": 95.3
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "凱蒂",
+   "series_no": 3,
+   "v": 1,
+   "ver": "77053aa1c8",
+   "size": 2097735,
+   "file": "packs/what-katy-did-next.json",
    "updated": "2026-11-19"
   },
   {
