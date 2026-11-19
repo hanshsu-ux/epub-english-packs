@@ -28,6 +28,32 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "adventures-of-bob-white",
+   "title": "The Adventures of Bob White",
+   "zh_title": "鵪鶉鮑伯",
+   "author": "Thornton W. Burgess",
+   "chapters": 22,
+   "words": 307,
+   "coverage": {
+    "A1": 85.4,
+    "A2": 92.6,
+    "B1": 96.0,
+    "B2": 98.1,
+    "C1": 98.2,
+    "C2": 98.2
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "伯吉斯睡前故事",
+   "series_no": 18,
+   "v": 1,
+   "ver": "2ea5b51931",
+   "size": 853230,
+   "file": "packs/adventures-of-bob-white.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "adventures-of-bobby-coon",
    "title": "The Adventures of Bobby Coon",
    "zh_title": "浣熊巴比",
@@ -182,6 +208,32 @@
    "size": 825425,
    "file": "packs/adventures-of-jerry-muskrat.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "adventures-of-jimmy-skunk",
+   "title": "The Adventures of Jimmy Skunk",
+   "zh_title": "臭鼬吉米",
+   "author": "Thornton W. Burgess",
+   "chapters": 23,
+   "words": 322,
+   "coverage": {
+    "A1": 84.1,
+    "A2": 91.2,
+    "B1": 95.1,
+    "B2": 96.9,
+    "C1": 97.0,
+    "C2": 97.0
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "伯吉斯睡前故事",
+   "series_no": 13,
+   "v": 1,
+   "ver": "0f5a718ab9",
+   "size": 867180,
+   "file": "packs/adventures-of-jimmy-skunk.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "adventures-of-johnny-chuck",
@@ -364,6 +416,32 @@
    "size": 863375,
    "file": "packs/adventures-of-peter-cottontail.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "adventures-of-poor-mrs-quack",
+   "title": "The Adventures of Poor Mrs. Quack",
+   "zh_title": "可憐的呱呱太太",
+   "author": "Thornton W. Burgess",
+   "chapters": 20,
+   "words": 277,
+   "coverage": {
+    "A1": 85.8,
+    "A2": 94.3,
+    "B1": 97.3,
+    "B2": 98.3,
+    "C1": 98.3,
+    "C2": 98.3
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "伯吉斯睡前故事",
+   "series_no": 17,
+   "v": 1,
+   "ver": "826bdddecd",
+   "size": 806208,
+   "file": "packs/adventures-of-poor-mrs-quack.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "adventures-of-prickly-porky",
@@ -724,6 +802,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "ben-pepper",
+   "title": "Ben Pepper",
+   "zh_title": "班・胡椒",
+   "author": "Margaret Sidney",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 82.0,
+    "A2": 88.4,
+    "B1": 92.6,
+    "B2": 94.6,
+    "C1": 94.9,
+    "C2": 95.0
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "五個小胡椒",
+   "series_no": 8,
+   "v": 1,
+   "ver": "e2f2445c99",
+   "size": 3155284,
+   "file": "packs/ben-pepper.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "ben-the-luggage-boy",
    "title": "Ben, the Luggage Boy",
    "zh_title": "搬行李的男孩班",
@@ -898,6 +1002,58 @@
    "size": 5319779,
    "file": "packs/bulfinch-s-mythology-the-age-of-fable.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "burgess-animal-book-for-children",
+   "title": "The Burgess Animal Book for Children",
+   "zh_title": "伯吉斯動物書",
+   "author": "Thornton W. Burgess",
+   "chapters": 40,
+   "words": 560,
+   "coverage": {
+    "A1": 84.0,
+    "A2": 91.2,
+    "B1": 95.4,
+    "B2": 97.3,
+    "C1": 97.4,
+    "C2": 97.5
+   },
+   "refined": 0,
+   "genre": "知識",
+   "country": "美國",
+   "series": "伯吉斯自然書",
+   "series_no": 2,
+   "v": 1,
+   "ver": "3ae37f5b23",
+   "size": 2904082,
+   "file": "packs/burgess-animal-book-for-children.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "burgess-bird-book-for-children",
+   "title": "The Burgess Bird Book for Children",
+   "zh_title": "伯吉斯鳥類書",
+   "author": "Thornton W. Burgess",
+   "chapters": 45,
+   "words": 630,
+   "coverage": {
+    "A1": 83.3,
+    "A2": 90.8,
+    "B1": 94.8,
+    "B2": 96.7,
+    "C1": 96.8,
+    "C2": 96.9
+   },
+   "refined": 0,
+   "genre": "知識",
+   "country": "美國",
+   "series": "伯吉斯自然書",
+   "series_no": 1,
+   "v": 1,
+   "ver": "d2c653af35",
+   "size": 2977584,
+   "file": "packs/burgess-bird-book-for-children.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "buster-bear-s-twins",
@@ -2020,6 +2176,32 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "just-patty",
+   "title": "Just Patty",
+   "zh_title": "佩蒂就是佩蒂",
+   "author": "Jean Webster",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 75.8,
+    "A2": 84.3,
+    "B1": 90.1,
+    "B2": 93.1,
+    "C1": 93.7,
+    "C2": 94.0
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "佩蒂",
+   "series_no": 1,
+   "v": 1,
+   "ver": "24752d16ca",
+   "size": 1840162,
+   "file": "packs/just-patty.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "kazan",
    "title": "Kazan",
    "zh_title": "狼犬卡讚",
@@ -2220,6 +2402,32 @@
    "size": 21997933,
    "file": "packs/les-mis-rables.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "little-joe-otter",
+   "title": "Little Joe Otter",
+   "zh_title": "小水獺喬",
+   "author": "Thornton W. Burgess",
+   "chapters": 34,
+   "words": 442,
+   "coverage": {
+    "A1": 85.3,
+    "A2": 92.4,
+    "B1": 95.8,
+    "B2": 97.1,
+    "C1": 97.6,
+    "C2": 97.6
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "伯吉斯動物故事",
+   "series_no": 7,
+   "v": 1,
+   "ver": "7a086b9ce7",
+   "size": 1165687,
+   "file": "packs/little-joe-otter.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "lost-prince",
@@ -3093,6 +3301,32 @@
    "size": 6218702,
    "file": "packs/pathfinder.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "patty-fairfield",
+   "title": "Patty Fairfield",
+   "zh_title": "佩蒂・費爾菲德",
+   "author": "Carolyn Wells",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 82.4,
+    "A2": 89.4,
+    "B1": 93.6,
+    "B2": 95.5,
+    "C1": 95.7,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "佩蒂・費爾菲德",
+   "series_no": 1,
+   "v": 1,
+   "ver": "0c4fa2d5a1",
+   "size": 1782883,
+   "file": "packs/patty-fairfield.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "peter-pan-in-kensington-gardens",
@@ -4805,6 +5039,32 @@
    "ver": "4baba9d550",
    "size": 1921227,
    "file": "packs/water-babies.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "when-patty-went-to-college",
+   "title": "When Patty Went to College",
+   "zh_title": "佩蒂上大學",
+   "author": "Jean Webster",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 79.8,
+    "A2": 87.4,
+    "B1": 92.7,
+    "B2": 95.2,
+    "C1": 95.6,
+    "C2": 95.9
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "佩蒂",
+   "series_no": 2,
+   "v": 1,
+   "ver": "40b0ef6c5f",
+   "size": 1442838,
+   "file": "packs/when-patty-went-to-college.json",
    "updated": "2026-11-19"
   },
   {
