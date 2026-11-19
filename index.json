@@ -676,6 +676,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "allan-s-wife",
+   "title": "Allan's Wife",
+   "zh_title": "艾倫的妻子",
+   "author": "H. Rider Haggard",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 78.8,
+    "A2": 88.0,
+    "B1": 93.1,
+    "B2": 95.3,
+    "C1": 95.5,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "夸特曼",
+   "series_no": 3,
+   "v": 1,
+   "ver": "0d7d064406",
+   "size": 1922891,
+   "file": "packs/allan-s-wife.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "anne-s-house-of-dreams",
    "title": "Anne's House of Dreams",
    "zh_title": "清秀佳人 5：安妮的夢幻小屋",
@@ -799,6 +825,32 @@
    "ver": "9bca6d3481",
    "size": 2037256,
    "file": "packs/at-the-earth-s-core.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "ayesha-the-return-of-she",
+   "title": "Ayesha: The Return of She",
+   "zh_title": "她的歸來",
+   "author": "H. Rider Haggard",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 74.3,
+    "A2": 84.6,
+    "B1": 90.5,
+    "B2": 93.2,
+    "C1": 93.5,
+    "C2": 93.8
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "她",
+   "series_no": 2,
+   "v": 1,
+   "ver": "796e16f4a4",
+   "size": 4085537,
+   "file": "packs/ayesha-the-return-of-she.json",
    "updated": "2026-11-19"
   },
   {
@@ -2436,6 +2488,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "kenilworth",
+   "title": "Kenilworth",
+   "zh_title": "肯納爾沃思堡",
+   "author": "Walter Scott",
+   "chapters": 41,
+   "words": 574,
+   "coverage": {
+    "A1": 71.1,
+    "A2": 80.8,
+    "B1": 87.3,
+    "B2": 90.9,
+    "C1": 91.4,
+    "C2": 91.8
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "威佛利小說",
+   "series_no": 4,
+   "v": 1,
+   "ver": "36f26b08da",
+   "size": 6653781,
+   "file": "packs/kenilworth.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "king-solomon-s-mines",
    "title": "King Solomon's Mines",
    "zh_title": "所羅門王的寶藏",
@@ -3485,6 +3563,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "oswald-bastable-and-others",
+   "title": "Oswald Bastable and Others",
+   "zh_title": "奧斯華・巴斯塔布等故事",
+   "author": "E. Nesbit",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 84.0,
+    "A2": 90.6,
+    "B1": 94.3,
+    "B2": 95.8,
+    "C1": 96.0,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "英國",
+   "series": "尋寶的孩子們",
+   "series_no": 4,
+   "v": 1,
+   "ver": "8f0b8bec8f",
+   "size": 2407052,
+   "file": "packs/oswald-bastable-and-others.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "ozma-of-oz",
    "title": "Ozma of Oz",
    "zh_title": "奧茲國的奧茲瑪",
@@ -4332,6 +4436,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "she",
+   "title": "She",
+   "zh_title": "她",
+   "author": "H. Rider Haggard",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 74.8,
+    "A2": 85.0,
+    "B1": 90.4,
+    "B2": 93.3,
+    "C1": 93.6,
+    "C2": 93.8
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "她",
+   "series_no": 1,
+   "v": 1,
+   "ver": "872355fcd5",
+   "size": 4170799,
+   "file": "packs/she.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "sign-of-the-four",
    "title": "The Sign of the Four",
    "zh_title": "四簽名",
@@ -4564,6 +4694,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "story-of-the-treasure-seekers",
+   "title": "The Story of the Treasure Seekers",
+   "zh_title": "尋寶的孩子們",
+   "author": "E. Nesbit",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 85.7,
+    "A2": 92.0,
+    "B1": 95.2,
+    "B2": 96.5,
+    "C1": 96.6,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "英國",
+   "series": "尋寶的孩子們",
+   "series_no": 1,
+   "v": 1,
+   "ver": "25a0e83453",
+   "size": 1783513,
+   "file": "packs/story-of-the-treasure-seekers.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "study-in-scarlet",
    "title": "A Study in Scarlet",
    "zh_title": "血字的研究",
@@ -4685,6 +4841,32 @@
    "ver": "25c1052de8",
    "size": 3744615,
    "file": "packs/tales-from-shakespeare.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "talisman",
+   "title": "The Talisman",
+   "zh_title": "護身符",
+   "author": "Walter Scott",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 67.9,
+    "A2": 78.0,
+    "B1": 85.5,
+    "B2": 89.5,
+    "C1": 90.1,
+    "C2": 90.6
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "威佛利小說",
+   "series_no": 3,
+   "v": 1,
+   "ver": "bd5dc6bb35",
+   "size": 4776185,
+   "file": "packs/talisman.json",
    "updated": "2026-11-19"
   },
   {
@@ -5256,6 +5438,58 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "uncle-wiggily-s-adventures",
+   "title": "Uncle Wiggily's Adventures",
+   "zh_title": "威格利叔叔歷險記",
+   "author": "Howard R. Garis",
+   "chapters": 31,
+   "words": 422,
+   "coverage": {
+    "A1": 85.4,
+    "A2": 91.1,
+    "B1": 94.6,
+    "B2": 96.3,
+    "C1": 96.5,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "美國",
+   "series": "威格利叔叔",
+   "series_no": 1,
+   "v": 1,
+   "ver": "0d75c65157",
+   "size": 1676846,
+   "file": "packs/uncle-wiggily-s-adventures.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "uncle-wiggily-s-airship",
+   "title": "Uncle Wiggily's Airship",
+   "zh_title": "威格利叔叔的飛船",
+   "author": "Howard R. Garis",
+   "chapters": 31,
+   "words": 433,
+   "coverage": {
+    "A1": 82.9,
+    "A2": 89.6,
+    "B1": 93.3,
+    "B2": 95.3,
+    "C1": 95.4,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "威格利叔叔",
+   "series_no": 4,
+   "v": 1,
+   "ver": "440a7c247b",
+   "size": 1611404,
+   "file": "packs/uncle-wiggily-s-airship.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "uncle-wiggily-s-automobile",
    "title": "Uncle Wiggily's Automobile",
    "zh_title": "威格利叔叔的汽車",
@@ -5687,6 +5921,32 @@
    "ver": "75064669c9",
    "size": 2642178,
    "file": "packs/wisdom-of-father-brown.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "wouldbegoods",
+   "title": "The Wouldbegoods",
+   "zh_title": "想當好孩子的孩子們",
+   "author": "E. Nesbit",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 82.8,
+    "A2": 89.8,
+    "B1": 93.8,
+    "B2": 95.6,
+    "C1": 95.8,
+    "C2": 95.9
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "英國",
+   "series": "尋寶的孩子們",
+   "series_no": 2,
+   "v": 1,
+   "ver": "4043a4f9e6",
+   "size": 2580092,
+   "file": "packs/wouldbegoods.json",
    "updated": "2026-11-19"
   },
   {
