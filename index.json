@@ -158,6 +158,32 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "adventures-of-gerard",
+   "title": "The Adventures of Gerard",
+   "zh_title": "傑拉德歷險記",
+   "author": "Arthur Conan Doyle",
+   "chapters": 9,
+   "words": 126,
+   "coverage": {
+    "A1": 78.8,
+    "A2": 87.7,
+    "B1": 92.6,
+    "B2": 95.0,
+    "C1": 95.2,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "傑拉德准將",
+   "series_no": 2,
+   "v": 1,
+   "ver": "a8016d7b24",
+   "size": 2257079,
+   "file": "packs/adventures-of-gerard.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "adventures-of-grandfather-frog",
    "title": "The Adventures of Grandfather Frog",
    "zh_title": "青蛙爺爺",
@@ -724,6 +750,32 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "at-the-earth-s-core",
+   "title": "At the Earth's Core",
+   "zh_title": "地心世界",
+   "author": "Edgar Rice Burroughs",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 73.4,
+    "A2": 84.3,
+    "B1": 91.5,
+    "B2": 94.4,
+    "C1": 94.8,
+    "C2": 95.0
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "佩魯西達",
+   "series_no": 1,
+   "v": 1,
+   "ver": "7e853758ac",
+   "size": 2038075,
+   "file": "packs/at-the-earth-s-core.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "baree-son-of-kazan",
    "title": "Baree, Son of Kazan",
    "zh_title": "卡讚之子巴瑞",
@@ -876,6 +928,32 @@
    "size": 6193306,
    "file": "packs/betrothed.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "betty-zane",
+   "title": "Betty Zane",
+   "zh_title": "貝蒂・贊恩",
+   "author": "Zane Grey",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 77.4,
+    "A2": 85.9,
+    "B1": 91.3,
+    "B2": 94.1,
+    "C1": 94.5,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "西部",
+   "country": "美國",
+   "series": "俄亥俄河三部曲",
+   "series_no": 1,
+   "v": 1,
+   "ver": "d917b908e1",
+   "size": 3433651,
+   "file": "packs/betty-zane.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "billy-mink",
@@ -1459,6 +1537,32 @@
    "ver": "cf7991463c",
    "size": 803820,
    "file": "packs/eskimo-twins.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "exploits-of-brigadier-gerard",
+   "title": "The Exploits of Brigadier Gerard",
+   "zh_title": "傑拉德准將的功績",
+   "author": "Arthur Conan Doyle",
+   "chapters": 8,
+   "words": 112,
+   "coverage": {
+    "A1": 79.7,
+    "A2": 88.3,
+    "B1": 92.7,
+    "B2": 94.9,
+    "C1": 95.1,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "傑拉德准將",
+   "series_no": 1,
+   "v": 1,
+   "ver": "dd6cdda3b2",
+   "size": 2515293,
+   "file": "packs/exploits-of-brigadier-gerard.json",
    "updated": "2026-11-19"
   },
   {
@@ -2304,6 +2408,32 @@
    "size": 5912770,
    "file": "packs/last-of-the-mohicans.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "last-trail",
+   "title": "The Last Trail",
+   "zh_title": "最後的小徑",
+   "author": "Zane Grey",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 72.7,
+    "A2": 82.2,
+    "B1": 88.7,
+    "B2": 91.9,
+    "C1": 92.4,
+    "C2": 92.6
+   },
+   "refined": 0,
+   "genre": "西部",
+   "country": "美國",
+   "series": "俄亥俄河三部曲",
+   "series_no": 3,
+   "v": 1,
+   "ver": "5acbdd4d36",
+   "size": 2835752,
+   "file": "packs/last-trail.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "le-morte-d-arthur",
@@ -3303,6 +3433,32 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "patty-at-home",
+   "title": "Patty at Home",
+   "zh_title": "佩蒂在家",
+   "author": "Carolyn Wells",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 82.2,
+    "A2": 89.5,
+    "B1": 93.6,
+    "B2": 95.6,
+    "C1": 95.9,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "佩蒂・費爾菲德",
+   "series_no": 2,
+   "v": 1,
+   "ver": "685f189226",
+   "size": 1872244,
+   "file": "packs/patty-at-home.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "patty-fairfield",
    "title": "Patty Fairfield",
    "zh_title": "佩蒂・費爾菲德",
@@ -3326,6 +3482,84 @@
    "ver": "0c4fa2d5a1",
    "size": 1782883,
    "file": "packs/patty-fairfield.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "patty-in-the-city",
+   "title": "Patty in the City",
+   "zh_title": "佩蒂在城裡",
+   "author": "Carolyn Wells",
+   "chapters": 23,
+   "words": 322,
+   "coverage": {
+    "A1": 82.5,
+    "A2": 90.1,
+    "B1": 94.4,
+    "B2": 96.2,
+    "C1": 96.5,
+    "C2": 96.7
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "佩蒂・費爾菲德",
+   "series_no": 3,
+   "v": 1,
+   "ver": "9ef19e410b",
+   "size": 2066225,
+   "file": "packs/patty-in-the-city.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "patty-s-summer-days",
+   "title": "Patty's Summer Days",
+   "zh_title": "佩蒂的夏日",
+   "author": "Carolyn Wells",
+   "chapters": 23,
+   "words": 322,
+   "coverage": {
+    "A1": 80.7,
+    "A2": 89.1,
+    "B1": 93.7,
+    "B2": 95.6,
+    "C1": 96.0,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "佩蒂・費爾菲德",
+   "series_no": 4,
+   "v": 1,
+   "ver": "c428ed7865",
+   "size": 2290532,
+   "file": "packs/patty-s-summer-days.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "pellucidar",
+   "title": "Pellucidar",
+   "zh_title": "佩魯西達",
+   "author": "Edgar Rice Burroughs",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 73.5,
+    "A2": 84.2,
+    "B1": 91.2,
+    "B2": 93.9,
+    "C1": 94.4,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "佩魯西達",
+   "series_no": 2,
+   "v": 1,
+   "ver": "9dbd8d9079",
+   "size": 2244681,
+   "file": "packs/pellucidar.json",
    "updated": "2026-11-19"
   },
   {
@@ -4041,6 +4275,32 @@
    "ver": "77b6bbce74",
    "size": 741901,
    "file": "packs/spartan-twins.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "spirit-of-the-border",
+   "title": "The Spirit of the Border",
+   "zh_title": "邊境之魂",
+   "author": "Zane Grey",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 72.4,
+    "A2": 81.9,
+    "B1": 88.4,
+    "B2": 91.8,
+    "C1": 92.3,
+    "C2": 92.7
+   },
+   "refined": 0,
+   "genre": "西部",
+   "country": "美國",
+   "series": "俄亥俄河三部曲",
+   "series_no": 2,
+   "v": 1,
+   "ver": "50d43ca46e",
+   "size": 3490602,
+   "file": "packs/spirit-of-the-border.json",
    "updated": "2026-11-19"
   },
   {
