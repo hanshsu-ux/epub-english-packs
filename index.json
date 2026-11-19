@@ -952,6 +952,32 @@
    "updated": "2026-11-18"
   },
   {
+   "id": "cave-twins",
+   "title": "The Cave Twins",
+   "zh_title": "穴居雙胞胎",
+   "author": "Lucy Fitch Perkins",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 82.8,
+    "A2": 90.9,
+    "B1": 95.2,
+    "B2": 97.0,
+    "C1": 97.2,
+    "C2": 97.2
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "美國",
+   "series": "世界雙胞胎",
+   "series_no": 14,
+   "v": 1,
+   "ver": "1485c780a2",
+   "size": 842119,
+   "file": "packs/cave-twins.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "circular-staircase",
    "title": "The Circular Staircase",
    "zh_title": "旋轉樓梯",
@@ -1380,6 +1406,58 @@
    "size": 2555789,
    "file": "packs/five-little-peppers-and-how-they-grew.json",
    "updated": "2026-11-18"
+  },
+  {
+   "id": "five-little-peppers-and-their-friends",
+   "title": "Five Little Peppers and their Friends",
+   "zh_title": "五個小胡椒和朋友們",
+   "author": "Margaret Sidney",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 81.6,
+    "A2": 88.1,
+    "B1": 92.5,
+    "B2": 94.5,
+    "C1": 94.9,
+    "C2": 95.1
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "五個小胡椒",
+   "series_no": 7,
+   "v": 1,
+   "ver": "c24bbbd098",
+   "size": 3161188,
+   "file": "packs/five-little-peppers-and-their-friends.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "five-little-peppers-at-school",
+   "title": "Five Little Peppers at School",
+   "zh_title": "五個小胡椒上學記",
+   "author": "Margaret Sidney",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 81.6,
+    "A2": 88.4,
+    "B1": 92.7,
+    "B2": 94.9,
+    "C1": 95.1,
+    "C2": 95.3
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "五個小胡椒",
+   "series_no": 6,
+   "v": 1,
+   "ver": "a4298ce613",
+   "size": 3037525,
+   "file": "packs/five-little-peppers-at-school.json",
+   "updated": "2026-11-19"
   },
   {
    "id": "five-little-peppers-grown-up",
@@ -1811,6 +1889,32 @@
    "ver": "a3c769b600",
    "size": 914983,
    "file": "packs/irish-twins.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "italian-twins",
+   "title": "The Italian Twins",
+   "zh_title": "義大利雙胞胎",
+   "author": "Lucy Fitch Perkins",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 79.9,
+    "A2": 88.1,
+    "B1": 92.9,
+    "B2": 95.4,
+    "C1": 95.8,
+    "C2": 95.9
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "世界雙胞胎",
+   "series_no": 10,
+   "v": 1,
+   "ver": "69ecce84ac",
+   "size": 818457,
+   "file": "packs/italian-twins.json",
    "updated": "2026-11-19"
   },
   {
@@ -3244,6 +3348,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "puritan-twins",
+   "title": "The Puritan Twins",
+   "zh_title": "清教徒雙胞胎",
+   "author": "Lucy Fitch Perkins",
+   "chapters": 6,
+   "words": 84,
+   "coverage": {
+    "A1": 76.7,
+    "A2": 85.2,
+    "B1": 90.4,
+    "B2": 93.1,
+    "C1": 93.3,
+    "C2": 93.5
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "美國",
+   "series": "世界雙胞胎",
+   "series_no": 13,
+   "v": 1,
+   "ver": "c49130fb79",
+   "size": 949607,
+   "file": "packs/puritan-twins.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "raffles-further-adventures-of-the-amateu",
    "title": "Raffles: Further Adventures of the Amateur Cracksman",
    "zh_title": "萊佛士續集",
@@ -3476,6 +3606,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "scotch-twins",
+   "title": "The Scotch Twins",
+   "zh_title": "蘇格蘭雙胞胎",
+   "author": "Lucy Fitch Perkins",
+   "chapters": 13,
+   "words": 182,
+   "coverage": {
+    "A1": 80.4,
+    "A2": 88.7,
+    "B1": 92.9,
+    "B2": 95.0,
+    "C1": 95.3,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "世界雙胞胎",
+   "series_no": 9,
+   "v": 1,
+   "ver": "7cfedded61",
+   "size": 1211763,
+   "file": "packs/scotch-twins.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "second-jungle-book",
    "title": "The Second Jungle Book",
    "zh_title": "叢林奇譚 2",
@@ -3628,6 +3784,58 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "spartan-twins",
+   "title": "The Spartan Twins",
+   "zh_title": "斯巴達雙胞胎",
+   "author": "Lucy Fitch Perkins",
+   "chapters": 7,
+   "words": 98,
+   "coverage": {
+    "A1": 81.3,
+    "A2": 89.4,
+    "B1": 93.5,
+    "B2": 95.4,
+    "C1": 95.7,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "美國",
+   "series": "世界雙胞胎",
+   "series_no": 8,
+   "v": 1,
+   "ver": "77b6bbce74",
+   "size": 741901,
+   "file": "packs/spartan-twins.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "stories-polly-pepper-told",
+   "title": "The Stories Polly Pepper Told",
+   "zh_title": "波莉・胡椒說的故事",
+   "author": "Margaret Sidney",
+   "chapters": 26,
+   "words": 364,
+   "coverage": {
+    "A1": 84.5,
+    "A2": 90.1,
+    "B1": 93.6,
+    "B2": 95.4,
+    "C1": 95.6,
+    "C2": 95.7
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "五個小胡椒",
+   "series_no": 5,
+   "v": 1,
+   "ver": "05d9cde65f",
+   "size": 2888092,
+   "file": "packs/stories-polly-pepper-told.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "story-of-doctor-dolittle",
    "title": "The Story of Doctor Dolittle",
    "zh_title": "杜立德醫生",
@@ -3727,6 +3935,32 @@
    "ver": "e64b92e162",
    "size": 1106747,
    "file": "packs/swiss-family-robinson.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "swiss-twins",
+   "title": "The Swiss Twins",
+   "zh_title": "瑞士雙胞胎",
+   "author": "Lucy Fitch Perkins",
+   "chapters": 6,
+   "words": 84,
+   "coverage": {
+    "A1": 80.2,
+    "A2": 89.0,
+    "B1": 93.4,
+    "B2": 96.0,
+    "C1": 96.2,
+    "C2": 96.4
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "世界雙胞胎",
+   "series_no": 11,
+   "v": 1,
+   "ver": "024fc56543",
+   "size": 691175,
+   "file": "packs/swiss-twins.json",
    "updated": "2026-11-19"
   },
   {
@@ -3931,6 +4165,32 @@
    "ver": "baca5d573b",
    "size": 4265875,
    "file": "packs/teeth-of-the-tiger.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "ten-years-later",
+   "title": "Ten Years Later",
+   "zh_title": "十年後",
+   "author": "Alexandre Dumas",
+   "chapters": 65,
+   "words": 910,
+   "coverage": {
+    "A1": 74.7,
+    "A2": 85.0,
+    "B1": 91.0,
+    "B2": 93.9,
+    "C1": 94.3,
+    "C2": 94.6
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "法國",
+   "series": "三劍客",
+   "series_no": 4,
+   "v": 1,
+   "ver": "911fb80c29",
+   "size": 6796373,
+   "file": "packs/ten-years-later.json",
    "updated": "2026-11-19"
   },
   {
