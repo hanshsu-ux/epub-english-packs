@@ -2158,6 +2158,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "house-at-pooh-corner",
+   "title": "The House at Pooh Corner",
+   "zh_title": "小熊維尼：維尼角的家",
+   "author": "A. A. Milne",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 87.9,
+    "A2": 93.5,
+    "B1": 96.2,
+    "B2": 97.2,
+    "C1": 97.3,
+    "C2": 97.3
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "series": "小熊維尼",
+   "series_no": 2,
+   "v": 1,
+   "ver": "94020546dd",
+   "size": 836166,
+   "file": "packs/house-at-pooh-corner.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "iliad",
    "title": "The Iliad",
    "zh_title": "伊利亞德",
@@ -2179,6 +2205,31 @@
    "ver": "c6ad2bc57e",
    "size": 5232818,
    "file": "packs/iliad.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "in-search-of-the-castaways",
+   "title": "In Search of the Castaways",
+   "zh_title": "格蘭特船長的兒女",
+   "author": "Jules Verne",
+   "chapters": 66,
+   "words": 924,
+   "coverage": {
+    "A1": 72.8,
+    "A2": 83.5,
+    "B1": 90.4,
+    "B2": 93.7,
+    "C1": 94.3,
+    "C2": 94.5
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "法國",
+   "series": "尼莫船長",
+   "v": 1,
+   "ver": "71c942c1e2",
+   "size": 6433216,
+   "file": "packs/in-search-of-the-castaways.json",
    "updated": "2026-11-19"
   },
   {
@@ -2433,6 +2484,32 @@
    "ver": "a27ec7c946",
    "size": 2903898,
    "file": "packs/jerry-of-the-islands.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "jo-s-boys",
+   "title": "Jo's Boys",
+   "zh_title": "喬的男孩們",
+   "author": "Louisa May Alcott",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 78.5,
+    "A2": 86.7,
+    "B1": 92.1,
+    "B2": 94.8,
+    "C1": 95.3,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "小婦人",
+   "series_no": 4,
+   "v": 1,
+   "ver": "ad0ea5ea1e",
+   "size": 3799721,
+   "file": "packs/jo-s-boys.json",
    "updated": "2026-11-19"
   },
   {
@@ -2947,6 +3024,32 @@
    "ver": "33a9d35ad0",
    "size": 1165768,
    "file": "packs/little-joe-otter.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "little-men",
+   "title": "Little Men",
+   "zh_title": "小男人",
+   "author": "Louisa May Alcott",
+   "chapters": 21,
+   "words": 294,
+   "coverage": {
+    "A1": 80.9,
+    "A2": 88.5,
+    "B1": 93.1,
+    "B2": 95.5,
+    "C1": 95.8,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "小婦人",
+   "series_no": 3,
+   "v": 1,
+   "ver": "c46c641313",
+   "size": 3806199,
+   "file": "packs/little-men.json",
    "updated": "2026-11-19"
   },
   {
@@ -3642,6 +3745,32 @@
    "ver": "fa68dfa328",
    "size": 1621920,
    "file": "packs/my-man-jeeves.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "mysterious-island",
+   "title": "The Mysterious Island",
+   "zh_title": "神祕島",
+   "author": "Jules Verne",
+   "chapters": 62,
+   "words": 868,
+   "coverage": {
+    "A1": 72.7,
+    "A2": 83.7,
+    "B1": 91.0,
+    "B2": 94.1,
+    "C1": 94.7,
+    "C2": 95.0
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "法國",
+   "series": "尼莫船長",
+   "series_no": 2,
+   "v": 1,
+   "ver": "663a0efdef",
+   "size": 7792148,
+   "file": "packs/mysterious-island.json",
    "updated": "2026-11-19"
   },
   {
@@ -4362,6 +4491,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "raggedy-ann-stories",
+   "title": "Raggedy Ann Stories",
+   "zh_title": "布娃娃安妮",
+   "author": "Johnny Gruelle",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 84.0,
+    "A2": 90.7,
+    "B1": 94.1,
+    "B2": 96.0,
+    "C1": 96.2,
+    "C2": 96.3
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "美國",
+   "series": "布娃娃",
+   "series_no": 1,
+   "v": 1,
+   "ver": "f4cd516002",
+   "size": 699783,
+   "file": "packs/raggedy-ann-stories.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "rainbow-trail",
    "title": "The Rainbow Trail",
    "zh_title": "彩虹小徑",
@@ -4646,6 +4801,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "sea-fairies",
+   "title": "The Sea Fairies",
+   "zh_title": "海中仙子",
+   "author": "L. Frank Baum",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 77.3,
+    "A2": 86.9,
+    "B1": 92.4,
+    "B2": 94.9,
+    "C1": 95.1,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "小崔特",
+   "series_no": 1,
+   "v": 1,
+   "ver": "1dd8fc63c1",
+   "size": 1756127,
+   "file": "packs/sea-fairies.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "second-jungle-book",
    "title": "The Second Jungle Book",
    "zh_title": "叢林奇譚 2",
@@ -4745,6 +4926,32 @@
    "ver": "270efc5639",
    "size": 1622086,
    "file": "packs/sign-of-the-four.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "sky-island",
+   "title": "Sky Island",
+   "zh_title": "天空島",
+   "author": "L. Frank Baum",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 79.9,
+    "A2": 88.6,
+    "B1": 93.3,
+    "B2": 95.8,
+    "C1": 96.1,
+    "C2": 96.2
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "美國",
+   "series": "小崔特",
+   "series_no": 2,
+   "v": 1,
+   "ver": "4351a7ab59",
+   "size": 2287066,
+   "file": "packs/sky-island.json",
    "updated": "2026-11-19"
   },
   {
@@ -5622,6 +5829,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "twenty-thousand-leagues-under-the-sea",
+   "title": "Twenty Thousand Leagues under the Sea",
+   "zh_title": "海底兩萬里",
+   "author": "Jules Verne",
+   "chapters": 46,
+   "words": 644,
+   "coverage": {
+    "A1": 72.4,
+    "A2": 82.8,
+    "B1": 90.3,
+    "B2": 93.5,
+    "C1": 94.1,
+    "C2": 94.4
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "法國",
+   "series": "尼莫船長",
+   "series_no": 1,
+   "v": 1,
+   "ver": "c16109d09d",
+   "size": 4356539,
+   "file": "packs/twenty-thousand-leagues-under-the-sea.json",
+   "updated": "2026-11-19"
+  },
+  {
    "id": "twenty-years-after",
    "title": "Twenty Years After",
    "zh_title": "二十年後",
@@ -6155,6 +6388,32 @@
    "ver": "408f8dd2ce",
    "size": 1935804,
    "file": "packs/wild-animals-i-have-known.json",
+   "updated": "2026-11-19"
+  },
+  {
+   "id": "winnie-the-pooh",
+   "title": "Winnie-the-Pooh",
+   "zh_title": "小熊維尼",
+   "author": "A. A. Milne",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 87.2,
+    "A2": 93.5,
+    "B1": 96.3,
+    "B2": 97.5,
+    "C1": 97.6,
+    "C2": 97.6
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "series": "小熊維尼",
+   "series_no": 1,
+   "v": 1,
+   "ver": "6a996e69a2",
+   "size": 733006,
+   "file": "packs/winnie-the-pooh.json",
    "updated": "2026-11-19"
   },
   {
