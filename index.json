@@ -210,6 +210,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "adventures-of-huckleberry-finn",
+   "title": "Adventures of Huckleberry Finn",
+   "zh_title": "頑童歷險記",
+   "author": "Mark Twain",
+   "chapters": 43,
+   "words": 597,
+   "coverage": {
+    "A1": 84.1,
+    "A2": 89.8,
+    "B1": 93.1,
+    "B2": 94.7,
+    "C1": 94.9,
+    "C2": 94.9
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "湯姆歷險記",
+   "series_no": 2,
+   "v": 1,
+   "ver": "f504e7c811",
+   "size": 3846073,
+   "file": "packs/adventures-of-huckleberry-finn.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "adventures-of-jerry-muskrat",
    "title": "The Adventures of Jerry Muskrat",
    "zh_title": "麝鼠傑瑞",
@@ -6481,6 +6507,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "thirty-nine-steps",
+   "title": "The Thirty-Nine Steps",
+   "zh_title": "三十九級台階",
+   "author": "John Buchan",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 80.1,
+    "A2": 87.8,
+    "B1": 92.3,
+    "B2": 94.7,
+    "C1": 95.0,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "漢內",
+   "series_no": 1,
+   "v": 1,
+   "ver": "70dbf74146",
+   "size": 1519788,
+   "file": "packs/thirty-nine-steps.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "three-men-in-a-boat",
    "title": "Three Men in a Boat",
    "zh_title": "三人同舟",
@@ -6687,6 +6739,58 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "tom-swift-among-the-diamond-makers",
+   "title": "Tom Swift Among the Diamond Makers",
+   "zh_title": "湯姆・史威夫特與造鑽石的人",
+   "author": "Victor Appleton",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 79.2,
+    "A2": 88.2,
+    "B1": 94.0,
+    "B2": 96.4,
+    "C1": 96.6,
+    "C2": 96.8
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "湯姆・史威夫特",
+   "series_no": 7,
+   "v": 1,
+   "ver": "e5dff34ec5",
+   "size": 1739561,
+   "file": "packs/tom-swift-among-the-diamond-makers.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "tom-swift-and-his-air-glider",
+   "title": "Tom Swift and His Air Glider",
+   "zh_title": "湯姆・史威夫特與滑翔機",
+   "author": "Victor Appleton",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 79.4,
+    "A2": 88.1,
+    "B1": 93.3,
+    "B2": 95.7,
+    "C1": 95.9,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "湯姆・史威夫特",
+   "series_no": 12,
+   "v": 1,
+   "ver": "eb42c8c029",
+   "size": 1781403,
+   "file": "packs/tom-swift-and-his-air-glider.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "tom-swift-and-his-airship",
    "title": "Tom Swift and His Airship",
    "zh_title": "湯姆・史威夫特與飛船",
@@ -6711,6 +6815,32 @@
    "size": 1830113,
    "file": "packs/tom-swift-and-his-airship.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "tom-swift-and-his-electric-rifle",
+   "title": "Tom Swift and His Electric Rifle",
+   "zh_title": "湯姆・史威夫特與電子步槍",
+   "author": "Victor Appleton",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 76.9,
+    "A2": 86.0,
+    "B1": 92.5,
+    "B2": 95.1,
+    "C1": 95.3,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "湯姆・史威夫特",
+   "series_no": 10,
+   "v": 1,
+   "ver": "b610e416db",
+   "size": 1858920,
+   "file": "packs/tom-swift-and-his-electric-rifle.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "tom-swift-and-his-electric-runabout",
@@ -6791,6 +6921,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "tom-swift-and-his-sky-racer",
+   "title": "Tom Swift and His Sky Racer",
+   "zh_title": "湯姆・史威夫特與飛天賽車",
+   "author": "Victor Appleton",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 80.1,
+    "A2": 87.9,
+    "B1": 93.5,
+    "B2": 96.2,
+    "C1": 96.4,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "湯姆・史威夫特",
+   "series_no": 9,
+   "v": 1,
+   "ver": "657944352a",
+   "size": 1724687,
+   "file": "packs/tom-swift-and-his-sky-racer.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "tom-swift-and-his-submarine-boat",
    "title": "Tom Swift and His Submarine Boat",
    "zh_title": "湯姆・史威夫特與潛水艇",
@@ -6814,6 +6970,84 @@
    "ver": "245d7315fc",
    "size": 1878528,
    "file": "packs/tom-swift-and-his-submarine-boat.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "tom-swift-and-his-wireless-message",
+   "title": "Tom Swift and His Wireless Message",
+   "zh_title": "湯姆・史威夫特與無線電",
+   "author": "Victor Appleton",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 78.3,
+    "A2": 87.1,
+    "B1": 92.7,
+    "B2": 95.2,
+    "C1": 95.5,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "湯姆・史威夫特",
+   "series_no": 6,
+   "v": 1,
+   "ver": "ed1c6a58fe",
+   "size": 1762936,
+   "file": "packs/tom-swift-and-his-wireless-message.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "tom-swift-in-the-caves-of-ice",
+   "title": "Tom Swift in the Caves of Ice",
+   "zh_title": "湯姆・史威夫特在冰洞",
+   "author": "Victor Appleton",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 78.4,
+    "A2": 86.9,
+    "B1": 92.3,
+    "B2": 94.9,
+    "C1": 95.1,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "湯姆・史威夫特",
+   "series_no": 8,
+   "v": 1,
+   "ver": "12eab9d842",
+   "size": 1777659,
+   "file": "packs/tom-swift-in-the-caves-of-ice.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "tom-swift-in-the-city-of-gold",
+   "title": "Tom Swift in the City of Gold",
+   "zh_title": "湯姆・史威夫特在黃金城",
+   "author": "Victor Appleton",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 79.9,
+    "A2": 88.5,
+    "B1": 93.2,
+    "B2": 95.8,
+    "C1": 96.1,
+    "C2": 96.2
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "湯姆・史威夫特",
+   "series_no": 11,
+   "v": 1,
+   "ver": "23007a560e",
+   "size": 1834037,
+   "file": "packs/tom-swift-in-the-city-of-gold.json",
    "updated": "2026-11-20"
   },
   {
@@ -7377,6 +7611,32 @@
    "size": 1083615,
    "file": "packs/whitefoot-the-wood-mouse.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "whose-body",
+   "title": "Whose Body?",
+   "zh_title": "誰的屍體？",
+   "author": "Dorothy L. Sayers",
+   "chapters": 13,
+   "words": 182,
+   "coverage": {
+    "A1": 78.6,
+    "A2": 86.9,
+    "B1": 92.1,
+    "B2": 94.3,
+    "C1": 94.7,
+    "C2": 94.9
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "series": "溫西勳爵",
+   "series_no": 1,
+   "v": 1,
+   "ver": "544f78958b",
+   "size": 2087538,
+   "file": "packs/whose-body.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "wild-animals-i-have-known",
