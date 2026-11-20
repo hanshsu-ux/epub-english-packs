@@ -702,6 +702,58 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "anne-of-avonlea",
+   "title": "Anne of Avonlea",
+   "zh_title": "清秀佳人",
+   "author": "L. M. Montgomery",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 81.2,
+    "A2": 88.6,
+    "B1": 92.8,
+    "B2": 94.9,
+    "C1": 95.2,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "series": "清秀佳人",
+   "series_no": 2,
+   "v": 1,
+   "ver": "2f70a07296",
+   "size": 3305483,
+   "file": "packs/anne-of-avonlea.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "anne-of-the-island",
+   "title": "Anne of the Island",
+   "zh_title": "清秀佳人",
+   "author": "L. M. Montgomery",
+   "chapters": 40,
+   "words": 560,
+   "coverage": {
+    "A1": 80.4,
+    "A2": 87.8,
+    "B1": 92.1,
+    "B2": 94.4,
+    "C1": 94.8,
+    "C2": 95.0
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "series": "清秀佳人",
+   "series_no": 3,
+   "v": 1,
+   "ver": "0bc617b758",
+   "size": 3095066,
+   "file": "packs/anne-of-the-island.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "anne-s-house-of-dreams",
    "title": "Anne's House of Dreams",
    "zh_title": "清秀佳人 5：安妮的夢幻小屋",
@@ -1366,6 +1418,32 @@
    "size": 842122,
    "file": "packs/cave-twins.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "chronicles-of-avonlea",
+   "title": "Chronicles of Avonlea",
+   "zh_title": "艾凡里紀事",
+   "author": "L. M. Montgomery",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 80.4,
+    "A2": 87.8,
+    "B1": 92.1,
+    "B2": 94.5,
+    "C1": 94.9,
+    "C2": 95.1
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "series": "清秀佳人",
+   "series_no": 7,
+   "v": 1,
+   "ver": "fda46b8cf5",
+   "size": 2306815,
+   "file": "packs/chronicles-of-avonlea.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "circular-staircase",
@@ -2134,6 +2212,32 @@
    "size": 2695853,
    "file": "packs/further-adventures-of-lad.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "further-chronicles-of-avonlea",
+   "title": "Further Chronicles of Avonlea",
+   "zh_title": "艾凡里紀事續集",
+   "author": "L. M. Montgomery",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 80.9,
+    "A2": 88.3,
+    "B1": 92.8,
+    "B2": 95.0,
+    "C1": 95.3,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "series": "清秀佳人",
+   "series_no": 7,
+   "v": 1,
+   "ver": "3455abb65b",
+   "size": 2402700,
+   "file": "packs/further-chronicles-of-avonlea.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "glinda-of-oz",
@@ -4831,6 +4935,32 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "pollyanna-grows-up",
+   "title": "Pollyanna Grows Up",
+   "zh_title": "波麗安娜長大了",
+   "author": "Eleanor H. Porter",
+   "chapters": 32,
+   "words": 448,
+   "coverage": {
+    "A1": 82.9,
+    "A2": 89.7,
+    "B1": 93.7,
+    "B2": 95.6,
+    "C1": 95.8,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "波麗安娜",
+   "series_no": 2,
+   "v": 1,
+   "ver": "548cbd5d00",
+   "size": 2777653,
+   "file": "packs/pollyanna-grows-up.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "prairie",
    "title": "The Prairie",
    "zh_title": "大草原",
@@ -5167,6 +5297,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "rainbow-valley",
+   "title": "Rainbow Valley",
+   "zh_title": "彩虹谷",
+   "author": "L. M. Montgomery",
+   "chapters": 35,
+   "words": 490,
+   "coverage": {
+    "A1": 81.1,
+    "A2": 88.0,
+    "B1": 92.2,
+    "B2": 94.5,
+    "C1": 94.8,
+    "C2": 95.0
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "series": "清秀佳人",
+   "series_no": 6,
+   "v": 1,
+   "ver": "45fbdf4a6e",
+   "size": 3111384,
+   "file": "packs/rainbow-valley.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "red-fairy-book",
    "title": "The Red Fairy Book",
    "zh_title": "紅色童話",
@@ -5294,6 +5450,32 @@
    "ver": "cb237c893e",
    "size": 2203483,
    "file": "packs/rewards-and-fairies.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "rilla-of-ingleside",
+   "title": "Rilla of Ingleside",
+   "zh_title": "英格塞的麗拉",
+   "author": "L. M. Montgomery",
+   "chapters": 35,
+   "words": 490,
+   "coverage": {
+    "A1": 81.3,
+    "A2": 88.5,
+    "B1": 92.7,
+    "B2": 94.9,
+    "C1": 95.2,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "series": "清秀佳人",
+   "series_no": 8,
+   "v": 1,
+   "ver": "4f14286ab0",
+   "size": 3899698,
+   "file": "packs/rilla-of-ingleside.json",
    "updated": "2026-11-20"
   },
   {
@@ -5887,6 +6069,32 @@
    "size": 2765460,
    "file": "packs/story-of-siegfried.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "story-of-the-amulet",
+   "title": "The Story of the Amulet",
+   "zh_title": "護身符的故事",
+   "author": "E. Nesbit",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 82.1,
+    "A2": 89.8,
+    "B1": 94.0,
+    "B2": 95.9,
+    "C1": 96.1,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "series": "沙精",
+   "series_no": 3,
+   "v": 1,
+   "ver": "fc727aab65",
+   "size": 2247139,
+   "file": "packs/story-of-the-amulet.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "story-of-the-treasure-seekers",
@@ -6505,6 +6713,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "tom-swift-and-his-electric-runabout",
+   "title": "Tom Swift and His Electric Runabout",
+   "zh_title": "湯姆・史威夫特與電動車",
+   "author": "Victor Appleton",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 78.1,
+    "A2": 87.0,
+    "B1": 92.9,
+    "B2": 95.6,
+    "C1": 95.9,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "湯姆・史威夫特",
+   "series_no": 5,
+   "v": 1,
+   "ver": "f47e25b0bf",
+   "size": 1817240,
+   "file": "packs/tom-swift-and-his-electric-runabout.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "tom-swift-and-his-motor-boat",
    "title": "Tom Swift and His Motor-Boat",
    "zh_title": "湯姆・史威夫特與汽艇",
@@ -6555,6 +6789,32 @@
    "size": 1733453,
    "file": "packs/tom-swift-and-his-motor-cycle.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "tom-swift-and-his-submarine-boat",
+   "title": "Tom Swift and His Submarine Boat",
+   "zh_title": "湯姆・史威夫特與潛水艇",
+   "author": "Victor Appleton",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 77.2,
+    "A2": 86.3,
+    "B1": 93.2,
+    "B2": 95.9,
+    "C1": 96.2,
+    "C2": 96.3
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "湯姆・史威夫特",
+   "series_no": 4,
+   "v": 1,
+   "ver": "245d7315fc",
+   "size": 1878528,
+   "file": "packs/tom-swift-and-his-submarine-boat.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "twenty-thousand-leagues-under-the-sea",
