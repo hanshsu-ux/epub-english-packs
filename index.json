@@ -906,6 +906,58 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "aunt-jane-s-nieces",
+   "title": "Aunt Jane's Nieces",
+   "zh_title": "珍姑媽的姪女們",
+   "author": "L. Frank Baum",
+   "chapters": 29,
+   "words": 406,
+   "coverage": {
+    "A1": 78.4,
+    "A2": 87.4,
+    "B1": 92.9,
+    "B2": 95.6,
+    "C1": 95.9,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "珍姑媽的姪女們",
+   "series_no": 1,
+   "v": 1,
+   "ver": "4bc16ee0e6",
+   "size": 2191566,
+   "file": "packs/aunt-jane-s-nieces.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "aunt-jane-s-nieces-abroad",
+   "title": "Aunt Jane's Nieces Abroad",
+   "zh_title": "珍姑媽的姪女們出國記",
+   "author": "L. Frank Baum",
+   "chapters": 31,
+   "words": 434,
+   "coverage": {
+    "A1": 75.8,
+    "A2": 85.4,
+    "B1": 91.3,
+    "B2": 94.3,
+    "C1": 94.7,
+    "C2": 94.9
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "珍姑媽的姪女們",
+   "series_no": 2,
+   "v": 1,
+   "ver": "9f2839d33e",
+   "size": 2556047,
+   "file": "packs/aunt-jane-s-nieces-abroad.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "ayesha-the-return-of-she",
    "title": "Ayesha: The Return of She",
    "zh_title": "她的歸來",
@@ -1446,6 +1498,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "chessmen-of-mars",
+   "title": "The Chessmen of Mars",
+   "zh_title": "火星棋人",
+   "author": "Edgar Rice Burroughs",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 73.3,
+    "A2": 84.2,
+    "B1": 90.9,
+    "B2": 93.4,
+    "C1": 93.8,
+    "C2": 94.1
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "火星",
+   "series_no": 5,
+   "v": 1,
+   "ver": "8333152e2c",
+   "size": 3276837,
+   "file": "packs/chessmen-of-mars.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "chronicles-of-avonlea",
    "title": "Chronicles of Avonlea",
    "zh_title": "艾凡里紀事",
@@ -1546,6 +1624,32 @@
    "size": 2256425,
    "file": "packs/confessions-of-ars-ne-lupin.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "coral-island",
+   "title": "The Coral Island",
+   "zh_title": "珊瑚島",
+   "author": "R. M. Ballantyne",
+   "chapters": 35,
+   "words": 490,
+   "coverage": {
+    "A1": 75.4,
+    "A2": 85.1,
+    "B1": 91.4,
+    "B2": 94.5,
+    "C1": 94.9,
+    "C2": 95.1
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "珊瑚島",
+   "series_no": 1,
+   "v": 1,
+   "ver": "470ca22182",
+   "size": 4139608,
+   "file": "packs/coral-island.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "crimson-fairy-book",
@@ -2292,6 +2396,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "gods-of-mars",
+   "title": "The Gods of Mars",
+   "zh_title": "火星眾神",
+   "author": "Edgar Rice Burroughs",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 72.4,
+    "A2": 83.4,
+    "B1": 90.5,
+    "B2": 93.8,
+    "C1": 94.2,
+    "C2": 94.5
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "火星",
+   "series_no": 2,
+   "v": 1,
+   "ver": "39434e6628",
+   "size": 3239480,
+   "file": "packs/gods-of-mars.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "golden-age",
    "title": "The Golden Age",
    "zh_title": "黃金時代",
@@ -2342,6 +2472,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "gorilla-hunters",
+   "title": "The Gorilla Hunters",
+   "zh_title": "大猩猩獵人",
+   "author": "R. M. Ballantyne",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 73.8,
+    "A2": 84.1,
+    "B1": 91.1,
+    "B2": 94.1,
+    "C1": 94.6,
+    "C2": 94.8
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "珊瑚島",
+   "series_no": 2,
+   "v": 1,
+   "ver": "4ab9b83298",
+   "size": 3694227,
+   "file": "packs/gorilla-hunters.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "green-fairy-book",
    "title": "The Green Fairy Book",
    "zh_title": "綠色童話",
@@ -2365,6 +2521,32 @@
    "ver": "b2bd68f7c4",
    "size": 4507749,
    "file": "packs/green-fairy-book.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "greenmantle",
+   "title": "Greenmantle",
+   "zh_title": "綠斗篷",
+   "author": "John Buchan",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 79.8,
+    "A2": 87.9,
+    "B1": 92.5,
+    "B2": 94.9,
+    "C1": 95.2,
+    "C2": 95.3
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "漢內",
+   "series_no": 2,
+   "v": 1,
+   "ver": "585a977562",
+   "size": 3545481,
+   "file": "packs/greenmantle.json",
    "updated": "2026-11-20"
   },
   {
@@ -4242,6 +4424,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "mr-standfast",
+   "title": "Mr. Standfast",
+   "zh_title": "堅定先生",
+   "author": "John Buchan",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 79.2,
+    "A2": 87.3,
+    "B1": 92.0,
+    "B2": 94.4,
+    "C1": 94.8,
+    "C2": 94.9
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "漢內",
+   "series_no": 3,
+   "v": 1,
+   "ver": "494cc05ae5",
+   "size": 4507865,
+   "file": "packs/mr-standfast.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "mrs-peter-rabbit",
    "title": "Mrs. Peter Rabbit",
    "zh_title": "彼得兔太太",
@@ -5087,6 +5295,32 @@
    "size": 2189827,
    "file": "packs/princess-and-goblin.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "princess-of-mars",
+   "title": "A Princess of Mars",
+   "zh_title": "火星公主",
+   "author": "Edgar Rice Burroughs",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 72.2,
+    "A2": 83.5,
+    "B1": 90.9,
+    "B2": 93.8,
+    "C1": 94.3,
+    "C2": 94.6
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "火星",
+   "series_no": 1,
+   "v": 1,
+   "ver": "fa7d5ddee4",
+   "size": 2990306,
+   "file": "packs/princess-of-mars.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "prisoner-of-zenda",
@@ -6609,6 +6843,32 @@
    "size": 8048687,
    "file": "packs/three-musketeers.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "thuvia-maid-of-mars",
+   "title": "Thuvia, Maid of Mars",
+   "zh_title": "火星少女圖維婭",
+   "author": "Edgar Rice Burroughs",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 71.2,
+    "A2": 82.2,
+    "B1": 89.6,
+    "B2": 92.7,
+    "C1": 93.2,
+    "C2": 93.5
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "火星",
+   "series_no": 4,
+   "v": 1,
+   "ver": "2dfa8332b5",
+   "size": 1833787,
+   "file": "packs/thuvia-maid-of-mars.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "tik-tok-of-oz",
