@@ -1800,6 +1800,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "eye-of-osiris",
+   "title": "The Eye of Osiris",
+   "zh_title": "歐西里斯之眼",
+   "author": "R. Austin Freeman",
+   "chapters": 20,
+   "words": 280,
+   "coverage": {
+    "A1": 75.2,
+    "A2": 84.9,
+    "B1": 91.1,
+    "B2": 94.1,
+    "C1": 94.7,
+    "C2": 94.9
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "series": "桑代克醫生",
+   "series_no": 3,
+   "v": 1,
+   "ver": "de4a33ec36",
+   "size": 3526180,
+   "file": "packs/eye-of-osiris.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "fall-of-the-house-of-usher",
    "title": "The Fall of the House of Usher",
    "zh_title": "厄舍府的沒落",
@@ -1874,6 +1900,32 @@
    "size": 1209771,
    "file": "packs/fifty-famous-stories-retold.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "five-children-and-it",
+   "title": "Five Children and It",
+   "zh_title": "五個孩子和沙精",
+   "author": "E. Nesbit",
+   "chapters": 11,
+   "words": 154,
+   "coverage": {
+    "A1": 82.1,
+    "A2": 89.3,
+    "B1": 93.5,
+    "B2": 95.3,
+    "C1": 95.5,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "series": "沙精",
+   "series_no": 1,
+   "v": 1,
+   "ver": "2436e31132",
+   "size": 1792618,
+   "file": "packs/five-children-and-it.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "five-little-peppers-and-how-they-grew",
@@ -2721,6 +2773,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "john-thorndyke-s-cases",
+   "title": "John Thorndyke's Cases",
+   "zh_title": "桑代克醫生探案",
+   "author": "R. Austin Freeman",
+   "chapters": 9,
+   "words": 126,
+   "coverage": {
+    "A1": 75.0,
+    "A2": 84.2,
+    "B1": 90.7,
+    "B2": 94.0,
+    "C1": 94.4,
+    "C2": 94.6
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "series": "桑代克醫生",
+   "series_no": 2,
+   "v": 1,
+   "ver": "82c4fdd3f3",
+   "size": 2782612,
+   "file": "packs/john-thorndyke-s-cases.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "jungle-tales-of-tarzan",
    "title": "Jungle Tales of Tarzan",
    "zh_title": "泰山叢林故事",
@@ -3363,6 +3441,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "lost-world",
+   "title": "The Lost World",
+   "zh_title": "失落的世界",
+   "author": "Arthur Conan Doyle",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 74.7,
+    "A2": 84.9,
+    "B1": 91.3,
+    "B2": 93.9,
+    "C1": 94.5,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "查林傑教授",
+   "series_no": 1,
+   "v": 1,
+   "ver": "cc98a7cd74",
+   "size": 2932991,
+   "file": "packs/lost-world.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "louise-de-la-valliere",
    "title": "Louise de la Valliere",
    "zh_title": "路易絲・德・拉瓦利埃",
@@ -3798,6 +3902,84 @@
    "size": 4387105,
    "file": "packs/mike.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "miss-billy",
+   "title": "Miss Billy",
+   "zh_title": "比莉小姐",
+   "author": "Eleanor H. Porter",
+   "chapters": 42,
+   "words": 588,
+   "coverage": {
+    "A1": 82.0,
+    "A2": 89.2,
+    "B1": 93.4,
+    "B2": 95.4,
+    "C1": 95.6,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "比莉小姐",
+   "series_no": 1,
+   "v": 1,
+   "ver": "6524990386",
+   "size": 2420224,
+   "file": "packs/miss-billy.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "miss-billy-married",
+   "title": "Miss Billy Married",
+   "zh_title": "比莉小姐結婚了",
+   "author": "Eleanor H. Porter",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 80.8,
+    "A2": 88.3,
+    "B1": 92.8,
+    "B2": 95.1,
+    "C1": 95.4,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "比莉小姐",
+   "series_no": 3,
+   "v": 1,
+   "ver": "a9dee88f72",
+   "size": 2946679,
+   "file": "packs/miss-billy-married.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "miss-billy-s-decision",
+   "title": "Miss Billy's Decision",
+   "zh_title": "比莉小姐的決定",
+   "author": "Eleanor H. Porter",
+   "chapters": 33,
+   "words": 462,
+   "coverage": {
+    "A1": 81.4,
+    "A2": 88.6,
+    "B1": 93.0,
+    "B2": 95.3,
+    "C1": 95.5,
+    "C2": 95.7
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "比莉小姐",
+   "series_no": 2,
+   "v": 1,
+   "ver": "cadcc6c62a",
+   "size": 2728352,
+   "file": "packs/miss-billy-s-decision.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "mother-west-wind-s-animal-friends",
@@ -4495,6 +4677,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "phoenix-and-the-carpet",
+   "title": "The Phoenix and the Carpet",
+   "zh_title": "鳳凰與魔毯",
+   "author": "E. Nesbit",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 81.3,
+    "A2": 88.7,
+    "B1": 93.4,
+    "B2": 95.3,
+    "C1": 95.5,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "series": "沙精",
+   "series_no": 2,
+   "v": 1,
+   "ver": "87e8b61db3",
+   "size": 2046522,
+   "file": "packs/phoenix-and-the-carpet.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "phronsie-pepper",
    "title": "Phronsie Pepper",
    "zh_title": "小胡椒芙朗西",
@@ -4595,6 +4803,32 @@
    "size": 6449223,
    "file": "packs/pioneers.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "poison-belt",
+   "title": "The Poison Belt",
+   "zh_title": "毒帶",
+   "author": "Arthur Conan Doyle",
+   "chapters": 6,
+   "words": 84,
+   "coverage": {
+    "A1": 75.1,
+    "A2": 85.1,
+    "B1": 91.1,
+    "B2": 94.0,
+    "C1": 94.5,
+    "C2": 94.8
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "英國",
+   "series": "查林傑教授",
+   "series_no": 2,
+   "v": 1,
+   "ver": "4e01dc61df",
+   "size": 1090837,
+   "file": "packs/poison-belt.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "prairie",
@@ -4956,6 +5190,32 @@
    "ver": "edc9ff726c",
    "size": 4294810,
    "file": "packs/red-fairy-book.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "red-thumb-mark",
+   "title": "The Red Thumb Mark",
+   "zh_title": "紅拇指印",
+   "author": "R. Austin Freeman",
+   "chapters": 17,
+   "words": 238,
+   "coverage": {
+    "A1": 73.8,
+    "A2": 84.1,
+    "B1": 91.5,
+    "B2": 94.6,
+    "C1": 95.0,
+    "C2": 95.3
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "series": "桑代克醫生",
+   "series_no": 1,
+   "v": 1,
+   "ver": "808d46a76a",
+   "size": 2660025,
+   "file": "packs/red-thumb-mark.json",
    "updated": "2026-11-20"
   },
   {
