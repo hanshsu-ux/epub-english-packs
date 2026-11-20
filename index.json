@@ -1162,6 +1162,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "brown-fairy-book",
+   "title": "The Brown Fairy Book",
+   "zh_title": "棕色童話",
+   "author": "Andrew Lang",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 81.8,
+    "A2": 90.4,
+    "B1": 94.6,
+    "B2": 96.5,
+    "C1": 96.7,
+    "C2": 96.8
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "series": "彩色童話",
+   "series_no": 7,
+   "v": 1,
+   "ver": "118d8f70b3",
+   "size": 3679995,
+   "file": "packs/brown-fairy-book.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "bulfinch-s-mythology-the-age-of-fable",
    "title": "Bulfinch's Mythology: The Age of Fable",
    "zh_title": "希臘羅馬神話（寓言時代）",
@@ -1416,6 +1442,32 @@
    "size": 2256425,
    "file": "packs/confessions-of-ars-ne-lupin.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "crimson-fairy-book",
+   "title": "The Crimson Fairy Book",
+   "zh_title": "深紅色童話",
+   "author": "Andrew Lang",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 82.4,
+    "A2": 90.9,
+    "B1": 94.8,
+    "B2": 96.8,
+    "C1": 97.0,
+    "C2": 97.1
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "series": "彩色童話",
+   "series_no": 6,
+   "v": 1,
+   "ver": "8870870ee8",
+   "size": 3703716,
+   "file": "packs/crimson-fairy-book.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "crystal-stopper",
@@ -1978,6 +2030,32 @@
    "size": 1069088,
    "file": "packs/french-twins.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "from-the-earth-to-the-moon",
+   "title": "From the Earth to the Moon",
+   "zh_title": "從地球到月球",
+   "author": "Jules Verne",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 67.8,
+    "A2": 80.1,
+    "B1": 89.1,
+    "B2": 92.6,
+    "C1": 93.2,
+    "C2": 93.6
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "法國",
+   "series": "月球",
+   "series_no": 1,
+   "v": 1,
+   "ver": "4d6693c81e",
+   "size": 2055271,
+   "file": "packs/from-the-earth-to-the-moon.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "further-adventures-of-lad",
@@ -2973,6 +3051,32 @@
    "size": 21992293,
    "file": "packs/les-mis-rables.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "lilac-fairy-book",
+   "title": "The Lilac Fairy Book",
+   "zh_title": "淡紫色童話",
+   "author": "Andrew Lang",
+   "chapters": 29,
+   "words": 406,
+   "coverage": {
+    "A1": 82.1,
+    "A2": 90.0,
+    "B1": 94.0,
+    "B2": 95.9,
+    "C1": 96.1,
+    "C2": 96.2
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "series": "彩色童話",
+   "series_no": 10,
+   "v": 1,
+   "ver": "9bdc1a64c1",
+   "size": 3567851,
+   "file": "packs/lilac-fairy-book.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "little-colonel",
@@ -4032,6 +4136,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "olive-fairy-book",
+   "title": "The Olive Fairy Book",
+   "zh_title": "橄欖色童話",
+   "author": "Andrew Lang",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 80.7,
+    "A2": 89.4,
+    "B1": 94.2,
+    "B2": 96.2,
+    "C1": 96.5,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "series": "彩色童話",
+   "series_no": 9,
+   "v": 1,
+   "ver": "64e1b7f4c6",
+   "size": 3429761,
+   "file": "packs/olive-fairy-book.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "oliver-twist",
    "title": "Oliver Twist",
    "zh_title": "孤雛淚",
@@ -4054,6 +4184,32 @@
    "size": 6206885,
    "file": "packs/oliver-twist.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "orange-fairy-book",
+   "title": "The Orange Fairy Book",
+   "zh_title": "橘色童話",
+   "author": "Andrew Lang",
+   "chapters": 29,
+   "words": 406,
+   "coverage": {
+    "A1": 81.7,
+    "A2": 90.1,
+    "B1": 94.2,
+    "B2": 96.2,
+    "C1": 96.4,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "series": "彩色童話",
+   "series_no": 8,
+   "v": 1,
+   "ver": "5372925007",
+   "size": 3677169,
+   "file": "packs/orange-fairy-book.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "oswald-bastable-and-others",
@@ -4543,6 +4699,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "prisoner-of-zenda",
+   "title": "The Prisoner of Zenda",
+   "zh_title": "曾達的囚徒",
+   "author": "Anthony Hope",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 80.1,
+    "A2": 87.9,
+    "B1": 93.2,
+    "B2": 95.4,
+    "C1": 95.7,
+    "C2": 95.9
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "曾達的囚徒",
+   "series_no": 1,
+   "v": 1,
+   "ver": "d3b040bc15",
+   "size": 2018177,
+   "file": "packs/prisoner-of-zenda.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "psmith-in-the-city",
    "title": "Psmith in the City",
    "zh_title": "史密斯在城裡",
@@ -4593,6 +4775,32 @@
    "size": 2369776,
    "file": "packs/psmith-journalist.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "puck-of-pook-s-hill",
+   "title": "Puck of Pook's Hill",
+   "zh_title": "普克山的精靈",
+   "author": "Rudyard Kipling",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 80.0,
+    "A2": 87.3,
+    "B1": 91.4,
+    "B2": 93.6,
+    "C1": 93.8,
+    "C2": 94.0
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "series": "普克山的精靈",
+   "series_no": 1,
+   "v": 1,
+   "ver": "e5242e86ed",
+   "size": 1794138,
+   "file": "packs/puck-of-pook-s-hill.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "puritan-twins",
@@ -4803,6 +5011,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "rewards-and-fairies",
+   "title": "Rewards and Fairies",
+   "zh_title": "報償與仙子",
+   "author": "Rudyard Kipling",
+   "chapters": 11,
+   "words": 154,
+   "coverage": {
+    "A1": 80.1,
+    "A2": 87.3,
+    "B1": 91.6,
+    "B2": 93.7,
+    "C1": 94.0,
+    "C2": 94.2
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "series": "普克山的精靈",
+   "series_no": 2,
+   "v": 1,
+   "ver": "cb237c893e",
+   "size": 2203483,
+   "file": "packs/rewards-and-fairies.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "rinkitink-in-oz",
    "title": "Rinkitink in Oz",
    "zh_title": "奧茲國的林奇丁克",
@@ -4929,6 +5163,32 @@
    "size": 3584840,
    "file": "packs/rose-in-bloom.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "rupert-of-hentzau",
+   "title": "Rupert of Hentzau",
+   "zh_title": "亨佐的魯珀特",
+   "author": "Anthony Hope",
+   "chapters": 21,
+   "words": 294,
+   "coverage": {
+    "A1": 79.0,
+    "A2": 88.1,
+    "B1": 93.2,
+    "B2": 95.6,
+    "C1": 95.9,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "曾達的囚徒",
+   "series_no": 2,
+   "v": 1,
+   "ver": "febc85f9a8",
+   "size": 2933721,
+   "file": "packs/rupert-of-hentzau.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "sammie-and-susie-littletail",
