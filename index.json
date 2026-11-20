@@ -1474,6 +1474,32 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "buddy-and-brighteyes-pigg",
+   "title": "Buddy and Brighteyes Pigg",
+   "zh_title": "小豬巴迪與亮眼",
+   "author": "Howard R. Garis",
+   "chapters": 31,
+   "words": 434,
+   "coverage": {
+    "A1": 85.5,
+    "A2": 91.6,
+    "B1": 94.7,
+    "B2": 96.2,
+    "C1": 96.4,
+    "C2": 96.4
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "睡前故事",
+   "series_no": 5,
+   "v": 1,
+   "ver": "3015cc815c",
+   "size": 1620943,
+   "file": "packs/buddy-and-brighteyes-pigg.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "bulfinch-s-mythology-the-age-of-fable",
    "title": "Bulfinch's Mythology: The Age of Fable",
    "zh_title": "希臘羅馬神話（寓言時代）",
@@ -1908,6 +1934,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "david-balfour",
+   "title": "David Balfour",
+   "zh_title": "大衛・貝爾福（綁架續集）",
+   "author": "Robert Louis Stevenson",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 79.8,
+    "A2": 87.7,
+    "B1": 92.1,
+    "B2": 94.0,
+    "C1": 94.3,
+    "C2": 94.5
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "綁架",
+   "series_no": 2,
+   "v": 1,
+   "ver": "d6234524b0",
+   "size": 3535148,
+   "file": "packs/david-balfour.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "deerslayer",
    "title": "The Deerslayer",
    "zh_title": "殺鹿人",
@@ -2084,6 +2136,32 @@
    "size": 2827444,
    "file": "packs/eight-cousins.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "elusive-pimpernel",
+   "title": "The Elusive Pimpernel",
+   "zh_title": "神出鬼沒的紅花俠",
+   "author": "Baroness Orczy",
+   "chapters": 35,
+   "words": 490,
+   "coverage": {
+    "A1": 72.9,
+    "A2": 82.4,
+    "B1": 88.8,
+    "B2": 92.1,
+    "C1": 92.8,
+    "C2": 93.2
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "紅花俠",
+   "series_no": 3,
+   "v": 1,
+   "ver": "31f247f625",
+   "size": 3625633,
+   "file": "packs/elusive-pimpernel.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "emerald-city-of-oz",
@@ -2886,6 +2964,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "i-will-repay",
+   "title": "I Will Repay",
+   "zh_title": "我必報復",
+   "author": "Baroness Orczy",
+   "chapters": 31,
+   "words": 434,
+   "coverage": {
+    "A1": 73.1,
+    "A2": 82.5,
+    "B1": 88.9,
+    "B2": 92.3,
+    "C1": 92.9,
+    "C2": 93.3
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "紅花俠",
+   "series_no": 2,
+   "v": 1,
+   "ver": "13d1f1a3c5",
+   "size": 2840705,
+   "file": "packs/i-will-repay.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "iliad",
    "title": "The Iliad",
    "zh_title": "伊利亞德",
@@ -3371,6 +3475,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "kidnapped",
+   "title": "Kidnapped",
+   "zh_title": "綁架",
+   "author": "Robert Louis Stevenson",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 80.1,
+    "A2": 88.4,
+    "B1": 92.5,
+    "B2": 94.4,
+    "C1": 94.6,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "綁架",
+   "series_no": 1,
+   "v": 1,
+   "ver": "745e1fafdc",
+   "size": 3040156,
+   "file": "packs/kidnapped.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "king-solomon-s-mines",
    "title": "King Solomon's Mines",
    "zh_title": "所羅門王的寶藏",
@@ -3523,6 +3653,32 @@
    "size": 5244017,
    "file": "packs/le-morte-d-arthur.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "league-of-the-scarlet-pimpernel",
+   "title": "The League of the Scarlet Pimpernel",
+   "zh_title": "紅花俠聯盟",
+   "author": "Baroness Orczy",
+   "chapters": 20,
+   "words": 280,
+   "coverage": {
+    "A1": 74.1,
+    "A2": 83.4,
+    "B1": 89.1,
+    "B2": 92.1,
+    "C1": 92.6,
+    "C2": 92.9
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "紅花俠",
+   "series_no": 5,
+   "v": 1,
+   "ver": "196d828ee6",
+   "size": 2912397,
+   "file": "packs/league-of-the-scarlet-pimpernel.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "leave-it-to-psmith",
@@ -3959,6 +4115,32 @@
    "size": 6120447,
    "file": "packs/louise-de-la-valliere.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "lulu-alice-and-jimmie-wibblewobble",
+   "title": "Lulu, Alice and Jimmie Wibblewobble",
+   "zh_title": "搖搖擺擺鴨三兄妹",
+   "author": "Howard R. Garis",
+   "chapters": 31,
+   "words": 430,
+   "coverage": {
+    "A1": 86.4,
+    "A2": 92.2,
+    "B1": 95.4,
+    "B2": 96.3,
+    "C1": 96.4,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "睡前故事",
+   "series_no": 3,
+   "v": 1,
+   "ver": "dfa47ae140",
+   "size": 1562555,
+   "file": "packs/lulu-alice-and-jimmie-wibblewobble.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "madame-bovary",
@@ -5921,6 +6103,32 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "riders-of-the-purple-sage",
+   "title": "Riders of the Purple Sage",
+   "zh_title": "紫艾草騎士",
+   "author": "Zane Grey",
+   "chapters": 23,
+   "words": 322,
+   "coverage": {
+    "A1": 74.7,
+    "A2": 83.3,
+    "B1": 89.2,
+    "B2": 92.5,
+    "C1": 92.9,
+    "C2": 93.1
+   },
+   "refined": 0,
+   "genre": "西部",
+   "country": "美國",
+   "series": "紫艾草",
+   "series_no": 1,
+   "v": 1,
+   "ver": "362b9ef31c",
+   "size": 3746931,
+   "file": "packs/riders-of-the-purple-sage.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "rilla-of-ingleside",
    "title": "Rilla of Ingleside",
    "zh_title": "英格塞的麗拉",
@@ -6075,6 +6283,58 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "rover-boys-at-school",
+   "title": "The Rover Boys at School",
+   "zh_title": "羅孚男孩上學記",
+   "author": "Arthur M. Winfield",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 80.9,
+    "A2": 89.1,
+    "B1": 93.7,
+    "B2": 95.9,
+    "C1": 96.1,
+    "C2": 96.2
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "羅孚男孩",
+   "series_no": 1,
+   "v": 1,
+   "ver": "8cd3edb524",
+   "size": 1972620,
+   "file": "packs/rover-boys-at-school.json",
+   "updated": "2026-11-20"
+  },
+  {
+   "id": "rover-boys-on-the-ocean",
+   "title": "The Rover Boys on the Ocean",
+   "zh_title": "羅孚男孩航海記",
+   "author": "Arthur M. Winfield",
+   "chapters": 28,
+   "words": 392,
+   "coverage": {
+    "A1": 81.9,
+    "A2": 89.5,
+    "B1": 94.0,
+    "B2": 96.4,
+    "C1": 96.6,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "美國",
+   "series": "羅孚男孩",
+   "series_no": 2,
+   "v": 1,
+   "ver": "01086d51a7",
+   "size": 1844576,
+   "file": "packs/rover-boys-on-the-ocean.json",
+   "updated": "2026-11-20"
+  },
+  {
    "id": "rupert-of-hentzau",
    "title": "Rupert of Hentzau",
    "zh_title": "亨佐的魯珀特",
@@ -6151,6 +6411,32 @@
    "size": 1903542,
    "file": "packs/scarecrow-of-oz.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "scarlet-pimpernel",
+   "title": "The Scarlet Pimpernel",
+   "zh_title": "紅花俠",
+   "author": "Baroness Orczy",
+   "chapters": 31,
+   "words": 434,
+   "coverage": {
+    "A1": 74.4,
+    "A2": 84.1,
+    "B1": 89.8,
+    "B2": 92.9,
+    "C1": 93.5,
+    "C2": 93.7
+   },
+   "refined": 0,
+   "genre": "冒險",
+   "country": "英國",
+   "series": "紅花俠",
+   "series_no": 1,
+   "v": 1,
+   "ver": "09fd123acd",
+   "size": 3473285,
+   "file": "packs/scarlet-pimpernel.json",
+   "updated": "2026-11-20"
   },
   {
    "id": "scotch-twins",
