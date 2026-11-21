@@ -1322,6 +1322,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "beric-the-briton",
+   "title": "Beric the Briton",
+   "zh_title": "不列顛人貝里克",
+   "author": "G. A. Henty",
+   "chapters": 21,
+   "words": 294,
+   "coverage": {
+    "A1": 77.2,
+    "A2": 86.9,
+    "B1": 92.7,
+    "B2": 95.4,
+    "C1": 95.6,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "韓蒂歷史冒險",
+   "series_no": 8,
+   "v": 1,
+   "ver": "e212511695",
+   "size": 5112682,
+   "file": "packs/beric-the-briton.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "betrothed",
    "title": "The Betrothed",
    "zh_title": "約婚夫婦",
@@ -1966,6 +1992,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "cat-of-bubastes",
+   "title": "The Cat of Bubastes",
+   "zh_title": "布巴斯提斯之貓",
+   "author": "G. A. Henty",
+   "chapters": 20,
+   "words": 280,
+   "coverage": {
+    "A1": 76.9,
+    "A2": 86.9,
+    "B1": 93.0,
+    "B2": 95.6,
+    "C1": 95.9,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "韓蒂歷史冒險",
+   "series_no": 6,
+   "v": 1,
+   "ver": "a75fa523c8",
+   "size": 4414474,
+   "file": "packs/cat-of-bubastes.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "cave-twins",
    "title": "The Cave Twins",
    "zh_title": "穴居雙胞胎",
@@ -2448,6 +2500,32 @@
    "size": 5426047,
    "file": "packs/dracula.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "dragon-and-the-raven",
+   "title": "The Dragon and the Raven",
+   "zh_title": "龍與烏鴉",
+   "author": "G. A. Henty",
+   "chapters": 19,
+   "words": 266,
+   "coverage": {
+    "A1": 74.6,
+    "A2": 84.6,
+    "B1": 91.3,
+    "B2": 94.4,
+    "C1": 94.7,
+    "C2": 94.9
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "韓蒂歷史冒險",
+   "series_no": 3,
+   "v": 1,
+   "ver": "9bdf153dab",
+   "size": 3194124,
+   "file": "packs/dragon-and-the-raven.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "dutch-twins",
@@ -3610,6 +3688,32 @@
    "size": 5232818,
    "file": "packs/iliad.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "in-freedom-s-cause",
+   "title": "In Freedom's Cause",
+   "zh_title": "為自由而戰",
+   "author": "G. A. Henty",
+   "chapters": 27,
+   "words": 378,
+   "coverage": {
+    "A1": 74.7,
+    "A2": 84.9,
+    "B1": 91.2,
+    "B2": 94.0,
+    "C1": 94.3,
+    "C2": 94.5
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "韓蒂歷史冒險",
+   "series_no": 4,
+   "v": 1,
+   "ver": "9cad9b7379",
+   "size": 4473901,
+   "file": "packs/in-freedom-s-cause.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "in-search-of-the-castaways",
@@ -8067,6 +8171,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "tanglewood-tales",
+   "title": "Tanglewood Tales",
+   "zh_title": "希臘神話故事 2",
+   "author": "Nathaniel Hawthorne",
+   "chapters": 7,
+   "words": 98,
+   "coverage": {
+    "A1": 75.4,
+    "A2": 84.7,
+    "B1": 90.5,
+    "B2": 93.3,
+    "C1": 93.8,
+    "C2": 94.1
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "美國",
+   "series": "霍桑神話",
+   "series_no": 2,
+   "v": 1,
+   "ver": "39402e32e3",
+   "size": 2406661,
+   "file": "packs/tanglewood-tales.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "tarzan-and-the-golden-lion",
    "title": "Tarzan and the Golden Lion",
    "zh_title": "泰山與金獅",
@@ -9077,6 +9207,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "under-drake-s-flag",
+   "title": "Under Drake's Flag",
+   "zh_title": "在德雷克的旗下",
+   "author": "G. A. Henty",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 74.7,
+    "A2": 85.7,
+    "B1": 92.1,
+    "B2": 95.0,
+    "C1": 95.4,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "韓蒂歷史冒險",
+   "series_no": 2,
+   "v": 1,
+   "ver": "dbe439c963",
+   "size": 4199871,
+   "file": "packs/under-drake-s-flag.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "uneasy-money",
    "title": "Uneasy Money",
    "zh_title": "燙手的錢",
@@ -9537,6 +9693,58 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "with-clive-in-india",
+   "title": "With Clive in India",
+   "zh_title": "追隨克萊武在印度",
+   "author": "G. A. Henty",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 73.9,
+    "A2": 84.6,
+    "B1": 91.3,
+    "B2": 94.3,
+    "C1": 94.6,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "韓蒂歷史冒險",
+   "series_no": 1,
+   "v": 1,
+   "ver": "8f891aa11b",
+   "size": 4729631,
+   "file": "packs/with-clive-in-india.json",
+   "updated": "2026-11-21"
+  },
+  {
+   "id": "with-wolfe-in-canada",
+   "title": "With Wolfe in Canada",
+   "zh_title": "追隨沃爾夫在加拿大",
+   "author": "G. A. Henty",
+   "chapters": 21,
+   "words": 294,
+   "coverage": {
+    "A1": 78.3,
+    "A2": 87.5,
+    "B1": 92.8,
+    "B2": 95.2,
+    "C1": 95.5,
+    "C2": 95.7
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "韓蒂歷史冒險",
+   "series_no": 7,
+   "v": 1,
+   "ver": "ca87439b32",
+   "size": 4361104,
+   "file": "packs/with-wolfe-in-canada.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "wonder-book-for-girls-and-boys",
    "title": "A Wonder-Book for Girls and Boys",
    "zh_title": "希臘神話故事",
@@ -9587,6 +9795,32 @@
    "size": 2580092,
    "file": "packs/wouldbegoods.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "wulf-the-saxon",
+   "title": "Wulf the Saxon",
+   "zh_title": "撒克遜人伍爾夫",
+   "author": "G. A. Henty",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 78.0,
+    "A2": 87.3,
+    "B1": 92.6,
+    "B2": 95.1,
+    "C1": 95.3,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "韓蒂歷史冒險",
+   "series_no": 9,
+   "v": 1,
+   "ver": "1bd9af6b09",
+   "size": 4537105,
+   "file": "packs/wulf-the-saxon.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "wuthering-heights",
@@ -9661,6 +9895,32 @@
    "size": 247409,
    "file": "packs/yellow-wallpaper.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "young-carthaginian",
+   "title": "The Young Carthaginian",
+   "zh_title": "年輕的迦太基人",
+   "author": "G. A. Henty",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 73.8,
+    "A2": 84.4,
+    "B1": 91.5,
+    "B2": 94.7,
+    "C1": 95.1,
+    "C2": 95.3
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "series": "韓蒂歷史冒險",
+   "series_no": 5,
+   "v": 1,
+   "ver": "96151aa227",
+   "size": 4500261,
+   "file": "packs/young-carthaginian.json",
+   "updated": "2026-11-21"
   }
  ]
 }
