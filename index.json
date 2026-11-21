@@ -2222,6 +2222,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "daddy-long-legs",
+   "title": "Daddy-Long-Legs",
+   "zh_title": "長腿叔叔",
+   "author": "Jean Webster",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 81.9,
+    "A2": 89.5,
+    "B1": 93.7,
+    "B2": 95.6,
+    "C1": 95.8,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "長腿叔叔",
+   "series_no": 1,
+   "v": 1,
+   "ver": "b72271a810",
+   "size": 1457401,
+   "file": "packs/daddy-long-legs.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "damsel-in-distress",
    "title": "A Damsel in Distress",
    "zh_title": "落難少女",
@@ -2270,6 +2296,32 @@
    "size": 3535148,
    "file": "packs/david-balfour.json",
    "updated": "2026-11-20"
+  },
+  {
+   "id": "dear-enemy",
+   "title": "Dear Enemy",
+   "zh_title": "親愛的敵人",
+   "author": "Jean Webster",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 78.4,
+    "A2": 86.7,
+    "B1": 91.6,
+    "B2": 94.2,
+    "C1": 94.5,
+    "C2": 94.8
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "series": "長腿叔叔",
+   "series_no": 2,
+   "v": 1,
+   "ver": "a2832f2e2e",
+   "size": 2750526,
+   "file": "packs/dear-enemy.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "deerslayer",
@@ -3122,6 +3174,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "golden-road",
+   "title": "The Golden Road",
+   "zh_title": "金色之路",
+   "author": "L. M. Montgomery",
+   "chapters": 33,
+   "words": 462,
+   "coverage": {
+    "A1": 80.6,
+    "A2": 87.9,
+    "B1": 92.0,
+    "B2": 94.2,
+    "C1": 94.5,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "series": "說故事的女孩",
+   "series_no": 2,
+   "v": 1,
+   "ver": "8e570edc94",
+   "size": 2901819,
+   "file": "packs/golden-road.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "golden-triangle",
    "title": "The Golden Triangle",
    "zh_title": "金三角",
@@ -3278,6 +3356,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "harding-s-luck",
+   "title": "Harding's Luck",
+   "zh_title": "哈丁的好運",
+   "author": "E. Nesbit",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 82.5,
+    "A2": 89.3,
+    "B1": 92.7,
+    "B2": 94.5,
+    "C1": 94.7,
+    "C2": 94.8
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "series": "雅頓",
+   "series_no": 2,
+   "v": 1,
+   "ver": "a256bedf56",
+   "size": 2184346,
+   "file": "packs/harding-s-luck.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "heroes",
    "title": "The Heroes",
    "zh_title": "希臘英雄傳",
@@ -3404,6 +3508,58 @@
    "size": 836166,
    "file": "packs/house-at-pooh-corner.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "house-of-arden",
+   "title": "The House of Arden",
+   "zh_title": "雅頓之家",
+   "author": "E. Nesbit",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 82.8,
+    "A2": 90.2,
+    "B1": 93.8,
+    "B2": 95.6,
+    "C1": 95.7,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "series": "雅頓",
+   "series_no": 1,
+   "v": 1,
+   "ver": "e4824131a9",
+   "size": 2444508,
+   "file": "packs/house-of-arden.json",
+   "updated": "2026-11-21"
+  },
+  {
+   "id": "house-without-a-key",
+   "title": "The House Without a Key",
+   "zh_title": "沒有鑰匙的房子",
+   "author": "Earl Derr Biggers",
+   "chapters": 23,
+   "words": 322,
+   "coverage": {
+    "A1": 79.8,
+    "A2": 87.8,
+    "B1": 92.9,
+    "B2": 95.4,
+    "C1": 95.6,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "美國",
+   "series": "陳查理",
+   "series_no": 1,
+   "v": 1,
+   "ver": "f99dc0ce92",
+   "size": 2790594,
+   "file": "packs/house-without-a-key.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "i-will-repay",
@@ -5201,6 +5357,32 @@
    "ver": "63024ccc81",
    "size": 1835323,
    "file": "packs/more-english-fairy-tales.json",
+   "updated": "2026-11-21"
+  },
+  {
+   "id": "mother-west-wind-how-stories",
+   "title": "Mother West Wind 'How' Stories",
+   "zh_title": "西風媽媽的「怎麼會」故事",
+   "author": "Thornton W. Burgess",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 85.4,
+    "A2": 92.6,
+    "B1": 96.0,
+    "B2": 97.6,
+    "C1": 97.7,
+    "C2": 97.7
+   },
+   "refined": 0,
+   "genre": "動物",
+   "country": "美國",
+   "series": "西風媽媽",
+   "series_no": 6,
+   "v": 1,
+   "ver": "8ef1dffd68",
+   "size": 1095463,
+   "file": "packs/mother-west-wind-how-stories.json",
    "updated": "2026-11-21"
   },
   {
@@ -7425,6 +7607,32 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "skylark-of-space",
+   "title": "The Skylark of Space",
+   "zh_title": "太空雲雀號",
+   "author": "E. E. Smith",
+   "chapters": 19,
+   "words": 266,
+   "coverage": {
+    "A1": 75.2,
+    "A2": 86.0,
+    "B1": 92.3,
+    "B2": 95.1,
+    "C1": 95.5,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "雲雀號",
+   "series_no": 1,
+   "v": 1,
+   "ver": "3a994eda51",
+   "size": 3198483,
+   "file": "packs/skylark-of-space.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "something-new",
    "title": "Something New",
    "zh_title": "新鮮事",
@@ -7577,6 +7785,32 @@
    "size": 2887998,
    "file": "packs/stories-polly-pepper-told.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "story-girl",
+   "title": "The Story Girl",
+   "zh_title": "說故事的女孩",
+   "author": "L. M. Montgomery",
+   "chapters": 32,
+   "words": 448,
+   "coverage": {
+    "A1": 81.0,
+    "A2": 87.9,
+    "B1": 92.0,
+    "B2": 94.0,
+    "C1": 94.5,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "series": "說故事的女孩",
+   "series_no": 1,
+   "v": 1,
+   "ver": "6027e4a5d4",
+   "size": 3243259,
+   "file": "packs/story-girl.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "story-of-doctor-dolittle",
@@ -9301,6 +9535,32 @@
    "size": 2642178,
    "file": "packs/wisdom-of-father-brown.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "wonder-book-for-girls-and-boys",
+   "title": "A Wonder-Book for Girls and Boys",
+   "zh_title": "希臘神話故事",
+   "author": "Nathaniel Hawthorne",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 77.2,
+    "A2": 86.5,
+    "B1": 91.8,
+    "B2": 94.6,
+    "C1": 94.9,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "美國",
+   "series": "霍桑神話",
+   "series_no": 1,
+   "v": 1,
+   "ver": "a94ddf5dc6",
+   "size": 2009316,
+   "file": "packs/wonder-book-for-girls-and-boys.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "wouldbegoods",
