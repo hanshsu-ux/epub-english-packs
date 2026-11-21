@@ -1810,6 +1810,30 @@
    "updated": "2026-11-21"
   },
   {
+   "id": "book-of-dragons",
+   "title": "The Book of Dragons",
+   "zh_title": "龍之書",
+   "author": "E. Nesbit",
+   "chapters": 8,
+   "words": 112,
+   "coverage": {
+    "A1": 82.9,
+    "A2": 89.7,
+    "B1": 93.2,
+    "B2": 95.1,
+    "C1": 95.3,
+    "C2": 95.3
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "v": 1,
+   "ver": "547b2650b7",
+   "size": 1436339,
+   "file": "packs/book-of-dragons.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "book-of-myths",
    "title": "A Book of Myths",
    "zh_title": "神話之書",
@@ -2294,6 +2318,30 @@
    "size": 4139608,
    "file": "packs/coral-island.json",
    "updated": "2026-11-20"
+  },
+  {
+   "id": "cranford",
+   "title": "Cranford",
+   "zh_title": "克蘭福德",
+   "author": "Elizabeth Cleghorn Gaskell",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 80.3,
+    "A2": 88.6,
+    "B1": 93.3,
+    "B2": 95.4,
+    "C1": 95.7,
+    "C2": 95.9
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "英國",
+   "v": 1,
+   "ver": "6aafc3afd6",
+   "size": 2706785,
+   "file": "packs/cranford.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "crimson-fairy-book",
@@ -3298,6 +3346,30 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "girl-of-the-limberlost",
+   "title": "A Girl of the Limberlost",
+   "zh_title": "林中女孩",
+   "author": "Gene Stratton-Porter",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 82.7,
+    "A2": 90.0,
+    "B1": 94.3,
+    "B2": 96.2,
+    "C1": 96.5,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "美國",
+   "v": 1,
+   "ver": "502f67ad38",
+   "size": 3922967,
+   "file": "packs/girl-of-the-limberlost.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "glinda-of-oz",
    "title": "Glinda of Oz",
    "zh_title": "奧茲國的葛琳達",
@@ -4115,6 +4187,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "japanese-fairy-tales",
+   "title": "Japanese Fairy Tales",
+   "zh_title": "日本童話",
+   "author": "Yei Theodora Ozaki",
+   "chapters": 20,
+   "words": 280,
+   "coverage": {
+    "A1": 81.2,
+    "A2": 89.5,
+    "B1": 94.0,
+    "B2": 96.2,
+    "C1": 96.5,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "日本",
+   "v": 1,
+   "ver": "9b15b5994a",
+   "size": 2661786,
+   "file": "packs/japanese-fairy-tales.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "japanese-twins",
    "title": "The Japanese Twins",
    "zh_title": "日本雙胞胎",
@@ -4649,6 +4745,30 @@
    "size": 21992293,
    "file": "packs/les-mis-rables.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "light-princess",
+   "title": "The Light Princess",
+   "zh_title": "輕輕公主",
+   "author": "George MacDonald",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 79.0,
+    "A2": 88.9,
+    "B1": 93.6,
+    "B2": 95.7,
+    "C1": 95.9,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "v": 1,
+   "ver": "1dfaf41ed5",
+   "size": 766716,
+   "file": "packs/light-princess.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "lilac-fairy-book",
@@ -5548,6 +5668,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "metamorphosis",
+   "title": "Metamorphosis",
+   "zh_title": "變形記",
+   "author": "Franz Kafka",
+   "chapters": 3,
+   "words": 42,
+   "coverage": {
+    "A1": 81.6,
+    "A2": 91.5,
+    "B1": 96.4,
+    "B2": 97.9,
+    "C1": 98.1,
+    "C2": 98.2
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "捷克",
+   "v": 1,
+   "ver": "905e4d7911",
+   "size": 838762,
+   "file": "packs/metamorphosis.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "mexican-twins",
    "title": "The Mexican Twins",
    "zh_title": "墨西哥雙胞胎",
@@ -5598,6 +5742,30 @@
    "size": 3854241,
    "file": "packs/michael-brother-of-jerry.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "michael-o-halloran",
+   "title": "Michael O'Halloran",
+   "zh_title": "麥可・歐哈洛蘭",
+   "author": "Gene Stratton-Porter",
+   "chapters": 20,
+   "words": 280,
+   "coverage": {
+    "A1": 83.9,
+    "A2": 90.7,
+    "B1": 94.5,
+    "B2": 96.4,
+    "C1": 96.6,
+    "C2": 96.7
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "v": 1,
+   "ver": "69554a71c6",
+   "size": 4468336,
+   "file": "packs/michael-o-halloran.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "mike",
@@ -6090,6 +6258,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "news-from-nowhere",
+   "title": "News from Nowhere",
+   "zh_title": "烏有鄉消息",
+   "author": "William Morris",
+   "chapters": 32,
+   "words": 437,
+   "coverage": {
+    "A1": 80.1,
+    "A2": 88.9,
+    "B1": 93.4,
+    "B2": 95.5,
+    "C1": 95.8,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "英國",
+   "v": 1,
+   "ver": "844aa7ab6c",
+   "size": 3084403,
+   "file": "packs/news-from-nowhere.json",
+   "updated": "2026-11-21"
+  },
+  {
    "id": "nine-unlikely-tales",
    "title": "Nine Unlikely Tales",
    "zh_title": "九個不可思議的故事",
@@ -6160,6 +6352,30 @@
    "size": 1878124,
    "file": "packs/notes-from-the-underground.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "o-pioneers",
+   "title": "O Pioneers!",
+   "zh_title": "啊，拓荒者！",
+   "author": "Willa Cather",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 82.3,
+    "A2": 89.5,
+    "B1": 93.4,
+    "B2": 95.3,
+    "C1": 95.6,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "美國",
+   "v": 1,
+   "ver": "1a44d38149",
+   "size": 2334044,
+   "file": "packs/o-pioneers.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "old-granny-fox",
@@ -9713,6 +9929,30 @@
    "size": 2593524,
    "file": "packs/uneasy-money.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "up-from-slavery",
+   "title": "Up from Slavery",
+   "zh_title": "超越奴役",
+   "author": "Booker T. Washington",
+   "chapters": 17,
+   "words": 238,
+   "coverage": {
+    "A1": 79.4,
+    "A2": 88.9,
+    "B1": 95.2,
+    "B2": 97.2,
+    "C1": 97.4,
+    "C2": 97.6
+   },
+   "refined": 0,
+   "genre": "紀實",
+   "country": "美國",
+   "v": 1,
+   "ver": "ec7cbfe6e9",
+   "size": 2948430,
+   "file": "packs/up-from-slavery.json",
+   "updated": "2026-11-21"
   },
   {
    "id": "valley-of-fear",
