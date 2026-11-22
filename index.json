@@ -804,6 +804,30 @@
    "updated": "2026-11-21"
   },
   {
+   "id": "anna-karenina",
+   "title": "Anna Karenina",
+   "zh_title": "安娜・卡列尼娜",
+   "author": "Leo Tolstoy",
+   "chapters": 239,
+   "words": 2662,
+   "coverage": {
+    "A1": 79.8,
+    "A2": 88.1,
+    "B1": 93.1,
+    "B2": 95.4,
+    "C1": 95.8,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "俄國",
+   "v": 1,
+   "ver": "058bb6d669",
+   "size": 14398104,
+   "file": "packs/anna-karenina.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "anne-of-avonlea",
    "title": "Anne of Avonlea",
    "zh_title": "清秀佳人",
@@ -1188,6 +1212,30 @@
    "size": 2112739,
    "file": "packs/aunt-jane-s-nieces-on-vacation.json",
    "updated": "2026-11-20"
+  },
+  {
+   "id": "aunt-jo-s-scrap-bag",
+   "title": "Aunt Jo's Scrap-Bag",
+   "zh_title": "喬姑媽的剪貼袋",
+   "author": "Louisa May Alcott",
+   "chapters": 14,
+   "words": 196,
+   "coverage": {
+    "A1": 81.2,
+    "A2": 88.5,
+    "B1": 92.6,
+    "B2": 95.1,
+    "C1": 95.4,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "短篇",
+   "country": "美國",
+   "v": 1,
+   "ver": "cbfe304eaa",
+   "size": 1630379,
+   "file": "packs/aunt-jo-s-scrap-bag.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "ayesha-the-return-of-she",
@@ -1882,6 +1930,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "botchan",
+   "title": "Botchan",
+   "zh_title": "少爺",
+   "author": "Natsume Soseki",
+   "chapters": 11,
+   "words": 154,
+   "coverage": {
+    "A1": 80.2,
+    "A2": 88.4,
+    "B1": 93.3,
+    "B2": 95.4,
+    "C1": 95.6,
+    "C2": 95.7
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "日本",
+   "v": 1,
+   "ver": "549370e4fc",
+   "size": 1713554,
+   "file": "packs/botchan.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "bowser-the-hound",
    "title": "Bowser the Hound",
    "zh_title": "獵犬鮑瑟",
@@ -2366,6 +2438,30 @@
    "size": 2706785,
    "file": "packs/cranford.json",
    "updated": "2026-11-21"
+  },
+  {
+   "id": "crime-and-punishment",
+   "title": "Crime and Punishment",
+   "zh_title": "罪與罰",
+   "author": "Fyodor Dostoyevsky",
+   "chapters": 41,
+   "words": 574,
+   "coverage": {
+    "A1": 79.6,
+    "A2": 88.3,
+    "B1": 93.3,
+    "B2": 95.6,
+    "C1": 95.9,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "俄國",
+   "v": 1,
+   "ver": "1726e3e380",
+   "size": 7021814,
+   "file": "packs/crime-and-punishment.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "crimson-fairy-book",
@@ -2926,6 +3022,30 @@
    "size": 4060733,
    "file": "packs/emily-of-new-moon.json",
    "updated": "2026-11-21"
+  },
+  {
+   "id": "emma",
+   "title": "Emma",
+   "zh_title": "艾瑪",
+   "author": "Jane Austen",
+   "chapters": 55,
+   "words": 770,
+   "coverage": {
+    "A1": 79.3,
+    "A2": 88.7,
+    "B1": 94.1,
+    "B2": 96.2,
+    "C1": 96.5,
+    "C2": 96.7
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "英國",
+   "v": 1,
+   "ver": "0878ac2c20",
+   "size": 5814145,
+   "file": "packs/emma.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "english-fairy-tales",
@@ -4153,6 +4273,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "indian-fairy-tales",
+   "title": "Indian Fairy Tales",
+   "zh_title": "印度童話",
+   "author": "Joseph Jacobs",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 82.6,
+    "A2": 90.0,
+    "B1": 94.1,
+    "B2": 95.9,
+    "C1": 96.2,
+    "C2": 96.3
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "v": 1,
+   "ver": "34f52cabfc",
+   "size": 2053393,
+   "file": "packs/indian-fairy-tales.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "inimitable-jeeves",
    "title": "The Inimitable Jeeves",
    "zh_title": "無與倫比的吉夫斯",
@@ -4457,6 +4601,30 @@
    "size": 2782612,
    "file": "packs/john-thorndyke-s-cases.json",
    "updated": "2026-11-20"
+  },
+  {
+   "id": "jungle",
+   "title": "The Jungle",
+   "zh_title": "屠場",
+   "author": "Upton Sinclair",
+   "chapters": 31,
+   "words": 434,
+   "coverage": {
+    "A1": 79.6,
+    "A2": 87.8,
+    "B1": 92.8,
+    "B2": 95.2,
+    "C1": 95.5,
+    "C2": 95.7
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "美國",
+   "v": 1,
+   "ver": "b69a00ad0c",
+   "size": 5701119,
+   "file": "packs/jungle.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "jungle-tales-of-tarzan",
@@ -8643,6 +8811,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "siddhartha",
+   "title": "Siddhartha",
+   "zh_title": "流浪者之歌",
+   "author": "Hermann Hesse",
+   "chapters": 11,
+   "words": 154,
+   "coverage": {
+    "A1": 80.2,
+    "A2": 88.5,
+    "B1": 93.9,
+    "B2": 96.1,
+    "C1": 96.4,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "德國",
+   "v": 1,
+   "ver": "c626489f2f",
+   "size": 1489898,
+   "file": "packs/siddhartha.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "sign-of-the-four",
    "title": "The Sign of the Four",
    "zh_title": "四簽名",
@@ -9053,6 +9245,30 @@
    "size": 1783513,
    "file": "packs/story-of-the-treasure-seekers.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "struggling-upward",
+   "title": "Struggling Upward",
+   "zh_title": "奮力向上",
+   "author": "Horatio Alger",
+   "chapters": 40,
+   "words": 560,
+   "coverage": {
+    "A1": 80.7,
+    "A2": 89.4,
+    "B1": 94.4,
+    "B2": 96.6,
+    "C1": 96.8,
+    "C2": 97.0
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "v": 1,
+   "ver": "b78e5b69f8",
+   "size": 2178722,
+   "file": "packs/struggling-upward.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "study-in-scarlet",
@@ -10923,6 +11139,30 @@
    "size": 2009316,
    "file": "packs/wonder-book-for-girls-and-boys.json",
    "updated": "2026-11-21"
+  },
+  {
+   "id": "wonderful-adventures-of-nils",
+   "title": "The Wonderful Adventures of Nils",
+   "zh_title": "騎鵝歷險記",
+   "author": "Selma Lagerlöf",
+   "chapters": 43,
+   "words": 602,
+   "coverage": {
+    "A1": 79.5,
+    "A2": 88.3,
+    "B1": 92.6,
+    "B2": 95.0,
+    "C1": 95.5,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "瑞典",
+   "v": 1,
+   "ver": "49f03e7f2a",
+   "size": 5857255,
+   "file": "packs/wonderful-adventures-of-nils.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "wonderful-garden",
