@@ -1616,10 +1616,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 8,
    "v": 1,
-   "ver": "c20c664657",
-   "size": 1569460,
+   "ver": "e8355947a3",
+   "size": 1577476,
    "file": "packs/bobbsey-twins-at-home.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-at-meadow-brook",
@@ -1642,10 +1642,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 7,
    "v": 1,
-   "ver": "54617c79bc",
-   "size": 1547933,
+   "ver": "086833463f",
+   "size": 1556078,
    "file": "packs/bobbsey-twins-at-meadow-brook.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-at-school",
@@ -1668,10 +1668,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 3,
    "v": 1,
-   "ver": "724027e02a",
-   "size": 1427504,
+   "ver": "718f512910",
+   "size": 1435574,
    "file": "packs/bobbsey-twins-at-school.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-at-snow-lodge",
@@ -1694,10 +1694,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 5,
    "v": 1,
-   "ver": "bdb8003a90",
-   "size": 1444168,
+   "ver": "3be4f2a8df",
+   "size": 1452685,
    "file": "packs/bobbsey-twins-at-snow-lodge.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-at-the-seashore",
@@ -1720,10 +1720,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 4,
    "v": 1,
-   "ver": "e37587a57a",
-   "size": 1523940,
+   "ver": "c93ff6eb3f",
+   "size": 1532367,
    "file": "packs/bobbsey-twins-at-the-seashore.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-in-a-great-city",
@@ -1746,10 +1746,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 9,
    "v": 1,
-   "ver": "3b4259779d",
-   "size": 1600208,
+   "ver": "207997f831",
+   "size": 1608395,
    "file": "packs/bobbsey-twins-in-a-great-city.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-in-the-country",
@@ -1772,10 +1772,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 2,
    "v": 1,
-   "ver": "db54c3cda5",
-   "size": 1662502,
+   "ver": "a9338c70a6",
+   "size": 1671322,
    "file": "packs/bobbsey-twins-in-the-country.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-in-the-great-west",
@@ -1798,10 +1798,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 13,
    "v": 1,
-   "ver": "b94ae1080f",
-   "size": 1599810,
+   "ver": "5e51834113",
+   "size": 1608060,
    "file": "packs/bobbsey-twins-in-the-great-west.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-on-a-houseboat",
@@ -1824,10 +1824,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 6,
    "v": 1,
-   "ver": "512e79cfe2",
-   "size": 1502551,
+   "ver": "1dc970468b",
+   "size": 1511416,
    "file": "packs/bobbsey-twins-on-a-houseboat.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-on-blueberry-island",
@@ -1850,10 +1850,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 10,
    "v": 1,
-   "ver": "d2cd57d93a",
-   "size": 1541646,
+   "ver": "59af4319dc",
+   "size": 1549473,
    "file": "packs/bobbsey-twins-on-blueberry-island.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-on-the-deep-blue-sea",
@@ -1876,10 +1876,10 @@
    "series": "鮑伯西雙胞胎",
    "series_no": 11,
    "v": 1,
-   "ver": "733b28bb0d",
-   "size": 1598188,
+   "ver": "39cffe780e",
+   "size": 1606444,
    "file": "packs/bobbsey-twins-on-the-deep-blue-sea.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "book-of-dragons",
@@ -4256,10 +4256,10 @@
    "series": "小熊維尼",
    "series_no": 2,
    "v": 1,
-   "ver": "94020546dd",
-   "size": 836166,
+   "ver": "5fbbbdbecc",
+   "size": 840618,
    "file": "packs/house-at-pooh-corner.json",
-   "updated": "2026-11-19"
+   "updated": "2026-11-22"
   },
   {
    "id": "house-of-arden",
@@ -6101,10 +6101,10 @@
    "genre": "少女",
    "country": "美國",
    "v": 1,
-   "ver": "002ecbe419",
-   "size": 2142222,
+   "ver": "44dfcc7033",
+   "size": 2147073,
    "file": "packs/mary-marie.json",
-   "updated": "2026-11-21"
+   "updated": "2026-11-22"
   },
   {
    "id": "master-of-the-world",
@@ -6176,10 +6176,10 @@
    "country": "美國",
    "series": "麥加菲讀本",
    "v": 1,
-   "ver": "4c951438d7",
-   "size": 86737,
+   "ver": "810d5e3b37",
+   "size": 88529,
    "file": "packs/mcguffey-s-eclectic-primer.json",
-   "updated": "2026-11-19"
+   "updated": "2026-11-22"
   },
   {
    "id": "mcguffey-s-fifth-eclectic-reader",
@@ -6202,10 +6202,10 @@
    "series": "麥加菲讀本",
    "series_no": 5,
    "v": 1,
-   "ver": "cf771069cb",
-   "size": 2881268,
+   "ver": "ecf5498a58",
+   "size": 2889122,
    "file": "packs/mcguffey-s-fifth-eclectic-reader.json",
-   "updated": "2026-11-19"
+   "updated": "2026-11-22"
   },
   {
    "id": "mcguffey-s-first-eclectic-reader",
@@ -6228,10 +6228,10 @@
    "series": "麥加菲讀本",
    "series_no": 1,
    "v": 1,
-   "ver": "87246eecbe",
-   "size": 165489,
+   "ver": "8a5463987d",
+   "size": 167090,
    "file": "packs/mcguffey-s-first-eclectic-reader.json",
-   "updated": "2026-11-19"
+   "updated": "2026-11-22"
   },
   {
    "id": "mcguffey-s-fourth-eclectic-reader",
@@ -6254,10 +6254,10 @@
    "series": "麥加菲讀本",
    "series_no": 4,
    "v": 1,
-   "ver": "1f5ddf18b0",
-   "size": 2008986,
+   "ver": "13c83c1d14",
+   "size": 2015594,
    "file": "packs/mcguffey-s-fourth-eclectic-reader.json",
-   "updated": "2026-11-19"
+   "updated": "2026-11-22"
   },
   {
    "id": "mcguffey-s-second-eclectic-reader",
@@ -6280,10 +6280,10 @@
    "series": "麥加菲讀本",
    "series_no": 2,
    "v": 1,
-   "ver": "a49f4756b7",
-   "size": 520587,
+   "ver": "6b2017dedd",
+   "size": 524504,
    "file": "packs/mcguffey-s-second-eclectic-reader.json",
-   "updated": "2026-11-19"
+   "updated": "2026-11-22"
   },
   {
    "id": "mcguffey-s-sixth-eclectic-reader",
@@ -6306,10 +6306,10 @@
    "series": "麥加菲讀本",
    "series_no": 6,
    "v": 1,
-   "ver": "93c95ed3d7",
-   "size": 4593872,
+   "ver": "e5fe7f16aa",
+   "size": 4607265,
    "file": "packs/mcguffey-s-sixth-eclectic-reader.json",
-   "updated": "2026-11-19"
+   "updated": "2026-11-22"
   },
   {
    "id": "mcguffey-s-third-eclectic-reader",
@@ -6332,10 +6332,10 @@
    "series": "麥加菲讀本",
    "series_no": 3,
    "v": 1,
-   "ver": "d9ff3d6729",
-   "size": 949822,
+   "ver": "1ef653aefe",
+   "size": 954283,
    "file": "packs/mcguffey-s-third-eclectic-reader.json",
-   "updated": "2026-11-19"
+   "updated": "2026-11-22"
   },
   {
    "id": "memoirs-of-sherlock-holmes",
@@ -11487,10 +11487,10 @@
    "series": "小熊維尼",
    "series_no": 1,
    "v": 1,
-   "ver": "6a996e69a2",
-   "size": 733006,
+   "ver": "783a3376cc",
+   "size": 737587,
    "file": "packs/winnie-the-pooh.json",
-   "updated": "2026-11-19"
+   "updated": "2026-11-22"
   },
   {
    "id": "wisdom-of-father-brown",
