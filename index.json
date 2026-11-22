@@ -2238,6 +2238,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "celtic-fairy-tales",
+   "title": "Celtic Fairy Tales",
+   "zh_title": "凱爾特童話",
+   "author": "Joseph Jacobs",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 83.4,
+    "A2": 89.5,
+    "B1": 93.2,
+    "B2": 94.9,
+    "C1": 95.1,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "v": 1,
+   "ver": "3834d6e7f0",
+   "size": 2005675,
+   "file": "packs/celtic-fairy-tales.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "chessmen-of-mars",
    "title": "The Chessmen of Mars",
    "zh_title": "火星棋人",
@@ -2286,6 +2310,30 @@
    "size": 3858976,
    "file": "packs/children-of-the-new-forest.json",
    "updated": "2026-11-21"
+  },
+  {
+   "id": "chinese-fairy-book",
+   "title": "The Chinese Fairy Book",
+   "zh_title": "中國童話",
+   "author": "Richard Wilhelm",
+   "chapters": 30,
+   "words": 420,
+   "coverage": {
+    "A1": 79.0,
+    "A2": 87.6,
+    "B1": 93.3,
+    "B2": 95.7,
+    "C1": 96.0,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "中國",
+   "v": 1,
+   "ver": "ea554469ed",
+   "size": 3636393,
+   "file": "packs/chinese-fairy-book.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "chronicles-of-avonlea",
@@ -3200,6 +3248,30 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "fairy-tales-of-charles-perrault",
+   "title": "The Fairy Tales of Charles Perrault",
+   "zh_title": "佩羅童話",
+   "author": "Charles Perrault",
+   "chapters": 8,
+   "words": 112,
+   "coverage": {
+    "A1": 79.6,
+    "A2": 87.9,
+    "B1": 92.1,
+    "B2": 94.6,
+    "C1": 94.9,
+    "C2": 95.0
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "法國",
+   "v": 1,
+   "ver": "b3790f6bf1",
+   "size": 946718,
+   "file": "packs/fairy-tales-of-charles-perrault.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "fall-of-the-house-of-usher",
    "title": "The Fall of the House of Usher",
    "zh_title": "厄舍府的沒落",
@@ -3584,6 +3656,30 @@
    "size": 2402700,
    "file": "packs/further-chronicles-of-avonlea.json",
    "updated": "2026-11-20"
+  },
+  {
+   "id": "ghost-stories-of-an-antiquary",
+   "title": "Ghost Stories of an Antiquary",
+   "zh_title": "古董家的鬼故事",
+   "author": "M. R. James",
+   "chapters": 8,
+   "words": 112,
+   "coverage": {
+    "A1": 78.6,
+    "A2": 87.5,
+    "B1": 92.6,
+    "B2": 94.8,
+    "C1": 95.2,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "驚悚",
+   "country": "英國",
+   "v": 1,
+   "ver": "d161de80bf",
+   "size": 1649403,
+   "file": "packs/ghost-stories-of-an-antiquary.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "girl-of-the-limberlost",
@@ -3987,6 +4083,30 @@
    "ver": "45de5a5eae",
    "size": 4704807,
    "file": "packs/harvester.json",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "heart",
+   "title": "Heart",
+   "zh_title": "愛的教育",
+   "author": "Edmondo De Amicis",
+   "chapters": 27,
+   "words": 378,
+   "coverage": {
+    "A1": 79.6,
+    "A2": 87.4,
+    "B1": 92.3,
+    "B2": 95.0,
+    "C1": 95.3,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "義大利",
+   "v": 1,
+   "ver": "42b59d4041",
+   "size": 3641404,
+   "file": "packs/heart.json",
    "updated": "2026-11-22"
   },
   {
@@ -4521,6 +4641,30 @@
    "size": 6581606,
    "file": "packs/ivanhoe.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "jack-and-jill",
+   "title": "Jack and Jill",
+   "zh_title": "傑克與吉兒",
+   "author": "Louisa May Alcott",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 80.5,
+    "A2": 88.3,
+    "B1": 93.0,
+    "B2": 95.3,
+    "C1": 95.5,
+    "C2": 95.7
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "v": 1,
+   "ver": "199d5e12da",
+   "size": 3607134,
+   "file": "packs/jack-and-jill.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "jane-eyre",
@@ -10077,6 +10221,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "tom-brown-s-school-days",
+   "title": "Tom Brown's School Days",
+   "zh_title": "湯姆求學記",
+   "author": "Thomas Hughes",
+   "chapters": 18,
+   "words": 252,
+   "coverage": {
+    "A1": 80.2,
+    "A2": 87.9,
+    "B1": 92.6,
+    "B2": 94.7,
+    "C1": 95.0,
+    "C2": 95.2
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "英國",
+   "v": 1,
+   "ver": "68a7c5de6a",
+   "size": 3868871,
+   "file": "packs/tom-brown-s-school-days.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "tom-sawyer-abroad",
    "title": "Tom Sawyer Abroad",
    "zh_title": "湯姆歷險記：出國記",
@@ -10462,6 +10630,30 @@
    "ver": "564efee0cc",
    "size": 2748119,
    "file": "packs/trent-s-last-case.json",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "turn-of-the-screw",
+   "title": "The Turn of the Screw",
+   "zh_title": "碧廬冤孽",
+   "author": "Henry James",
+   "chapters": 25,
+   "words": 350,
+   "coverage": {
+    "A1": 79.4,
+    "A2": 88.0,
+    "B1": 93.0,
+    "B2": 95.5,
+    "C1": 96.0,
+    "C2": 96.3
+   },
+   "refined": 0,
+   "genre": "驚悚",
+   "country": "美國",
+   "v": 1,
+   "ver": "39f1031724",
+   "size": 1905330,
+   "file": "packs/turn-of-the-screw.json",
    "updated": "2026-11-22"
   },
   {
@@ -11173,6 +11365,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "white-nights-and-other-stories",
+   "title": "White Nights and Other Stories",
+   "zh_title": "白夜",
+   "author": "Fyodor Dostoyevsky",
+   "chapters": 27,
+   "words": 378,
+   "coverage": {
+    "A1": 78.8,
+    "A2": 87.4,
+    "B1": 92.7,
+    "B2": 95.1,
+    "C1": 95.4,
+    "C2": 95.7
+   },
+   "refined": 0,
+   "genre": "短篇",
+   "country": "俄國",
+   "v": 1,
+   "ver": "e56d6d3d96",
+   "size": 4310421,
+   "file": "packs/white-nights-and-other-stories.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "whitefoot-the-wood-mouse",
    "title": "Whitefoot the Wood Mouse",
    "zh_title": "林鼠白腳",
@@ -11353,6 +11569,30 @@
    "size": 4361104,
    "file": "packs/with-wolfe-in-canada.json",
    "updated": "2026-11-21"
+  },
+  {
+   "id": "woman-in-white",
+   "title": "The Woman in White",
+   "zh_title": "白衣女人",
+   "author": "Wilkie Collins",
+   "chapters": 56,
+   "words": 784,
+   "coverage": {
+    "A1": 78.4,
+    "A2": 87.7,
+    "B1": 93.5,
+    "B2": 96.0,
+    "C1": 96.3,
+    "C2": 96.5
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "v": 1,
+   "ver": "289256cbb9",
+   "size": 9076384,
+   "file": "packs/woman-in-white.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "wonder-book-for-girls-and-boys",
