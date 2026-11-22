@@ -1548,32 +1548,6 @@
    "updated": "2026-11-20"
   },
   {
-   "id": "bobbsey-twins",
-   "title": "The Bobbsey Twins",
-   "zh_title": "鮑伯西雙胞胎",
-   "author": "Laura Lee Hope",
-   "chapters": 22,
-   "words": 308,
-   "coverage": {
-    "A1": 83.2,
-    "A2": 90.3,
-    "B1": 94.3,
-    "B2": 96.2,
-    "C1": 96.3,
-    "C2": 96.4
-   },
-   "refined": 0,
-   "genre": "生活",
-   "country": "美國",
-   "series": "鮑伯西雙胞胎",
-   "series_no": 1,
-   "v": 1,
-   "ver": "46cbe2ae75",
-   "size": 1662530,
-   "file": "packs/bobbsey-twins.json",
-   "updated": "2026-11-22"
-  },
-  {
    "id": "bobbsey-twins-at-home",
    "title": "The Bobbsey Twins at Home",
    "zh_title": "鮑伯西雙胞胎在家",
