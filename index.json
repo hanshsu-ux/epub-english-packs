@@ -2616,6 +2616,30 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "dawn",
+   "title": "Dawn",
+   "zh_title": "黎明",
+   "author": "Eleanor H. Porter",
+   "chapters": 33,
+   "words": 462,
+   "coverage": {
+    "A1": 83.7,
+    "A2": 89.8,
+    "B1": 93.7,
+    "B2": 95.5,
+    "C1": 95.7,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "v": 1,
+   "ver": "12acc5ca43",
+   "size": 2837852,
+   "file": "packs/dawn.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "dear-enemy",
    "title": "Dear Enemy",
    "zh_title": "親愛的敵人",
@@ -3045,6 +3069,30 @@
    "ver": "0878ac2c20",
    "size": 5814145,
    "file": "packs/emma.json",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "enchanted-april",
+   "title": "The Enchanted April",
+   "zh_title": "情迷四月天",
+   "author": "Elizabeth von Arnim",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 80.6,
+    "A2": 89.1,
+    "B1": 93.7,
+    "B2": 95.7,
+    "C1": 96.0,
+    "C2": 96.2
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "英國",
+   "v": 1,
+   "ver": "406b7b03fe",
+   "size": 2927899,
+   "file": "packs/enchanted-april.json",
    "updated": "2026-11-22"
   },
   {
@@ -3762,6 +3810,30 @@
    "size": 840816,
    "file": "packs/granny-s-wonderful-chair.json",
    "updated": "2026-11-21"
+  },
+  {
+   "id": "great-expectations",
+   "title": "Great Expectations",
+   "zh_title": "遠大前程",
+   "author": "Charles Dickens",
+   "chapters": 59,
+   "words": 826,
+   "coverage": {
+    "A1": 80.1,
+    "A2": 88.0,
+    "B1": 92.9,
+    "B2": 95.0,
+    "C1": 95.4,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "英國",
+   "v": 1,
+   "ver": "f5ebe36e3b",
+   "size": 6885142,
+   "file": "packs/great-expectations.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "green-fairy-book",
@@ -4781,6 +4853,30 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "kilmeny-of-the-orchard",
+   "title": "Kilmeny of the Orchard",
+   "zh_title": "果園裡的基爾米尼",
+   "author": "L. M. Montgomery",
+   "chapters": 19,
+   "words": 266,
+   "coverage": {
+    "A1": 81.1,
+    "A2": 88.5,
+    "B1": 92.8,
+    "B2": 94.9,
+    "C1": 95.5,
+    "C2": 95.7
+   },
+   "refined": 0,
+   "genre": "少女",
+   "country": "加拿大",
+   "v": 1,
+   "ver": "4a42fb6468",
+   "size": 1620253,
+   "file": "packs/kilmeny-of-the-orchard.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "king-solomon-s-mines",
    "title": "King Solomon's Mines",
    "zh_title": "所羅門王的寶藏",
@@ -5439,6 +5535,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "lorna-doone",
+   "title": "Lorna Doone",
+   "zh_title": "羅娜・杜恩",
+   "author": "R. D. Blackmore",
+   "chapters": 75,
+   "words": 1050,
+   "coverage": {
+    "A1": 78.3,
+    "A2": 87.4,
+    "B1": 92.1,
+    "B2": 94.3,
+    "C1": 94.6,
+    "C2": 94.7
+   },
+   "refined": 0,
+   "genre": "歷史",
+   "country": "英國",
+   "v": 1,
+   "ver": "6a4a89ae97",
+   "size": 9894205,
+   "file": "packs/lorna-doone.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "lost-prince",
    "title": "The Lost Prince",
    "zh_title": "失落的王子",
@@ -5689,6 +5809,30 @@
    "size": 6364373,
    "file": "packs/man-in-the-iron-mask.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "mansfield-park",
+   "title": "Mansfield Park",
+   "zh_title": "曼斯菲爾德莊園",
+   "author": "Jane Austen",
+   "chapters": 48,
+   "words": 672,
+   "coverage": {
+    "A1": 78.5,
+    "A2": 88.0,
+    "B1": 93.6,
+    "B2": 95.8,
+    "C1": 96.2,
+    "C2": 96.4
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "英國",
+   "v": 1,
+   "ver": "3f4c8ad7c6",
+   "size": 5961720,
+   "file": "packs/mansfield-park.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "mark-the-match-boy",
@@ -6325,6 +6469,30 @@
    "ver": "d6a3725c28",
    "size": 3085431,
    "file": "packs/moonfleet.json",
+   "updated": "2026-11-22"
+  },
+  {
+   "id": "moonstone",
+   "title": "The Moonstone",
+   "zh_title": "月光石",
+   "author": "Wilkie Collins",
+   "chapters": 51,
+   "words": 714,
+   "coverage": {
+    "A1": 79.9,
+    "A2": 88.5,
+    "B1": 93.9,
+    "B2": 96.1,
+    "C1": 96.4,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "v": 1,
+   "ver": "958b91bfb4",
+   "size": 7176888,
+   "file": "packs/moonstone.json",
    "updated": "2026-11-22"
   },
   {
@@ -7341,6 +7509,30 @@
    "size": 3087600,
    "file": "packs/phantom-of-the-opera.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "phil-the-fiddler",
+   "title": "Phil, the Fiddler",
+   "zh_title": "拉提琴的菲爾",
+   "author": "Horatio Alger",
+   "chapters": 26,
+   "words": 364,
+   "coverage": {
+    "A1": 80.4,
+    "A2": 88.4,
+    "B1": 93.2,
+    "B2": 95.3,
+    "C1": 95.9,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "v": 1,
+   "ver": "fbf13f61a5",
+   "size": 1797911,
+   "file": "packs/phil-the-fiddler.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "phoenix-and-the-carpet",
@@ -10249,6 +10441,30 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "trent-s-last-case",
+   "title": "Trent's Last Case",
+   "zh_title": "特倫特最後一案",
+   "author": "E. C. Bentley",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 79.2,
+    "A2": 88.4,
+    "B1": 93.7,
+    "B2": 95.9,
+    "C1": 96.2,
+    "C2": 96.4
+   },
+   "refined": 0,
+   "genre": "偵探",
+   "country": "英國",
+   "v": 1,
+   "ver": "564efee0cc",
+   "size": 2748119,
+   "file": "packs/trent-s-last-case.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "twenty-thousand-leagues-under-the-sea",
    "title": "Twenty Thousand Leagues under the Sea",
    "zh_title": "海底兩萬里",
@@ -10881,6 +11097,30 @@
    "size": 1442012,
    "file": "packs/when-patty-went-to-college.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "where-angels-fear-to-tread",
+   "title": "Where Angels Fear to Tread",
+   "zh_title": "天使裹足之處",
+   "author": "E. M. Forster",
+   "chapters": 10,
+   "words": 140,
+   "coverage": {
+    "A1": 79.9,
+    "A2": 88.2,
+    "B1": 93.0,
+    "B2": 95.4,
+    "C1": 95.8,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "英國",
+   "v": 1,
+   "ver": "4728c7b7c1",
+   "size": 1694082,
+   "file": "packs/where-angels-fear-to-tread.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "white-company",
