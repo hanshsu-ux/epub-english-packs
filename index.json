@@ -1498,6 +1498,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "blue-bird",
+   "title": "The Blue Bird",
+   "zh_title": "青鳥",
+   "author": "Maurice Maeterlinck",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 82.6,
+    "A2": 89.8,
+    "B1": 93.5,
+    "B2": 95.2,
+    "C1": 95.5,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "比利時",
+   "v": 1,
+   "ver": "a58cd56f3e",
+   "size": 1031734,
+   "file": "packs/blue-bird.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "blue-fairy-book",
    "title": "The Blue Fairy Book",
    "zh_title": "藍色童話",
@@ -1522,6 +1546,32 @@
    "size": 4978231,
    "file": "packs/blue-fairy-book.json",
    "updated": "2026-11-20"
+  },
+  {
+   "id": "bobbsey-twins",
+   "title": "The Bobbsey Twins",
+   "zh_title": "鮑伯西雙胞胎",
+   "author": "Laura Lee Hope",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 83.2,
+    "A2": 90.3,
+    "B1": 94.3,
+    "B2": 96.2,
+    "C1": 96.3,
+    "C2": 96.4
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "鮑伯西雙胞胎",
+   "series_no": 1,
+   "v": 1,
+   "ver": "46cbe2ae75",
+   "size": 1662530,
+   "file": "packs/bobbsey-twins.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "bobbsey-twins-at-home",
@@ -2548,6 +2598,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "diary-of-a-nobody",
+   "title": "The Diary of a Nobody",
+   "zh_title": "小人物日記",
+   "author": "George Grossmith",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 81.1,
+    "A2": 89.7,
+    "B1": 94.2,
+    "B2": 96.1,
+    "C1": 96.3,
+    "C2": 96.4
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "英國",
+   "v": 1,
+   "ver": "6140d58e2a",
+   "size": 1835645,
+   "file": "packs/diary-of-a-nobody.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "doctor-dolittle-s-post-office",
    "title": "Doctor Dolittle's Post Office",
    "zh_title": "杜立德醫生的郵局",
@@ -3422,6 +3496,30 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "gold-bat",
+   "title": "The Gold Bat",
+   "zh_title": "金球拍",
+   "author": "P. G. Wodehouse",
+   "chapters": 24,
+   "words": 336,
+   "coverage": {
+    "A1": 80.4,
+    "A2": 88.8,
+    "B1": 93.4,
+    "B2": 95.5,
+    "C1": 95.7,
+    "C2": 95.9
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "英國",
+   "v": 1,
+   "ver": "f2356975b9",
+   "size": 1818302,
+   "file": "packs/gold-bat.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "golden-age",
    "title": "The Golden Age",
    "zh_title": "黃金時代",
@@ -3676,6 +3774,30 @@
    "size": 2184346,
    "file": "packs/harding-s-luck.json",
    "updated": "2026-11-21"
+  },
+  {
+   "id": "harvester",
+   "title": "The Harvester",
+   "zh_title": "採藥人",
+   "author": "Gene Stratton-Porter",
+   "chapters": 21,
+   "words": 294,
+   "coverage": {
+    "A1": 81.7,
+    "A2": 89.4,
+    "B1": 93.9,
+    "B2": 96.1,
+    "C1": 96.3,
+    "C2": 96.4
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "v": 1,
+   "ver": "45de5a5eae",
+   "size": 4704807,
+   "file": "packs/harvester.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "heroes",
@@ -4979,6 +5101,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "little-lame-prince",
+   "title": "The Little Lame Prince",
+   "zh_title": "跛腳小王子",
+   "author": "Dinah Maria Mulock Craik",
+   "chapters": 15,
+   "words": 210,
+   "coverage": {
+    "A1": 79.5,
+    "A2": 88.6,
+    "B1": 93.5,
+    "B2": 95.6,
+    "C1": 96.0,
+    "C2": 96.2
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "英國",
+   "v": 1,
+   "ver": "652af72c91",
+   "size": 1797347,
+   "file": "packs/little-lame-prince.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "little-men",
    "title": "Little Men",
    "zh_title": "小男人",
@@ -5205,6 +5351,30 @@
    "size": 4705479,
    "file": "packs/madame-bovary.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "magic-city",
+   "title": "The Magic City",
+   "zh_title": "魔法城市",
+   "author": "E. Nesbit",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 81.8,
+    "A2": 89.7,
+    "B1": 93.8,
+    "B2": 95.9,
+    "C1": 96.1,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "v": 1,
+   "ver": "c85fb34c11",
+   "size": 1937466,
+   "file": "packs/magic-city.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "magic-of-oz",
@@ -6376,6 +6546,30 @@
    "size": 2334044,
    "file": "packs/o-pioneers.json",
    "updated": "2026-11-21"
+  },
+  {
+   "id": "oh-money-money",
+   "title": "Oh, Money! Money!",
+   "zh_title": "錢啊錢",
+   "author": "Eleanor H. Porter",
+   "chapters": 26,
+   "words": 364,
+   "coverage": {
+    "A1": 83.4,
+    "A2": 90.2,
+    "B1": 94.0,
+    "B2": 95.8,
+    "C1": 96.0,
+    "C2": 96.1
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "v": 1,
+   "ver": "f9f064db95",
+   "size": 2777246,
+   "file": "packs/oh-money-money.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "old-granny-fox",
@@ -8593,6 +8787,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "story-of-my-life",
+   "title": "The Story of My Life",
+   "zh_title": "海倫・凱勒自傳",
+   "author": "Helen Keller",
+   "chapters": 23,
+   "words": 322,
+   "coverage": {
+    "A1": 78.2,
+    "A2": 86.8,
+    "B1": 92.6,
+    "B2": 95.2,
+    "C1": 95.6,
+    "C2": 95.8
+   },
+   "refined": 0,
+   "genre": "紀實",
+   "country": "美國",
+   "v": 1,
+   "ver": "ad2e835f21",
+   "size": 1795688,
+   "file": "packs/story-of-my-life.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "story-of-siegfried",
    "title": "The Story of Siegfried",
    "zh_title": "齊格飛的故事",
@@ -8695,6 +8913,30 @@
    "size": 1771272,
    "file": "packs/study-in-scarlet.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "sunshine-sketches-of-a-little-town",
+   "title": "Sunshine Sketches of a Little Town",
+   "zh_title": "小鎮陽光素描",
+   "author": "Stephen Leacock",
+   "chapters": 12,
+   "words": 168,
+   "coverage": {
+    "A1": 80.9,
+    "A2": 89.0,
+    "B1": 93.5,
+    "B2": 95.5,
+    "C1": 95.8,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "幽默",
+   "country": "加拿大",
+   "v": 1,
+   "ver": "7b45738586",
+   "size": 2176650,
+   "file": "packs/sunshine-sketches-of-a-little-town.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "swiss-family-robinson",
