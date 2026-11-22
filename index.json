@@ -1980,6 +1980,30 @@
    "updated": "2026-11-19"
   },
   {
+   "id": "brothers-karamazov",
+   "title": "The Brothers Karamazov",
+   "zh_title": "卡拉馬助夫兄弟們",
+   "author": "Fyodor Dostoyevsky",
+   "chapters": 96,
+   "words": 1344,
+   "coverage": {
+    "A1": 79.1,
+    "A2": 87.6,
+    "B1": 92.9,
+    "B2": 95.4,
+    "C1": 95.8,
+    "C2": 96.0
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "俄國",
+   "v": 1,
+   "ver": "bc58e5f466",
+   "size": 12243698,
+   "file": "packs/brothers-karamazov.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "brown-fairy-book",
    "title": "The Brown Fairy Book",
    "zh_title": "棕色童話",
@@ -3144,6 +3168,30 @@
    "updated": "2026-11-22"
   },
   {
+   "id": "enchanted-castle",
+   "title": "The Enchanted Castle",
+   "zh_title": "魔法城堡",
+   "author": "E. Nesbit",
+   "chapters": 17,
+   "words": 238,
+   "coverage": {
+    "A1": 80.9,
+    "A2": 88.9,
+    "B1": 93.2,
+    "B2": 95.3,
+    "C1": 95.5,
+    "C2": 95.6
+   },
+   "refined": 0,
+   "genre": "奇幻",
+   "country": "英國",
+   "v": 1,
+   "ver": "a2cda2ae42",
+   "size": 2342997,
+   "file": "packs/enchanted-castle.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "english-fairy-tales",
    "title": "English Fairy Tales",
    "zh_title": "英國童話",
@@ -3528,6 +3576,30 @@
    "size": 2561290,
    "file": "packs/five-little-peppers-midway.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "flower-fables",
+   "title": "Flower Fables",
+   "zh_title": "花之寓言",
+   "author": "Louisa May Alcott",
+   "chapters": 6,
+   "words": 84,
+   "coverage": {
+    "A1": 76.0,
+    "A2": 86.7,
+    "B1": 92.1,
+    "B2": 94.9,
+    "C1": 95.3,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "童話",
+   "country": "美國",
+   "v": 1,
+   "ver": "5134b51f35",
+   "size": 1219239,
+   "file": "packs/flower-fables.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "four-feathers",
@@ -6872,6 +6944,30 @@
    "updated": "2026-11-20"
   },
   {
+   "id": "mrs-dalloway",
+   "title": "Mrs. Dalloway",
+   "zh_title": "戴洛維夫人",
+   "author": "Virginia Woolf",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 79.1,
+    "A2": 87.3,
+    "B1": 92.2,
+    "B2": 94.8,
+    "C1": 95.2,
+    "C2": 95.5
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "英國",
+   "v": 1,
+   "ver": "38c09c865b",
+   "size": 2400336,
+   "file": "packs/mrs-dalloway.json",
+   "updated": "2026-11-22"
+  },
+  {
    "id": "mrs-peter-rabbit",
    "title": "Mrs. Peter Rabbit",
    "zh_title": "彼得兔太太",
@@ -7753,6 +7849,30 @@
    "size": 10632053,
    "file": "packs/pickwick-papers.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "picture-of-dorian-gray",
+   "title": "The Picture of Dorian Gray",
+   "zh_title": "格雷的畫像",
+   "author": "Oscar Wilde",
+   "chapters": 20,
+   "words": 280,
+   "coverage": {
+    "A1": 79.0,
+    "A2": 87.3,
+    "B1": 92.3,
+    "B2": 94.8,
+    "C1": 95.2,
+    "C2": 95.4
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "英國",
+   "v": 1,
+   "ver": "ede38b6400",
+   "size": 2758399,
+   "file": "packs/picture-of-dorian-gray.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "pink-fairy-book",
@@ -9195,6 +9315,30 @@
    "size": 1622086,
    "file": "packs/sign-of-the-four.json",
    "updated": "2026-11-19"
+  },
+  {
+   "id": "sink-or-swim",
+   "title": "Sink or Swim",
+   "zh_title": "不沉就游",
+   "author": "Horatio Alger",
+   "chapters": 36,
+   "words": 504,
+   "coverage": {
+    "A1": 79.1,
+    "A2": 88.5,
+    "B1": 93.8,
+    "B2": 96.2,
+    "C1": 96.5,
+    "C2": 96.7
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "v": 1,
+   "ver": "a389914029",
+   "size": 2683665,
+   "file": "packs/sink-or-swim.json",
+   "updated": "2026-11-22"
   },
   {
    "id": "sir-nigel",
