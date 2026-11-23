@@ -6982,14 +6982,14 @@
     "C1": 97.7,
     "C2": 97.7
    },
-   "refined": 3,
+   "refined": 27,
    "genre": "動物",
    "country": "美國",
    "series": "伯吉斯綠野故事",
    "series_no": 2,
    "v": 1,
-   "ver": "9a52e6dd66",
-   "size": 1141283,
+   "ver": "7ec874b9d3",
+   "size": 1180752,
    "file": "packs/mrs-peter-rabbit.json",
    "updated": "2026-11-23"
   },
