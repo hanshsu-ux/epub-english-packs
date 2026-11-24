@@ -94,16 +94,16 @@
     "C1": 97.3,
     "C2": 97.3
    },
-   "refined": 0,
+   "refined": 13,
    "genre": "動物",
    "country": "美國",
    "series": "伯吉斯睡前故事",
    "series_no": 14,
    "v": 1,
-   "ver": "8b4fd28cfd",
-   "size": 849550,
+   "ver": "46d5f4a0d6",
+   "size": 870046,
    "file": "packs/adventures-of-buster-bear.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "adventures-of-chatterer-the-red-squirrel",
@@ -6982,16 +6982,16 @@
     "C1": 97.7,
     "C2": 97.7
    },
-   "refined": 27,
+   "refined": 29,
    "genre": "動物",
    "country": "美國",
    "series": "伯吉斯綠野故事",
    "series_no": 2,
    "v": 1,
-   "ver": "7ec874b9d3",
-   "size": 1180752,
+   "ver": "fe7e04c74e",
+   "size": 1182283,
    "file": "packs/mrs-peter-rabbit.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "my-man-jeeves",
