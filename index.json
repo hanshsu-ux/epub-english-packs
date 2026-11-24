@@ -432,14 +432,14 @@
     "C1": 97.9,
     "C2": 97.9
    },
-   "refined": 5,
+   "refined": 19,
    "genre": "動物",
    "country": "美國",
    "series": "伯吉斯動物故事",
    "series_no": 1,
    "v": 1,
-   "ver": "29ec2dad1a",
-   "size": 870385,
+   "ver": "b9a8664c9a",
+   "size": 893979,
    "file": "packs/adventures-of-paddy-the-beaver.json",
    "updated": "2026-11-24"
   },
