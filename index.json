@@ -94,14 +94,14 @@
     "C1": 97.3,
     "C2": 97.3
    },
-   "refined": 13,
+   "refined": 21,
    "genre": "動物",
    "country": "美國",
    "series": "伯吉斯睡前故事",
    "series_no": 14,
    "v": 1,
-   "ver": "46d5f4a0d6",
-   "size": 870046,
+   "ver": "3b5e3528cd",
+   "size": 885254,
    "file": "packs/adventures-of-buster-bear.json",
    "updated": "2026-11-24"
   },
@@ -432,16 +432,16 @@
     "C1": 97.9,
     "C2": 97.9
    },
-   "refined": 0,
+   "refined": 5,
    "genre": "動物",
    "country": "美國",
    "series": "伯吉斯動物故事",
    "series_no": 1,
    "v": 1,
-   "ver": "c0b0653c3d",
-   "size": 862194,
+   "ver": "29ec2dad1a",
+   "size": 870385,
    "file": "packs/adventures-of-paddy-the-beaver.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "adventures-of-peter-cottontail",
@@ -488,10 +488,10 @@
    "genre": "童話",
    "country": "義大利",
    "v": 1,
-   "ver": "44e8976b06",
-   "size": 1767771,
+   "ver": "1bb18daddc",
+   "size": 1781022,
    "file": "packs/adventures-of-pinocchio.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "adventures-of-poor-mrs-quack",
@@ -1334,10 +1334,10 @@
    "genre": "動物",
    "country": "加拿大",
    "v": 1,
-   "ver": "c7e6aced69",
-   "size": 3435547,
+   "ver": "8a6238b748",
+   "size": 3448183,
    "file": "packs/beautiful-joe.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "belgian-twins",
@@ -1514,10 +1514,10 @@
    "series": "伯吉斯動物故事",
    "series_no": 6,
    "v": 1,
-   "ver": "0d0ea49dcd",
-   "size": 1228626,
+   "ver": "ad9c5900a2",
+   "size": 1243614,
    "file": "packs/billy-mink.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "blacky-the-crow",
@@ -1974,10 +1974,10 @@
    "series": "伯吉斯綠野故事",
    "series_no": 3,
    "v": 1,
-   "ver": "d8e1cbb854",
-   "size": 1257170,
+   "ver": "452294fa07",
+   "size": 1272884,
    "file": "packs/bowser-the-hound.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "brothers-karamazov",
@@ -2050,10 +2050,10 @@
    "series": "睡前故事",
    "series_no": 5,
    "v": 1,
-   "ver": "66fb0362d8",
-   "size": 1620797,
+   "ver": "cec059704a",
+   "size": 1631801,
    "file": "packs/buddy-and-brighteyes-pigg.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "bulfinch-s-mythology-the-age-of-fable",
@@ -2100,10 +2100,10 @@
    "series": "伯吉斯自然書",
    "series_no": 2,
    "v": 1,
-   "ver": "edc5be4a00",
-   "size": 2906935,
+   "ver": "f53c6b74dd",
+   "size": 2921682,
    "file": "packs/burgess-animal-book-for-children.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "burgess-bird-book-for-children",
@@ -2126,10 +2126,10 @@
    "series": "伯吉斯自然書",
    "series_no": 1,
    "v": 1,
-   "ver": "3a5bc5fb4b",
-   "size": 2980573,
+   "ver": "4df038dd50",
+   "size": 2996098,
    "file": "packs/burgess-bird-book-for-children.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "buster-bear-s-twins",
@@ -2152,10 +2152,10 @@
    "series": "伯吉斯動物故事",
    "series_no": 5,
    "v": 1,
-   "ver": "d03c726506",
-   "size": 1222467,
+   "ver": "f966872eab",
+   "size": 1235778,
    "file": "packs/buster-bear-s-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "captain-blood",
@@ -2606,10 +2606,10 @@
    "genre": "奇幻",
    "country": "英國",
    "v": 1,
-   "ver": "2dc3cbd337",
-   "size": 1325035,
+   "ver": "8361210da2",
+   "size": 1328887,
    "file": "packs/cuckoo-clock.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "daddy-long-legs",
@@ -4102,10 +4102,10 @@
    "series": "伯吉斯綠野故事",
    "series_no": 1,
    "v": 1,
-   "ver": "fc2fe81b7e",
-   "size": 1191107,
+   "ver": "ff52b2311a",
+   "size": 1203707,
    "file": "packs/happy-jack.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "harding-s-luck",
@@ -5163,10 +5163,10 @@
    "genre": "生活",
    "country": "美國",
    "v": 1,
-   "ver": "3243fa981b",
-   "size": 4849765,
+   "ver": "08360020a7",
+   "size": 4856548,
    "file": "packs/laddie.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "land-of-mist",
@@ -5621,10 +5621,10 @@
    "series": "伯吉斯動物故事",
    "series_no": 7,
    "v": 1,
-   "ver": "795819f9d6",
-   "size": 1166736,
+   "ver": "79bfe85b1a",
+   "size": 1180296,
    "file": "packs/little-joe-otter.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "little-lame-prince",
@@ -5719,10 +5719,10 @@
    "genre": "短篇",
    "country": "英國",
    "v": 1,
-   "ver": "85d829ffb9",
-   "size": 912726,
+   "ver": "997f632496",
+   "size": 915201,
    "file": "packs/little-saint-elizabeth.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "little-women",
@@ -5793,10 +5793,10 @@
    "genre": "冒險",
    "country": "英國",
    "v": 1,
-   "ver": "a7bb2bbbc2",
-   "size": 3628788,
+   "ver": "857c62c1be",
+   "size": 3640719,
    "file": "packs/lost-prince.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "lost-princess-of-oz",
@@ -5897,10 +5897,10 @@
    "series": "睡前故事",
    "series_no": 3,
    "v": 1,
-   "ver": "33dd161b74",
-   "size": 1561786,
+   "ver": "325cd5c175",
+   "size": 1572821,
    "file": "packs/lulu-alice-and-jimmie-wibblewobble.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "madame-bovary",
@@ -6454,10 +6454,10 @@
    "genre": "經典",
    "country": "捷克",
    "v": 1,
-   "ver": "e3ecba7fe7",
-   "size": 839249,
+   "ver": "41371a2339",
+   "size": 840542,
    "file": "packs/metamorphosis.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "mexican-twins",
@@ -6530,10 +6530,10 @@
    "genre": "生活",
    "country": "美國",
    "v": 1,
-   "ver": "01ddbbd2bb",
-   "size": 4467689,
+   "ver": "fc7226d63c",
+   "size": 4475082,
    "file": "packs/michael-o-halloran.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "mike",
@@ -6658,10 +6658,10 @@
    "genre": "生活",
    "country": "瑞士",
    "v": 1,
-   "ver": "a6cfb2c49f",
-   "size": 403185,
+   "ver": "953376cab5",
+   "size": 405081,
    "file": "packs/moni-the-goat-boy.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "moonfleet",
@@ -6988,8 +6988,8 @@
    "series": "伯吉斯綠野故事",
    "series_no": 2,
    "v": 1,
-   "ver": "fe7e04c74e",
-   "size": 1182283,
+   "ver": "e0753f8518",
+   "size": 1194691,
    "file": "packs/mrs-peter-rabbit.json",
    "updated": "2026-11-24"
   },
@@ -7116,10 +7116,10 @@
    "series": "尋寶的孩子們",
    "series_no": 3,
    "v": 1,
-   "ver": "2a0f34f840",
-   "size": 2202363,
+   "ver": "60a3e287ff",
+   "size": 2207789,
    "file": "packs/new-treasure-seekers.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "news-from-nowhere",
@@ -7164,10 +7164,10 @@
    "genre": "童話",
    "country": "英國",
    "v": 1,
-   "ver": "cd0fe18ced",
-   "size": 1538865,
+   "ver": "330bc7c0a8",
+   "size": 1542693,
    "file": "packs/nine-unlikely-tales.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "nobody-s-boy",
@@ -7188,10 +7188,10 @@
    "genre": "生活",
    "country": "法國",
    "v": 1,
-   "ver": "a54cff262b",
-   "size": 3266615,
+   "ver": "a95a20a08e",
+   "size": 3280193,
    "file": "packs/nobody-s-boy.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "notes-from-the-underground",
@@ -7310,10 +7310,10 @@
    "series": "伯吉斯綠野故事",
    "series_no": 4,
    "v": 1,
-   "ver": "f5fb0b9cb2",
-   "size": 1182137,
+   "ver": "6157786f06",
+   "size": 1193189,
    "file": "packs/old-granny-fox.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "old-greek-stories",
@@ -7464,10 +7464,10 @@
    "series": "尋寶的孩子們",
    "series_no": 4,
    "v": 1,
-   "ver": "eb9548acd3",
-   "size": 2407803,
+   "ver": "77202bfc94",
+   "size": 2414074,
    "file": "packs/oswald-bastable-and-others.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "ozma-of-oz",
@@ -8255,10 +8255,10 @@
    "genre": "童話",
    "country": "英國",
    "v": 1,
-   "ver": "244eb9beb2",
-   "size": 368644,
+   "ver": "24a4038541",
+   "size": 370396,
    "file": "packs/racketty-packetty-house.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "raffles-further-adventures-of-the-amateu",
@@ -8333,10 +8333,10 @@
    "series": "布娃娃",
    "series_no": 2,
    "v": 1,
-   "ver": "29d5e74606",
-   "size": 635446,
+   "ver": "92876571f6",
+   "size": 639118,
    "file": "packs/raggedy-andy-stories.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "raggedy-ann-stories",
@@ -8359,10 +8359,10 @@
    "series": "布娃娃",
    "series_no": 1,
    "v": 1,
-   "ver": "0af2e6030f",
-   "size": 699654,
+   "ver": "236c16824f",
+   "size": 704031,
    "file": "packs/raggedy-ann-stories.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "rainbow-trail",
@@ -8591,10 +8591,10 @@
    "genre": "生活",
    "country": "瑞士",
    "v": 1,
-   "ver": "7009eed3a3",
-   "size": 2528597,
+   "ver": "dbe7644038",
+   "size": 2539502,
    "file": "packs/rico-and-wiseli.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "riders-of-the-purple-sage",
@@ -9057,10 +9057,10 @@
    "series": "睡前故事",
    "series_no": 1,
    "v": 1,
-   "ver": "88f7595bae",
-   "size": 1338884,
+   "ver": "5cf6b586ae",
+   "size": 1349987,
    "file": "packs/sammie-and-susie-littletail.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "sara-crewe",
@@ -9081,10 +9081,10 @@
    "genre": "少女",
    "country": "英國",
    "v": 1,
-   "ver": "1097900d65",
-   "size": 590631,
+   "ver": "24ed9ba447",
+   "size": 592383,
    "file": "packs/sara-crewe.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "scarecrow-of-oz",
@@ -9721,10 +9721,10 @@
    "series": "尋寶的孩子們",
    "series_no": 1,
    "v": 1,
-   "ver": "db841f5f37",
-   "size": 1784341,
+   "ver": "6fce8efea3",
+   "size": 1790853,
    "file": "packs/story-of-the-treasure-seekers.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "struggling-upward",
@@ -11175,10 +11175,10 @@
    "genre": "童話",
    "country": "英國",
    "v": 1,
-   "ver": "9731e60fd5",
-   "size": 143366,
+   "ver": "3ab1444d94",
+   "size": 143831,
    "file": "packs/velveteen-rabbit.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "vicomte-de-bragelonne",
@@ -11833,10 +11833,10 @@
    "series": "尋寶的孩子們",
    "series_no": 2,
    "v": 1,
-   "ver": "61f482c3e9",
-   "size": 2582702,
+   "ver": "d56671b178",
+   "size": 2588339,
    "file": "packs/wouldbegoods.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "wulf-the-saxon",
@@ -11933,10 +11933,10 @@
    "genre": "驚悚",
    "country": "美國",
    "v": 1,
-   "ver": "7d14aa64a2",
-   "size": 247592,
+   "ver": "f0e67dc7e6",
+   "size": 249056,
    "file": "packs/yellow-wallpaper.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-24"
   },
   {
    "id": "young-carthaginian",
