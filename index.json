@@ -4076,8 +4076,8 @@
    "series": "彩色童話",
    "series_no": 4,
    "v": 1,
-   "ver": "75e0adec86",
-   "size": 3650976,
+   "ver": "988db99ece",
+   "size": 3650979,
    "file": "packs/grey-fairy-book.json",
    "updated": "2026-11-28"
   },
@@ -6430,8 +6430,8 @@
    "series": "福爾摩斯",
    "series_no": 4,
    "v": 1,
-   "ver": "4581ecae8f",
-   "size": 2998378,
+   "ver": "04e0b8a6eb",
+   "size": 2998426,
    "file": "packs/memoirs-of-sherlock-holmes.json",
    "updated": "2026-11-28"
   },
@@ -8463,7 +8463,7 @@
    "series": "彩色童話",
    "series_no": 2,
    "v": 1,
-   "ver": "e328267c39",
+   "ver": "c72b032b0d",
    "size": 4312445,
    "file": "packs/red-fairy-book.json",
    "updated": "2026-11-28"
@@ -9439,8 +9439,8 @@
    "series": "布蘭丁斯城堡",
    "series_no": 1,
    "v": 1,
-   "ver": "b3dccea8e2",
-   "size": 2626915,
+   "ver": "79d63b29bf",
+   "size": 2626929,
    "file": "packs/something-new.json",
    "updated": "2026-11-28"
   },
@@ -11553,8 +11553,8 @@
    "series": "伯吉斯動物故事",
    "series_no": 4,
    "v": 1,
-   "ver": "61742db785",
-   "size": 1140418,
+   "ver": "262218fe84",
+   "size": 1140442,
    "file": "packs/whitefoot-the-wood-mouse.json",
    "updated": "2026-11-28"
   },
