@@ -1564,10 +1564,10 @@
    "genre": "童話",
    "country": "比利時",
    "v": 1,
-   "ver": "80459fe0e2",
-   "size": 1031418,
+   "ver": "41b44cee05",
+   "size": 1036164,
    "file": "packs/blue-bird.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "blue-fairy-book",
@@ -1900,10 +1900,10 @@
    "genre": "童話",
    "country": "英國",
    "v": 1,
-   "ver": "e680ae1eee",
-   "size": 1436794,
+   "ver": "4bce7a8d95",
+   "size": 1439413,
    "file": "packs/book-of-dragons.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "book-of-myths",
@@ -2706,10 +2706,10 @@
    "genre": "生活",
    "country": "美國",
    "v": 1,
-   "ver": "9783345400",
-   "size": 2837437,
+   "ver": "50b93c979e",
+   "size": 2846922,
    "file": "packs/dawn.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "dear-enemy",
