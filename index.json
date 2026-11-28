@@ -1596,6 +1596,32 @@
    "updated": "2026-11-28"
   },
   {
+   "id": "bobbsey-twins",
+   "title": "The Bobbsey Twins",
+   "zh_title": "鮑伯西雙胞胎",
+   "author": "Laura Lee Hope",
+   "chapters": 22,
+   "words": 308,
+   "coverage": {
+    "A1": 84.3,
+    "A2": 91.0,
+    "B1": 94.6,
+    "B2": 96.4,
+    "C1": 96.6,
+    "C2": 96.6
+   },
+   "refined": 0,
+   "genre": "生活",
+   "country": "美國",
+   "series": "鮑伯西雙胞胎",
+   "series_no": 1,
+   "v": 1,
+   "ver": "cab745fbc1",
+   "size": 1334408,
+   "file": "packs/bobbsey-twins.json",
+   "updated": "2026-11-28"
+  },
+  {
    "id": "bobbsey-twins-at-home",
    "title": "The Bobbsey Twins at Home",
    "zh_title": "鮑伯西雙胞胎在家",
@@ -4383,6 +4409,30 @@
    "ver": "6ce5b14c1d",
    "size": 2799405,
    "file": "packs/house-without-a-key.json",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "hunchback-of-notre-dame",
+   "title": "The Hunchback of Notre-Dame",
+   "zh_title": "鐘樓怪人",
+   "author": "Victor Hugo",
+   "chapters": 59,
+   "words": 815,
+   "coverage": {
+    "A1": 71.7,
+    "A2": 80.6,
+    "B1": 86.8,
+    "B2": 90.2,
+    "C1": 90.9,
+    "C2": 91.3
+   },
+   "refined": 0,
+   "genre": "經典",
+   "country": "法國",
+   "v": 1,
+   "ver": "73209b83c3",
+   "size": 7056714,
+   "file": "packs/hunchback-of-notre-dame.json",
    "updated": "2026-11-28"
   },
   {
@@ -8829,6 +8879,32 @@
    "updated": "2026-11-28"
   },
   {
+   "id": "round-the-moon",
+   "title": "Round the Moon",
+   "zh_title": "環繞月球",
+   "author": "Jules Verne",
+   "chapters": 23,
+   "words": 322,
+   "coverage": {
+    "A1": 70.9,
+    "A2": 82.6,
+    "B1": 90.1,
+    "B2": 92.8,
+    "C1": 93.4,
+    "C2": 93.7
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "法國",
+   "series": "月球",
+   "series_no": 2,
+   "v": 1,
+   "ver": "ff1a180a55",
+   "size": 2126351,
+   "file": "packs/round-the-moon.json",
+   "updated": "2026-11-28"
+  },
+  {
    "id": "rover-boys-at-school",
    "title": "The Rover Boys at School",
    "zh_title": "羅孚男孩上學記",
@@ -11280,6 +11356,32 @@
    "ver": "cd597ce95a",
    "size": 22903745,
    "file": "packs/war-and-peace.json",
+   "updated": "2026-11-28"
+  },
+  {
+   "id": "warlord-of-mars",
+   "title": "The Warlord of Mars",
+   "zh_title": "火星軍閥",
+   "author": "Edgar Rice Burroughs",
+   "chapters": 16,
+   "words": 224,
+   "coverage": {
+    "A1": 72.0,
+    "A2": 83.0,
+    "B1": 90.2,
+    "B2": 93.4,
+    "C1": 93.9,
+    "C2": 94.1
+   },
+   "refined": 0,
+   "genre": "科幻",
+   "country": "美國",
+   "series": "火星",
+   "series_no": 3,
+   "v": 1,
+   "ver": "5144444817",
+   "size": 2341951,
+   "file": "packs/warlord-of-mars.json",
    "updated": "2026-11-28"
   },
   {
