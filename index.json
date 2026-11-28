@@ -22,10 +22,10 @@
    "series": "亞森・羅蘋",
    "series_no": 4,
    "v": 1,
-   "ver": "180f43623d",
-   "size": 3449027,
+   "ver": "7610c8c4ad",
+   "size": 3455754,
    "file": "packs/813.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "adventures-of-bob-white",
@@ -42,16 +42,16 @@
     "C1": 98.2,
     "C2": 98.2
    },
-   "refined": 0,
+   "refined": 13,
    "genre": "動物",
    "country": "美國",
    "series": "伯吉斯睡前故事",
    "series_no": 18,
    "v": 1,
-   "ver": "846200a1a5",
-   "size": 860771,
+   "ver": "b2454b3921",
+   "size": 889261,
    "file": "packs/adventures-of-bob-white.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "adventures-of-bobby-coon",
@@ -178,10 +178,10 @@
    "series": "傑拉德准將",
    "series_no": 2,
    "v": 1,
-   "ver": "64e65687a2",
-   "size": 2259113,
+   "ver": "8afc09e0c6",
+   "size": 2263734,
    "file": "packs/adventures-of-gerard.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "adventures-of-grandfather-frog",
@@ -230,10 +230,10 @@
    "series": "湯姆歷險記",
    "series_no": 2,
    "v": 1,
-   "ver": "462ce07571",
-   "size": 3848361,
+   "ver": "68571f45fe",
+   "size": 3868026,
    "file": "packs/adventures-of-huckleberry-finn.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "adventures-of-jerry-muskrat",
@@ -438,10 +438,10 @@
    "series": "伯吉斯動物故事",
    "series_no": 1,
    "v": 1,
-   "ver": "b9a8664c9a",
-   "size": 893979,
+   "ver": "302f2f4318",
+   "size": 896059,
    "file": "packs/adventures-of-paddy-the-beaver.json",
-   "updated": "2026-11-24"
+   "updated": "2026-11-28"
   },
   {
    "id": "adventures-of-peter-cottontail",
@@ -618,10 +618,10 @@
    "series": "福爾摩斯",
    "series_no": 3,
    "v": 1,
-   "ver": "9100568361",
-   "size": 3471706,
+   "ver": "5557bba96b",
+   "size": 3480058,
    "file": "packs/adventures-of-sherlock-holmes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "adventures-of-tom-sawyer",
@@ -644,10 +644,10 @@
    "series": "湯姆歷險記",
    "series_no": 1,
    "v": 1,
-   "ver": "394d274708",
-   "size": 2929456,
+   "ver": "b15c5d0546",
+   "size": 2945240,
    "file": "packs/adventures-of-tom-sawyer.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "adventures-of-unc-billy-possum",
@@ -694,10 +694,10 @@
    "genre": "經典",
    "country": "英國",
    "v": 1,
-   "ver": "8ba956f055",
-   "size": 2712192,
+   "ver": "483b974837",
+   "size": 2721863,
    "file": "packs/agnes-grey.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "allan-quatermain",
@@ -720,10 +720,10 @@
    "series": "夸特曼",
    "series_no": 2,
    "v": 1,
-   "ver": "92476befbc",
-   "size": 3994497,
+   "ver": "19a8a63e77",
+   "size": 4003800,
    "file": "packs/allan-quatermain.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "allan-s-wife",
@@ -746,10 +746,10 @@
    "series": "夸特曼",
    "series_no": 3,
    "v": 1,
-   "ver": "a78d96b124",
-   "size": 1924325,
+   "ver": "06cd39f6bd",
+   "size": 1930270,
    "file": "packs/allan-s-wife.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "amateur-cracksman",
@@ -772,10 +772,10 @@
    "series": "萊佛士",
    "series_no": 1,
    "v": 1,
-   "ver": "9d9a0cfe28",
-   "size": 1762487,
+   "ver": "d009fdd263",
+   "size": 1766206,
    "file": "packs/amateur-cracksman.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "animal-heroes",
@@ -798,10 +798,10 @@
    "series": "西頓動物記",
    "series_no": 3,
    "v": 1,
-   "ver": "a495484c84",
-   "size": 2049033,
+   "ver": "b51e6c0e43",
+   "size": 2053217,
    "file": "packs/animal-heroes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "anna-karenina",
@@ -848,10 +848,10 @@
    "series": "清秀佳人",
    "series_no": 2,
    "v": 1,
-   "ver": "2c9c9eaa7f",
-   "size": 3305522,
+   "ver": "a5e71c3e9b",
+   "size": 3319524,
    "file": "packs/anne-of-avonlea.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "anne-of-the-island",
@@ -874,10 +874,10 @@
    "series": "清秀佳人",
    "series_no": 3,
    "v": 1,
-   "ver": "8698cac299",
-   "size": 3094062,
+   "ver": "61dd4453d0",
+   "size": 3111645,
    "file": "packs/anne-of-the-island.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "anne-s-house-of-dreams",
@@ -900,10 +900,10 @@
    "series": "清秀佳人",
    "series_no": 5,
    "v": 1,
-   "ver": "f3fe0d91a5",
-   "size": 3138614,
+   "ver": "918000dd30",
+   "size": 3157857,
    "file": "packs/anne-s-house-of-dreams.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "arabian-nights-entertainments",
@@ -924,10 +924,10 @@
    "genre": "童話",
    "country": "英國",
    "v": 1,
-   "ver": "118fd7ddd5",
-   "size": 4296933,
+   "ver": "3b69a1bffc",
+   "size": 4313539,
    "file": "packs/arabian-nights-entertainments.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "ars-ne-lupin-versus-herlock-sholmes",
@@ -950,10 +950,10 @@
    "series": "亞森・羅蘋",
    "series_no": 2,
    "v": 1,
-   "ver": "47123ecf7a",
-   "size": 1923171,
+   "ver": "9fc63aaf29",
+   "size": 1926630,
    "file": "packs/ars-ne-lupin-versus-herlock-sholmes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "at-the-back-of-the-north-wind",
@@ -1000,10 +1000,10 @@
    "series": "佩魯西達",
    "series_no": 1,
    "v": 1,
-   "ver": "a1f5f277ad",
-   "size": 2037706,
+   "ver": "bed34bab1e",
+   "size": 2043358,
    "file": "packs/at-the-earth-s-core.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "aunt-jane-s-nieces",
@@ -1026,10 +1026,10 @@
    "series": "珍姑媽的姪女們",
    "series_no": 1,
    "v": 1,
-   "ver": "df8b16c623",
-   "size": 2190978,
+   "ver": "b1f8813fd9",
+   "size": 2200718,
    "file": "packs/aunt-jane-s-nieces.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "aunt-jane-s-nieces-abroad",
@@ -1052,10 +1052,10 @@
    "series": "珍姑媽的姪女們",
    "series_no": 2,
    "v": 1,
-   "ver": "c0f909158c",
-   "size": 2555371,
+   "ver": "c0d16973b2",
+   "size": 2565501,
    "file": "packs/aunt-jane-s-nieces-abroad.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "aunt-jane-s-nieces-and-uncle-john",
@@ -1078,10 +1078,10 @@
    "series": "珍姑媽的姪女們",
    "series_no": 6,
    "v": 1,
-   "ver": "a9048140ef",
-   "size": 1870942,
+   "ver": "cafbacdd93",
+   "size": 1878395,
    "file": "packs/aunt-jane-s-nieces-and-uncle-john.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "aunt-jane-s-nieces-at-millville",
@@ -1104,10 +1104,10 @@
    "series": "珍姑媽的姪女們",
    "series_no": 3,
    "v": 1,
-   "ver": "c466f3c7b3",
-   "size": 2138705,
+   "ver": "0b36262151",
+   "size": 2148799,
    "file": "packs/aunt-jane-s-nieces-at-millville.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "aunt-jane-s-nieces-at-work",
@@ -1130,10 +1130,10 @@
    "series": "珍姑媽的姪女們",
    "series_no": 4,
    "v": 1,
-   "ver": "2964d7e98e",
-   "size": 1924411,
+   "ver": "468bdc565f",
+   "size": 1931536,
    "file": "packs/aunt-jane-s-nieces-at-work.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "aunt-jane-s-nieces-in-society",
@@ -1156,10 +1156,10 @@
    "series": "珍姑媽的姪女們",
    "series_no": 5,
    "v": 1,
-   "ver": "4bd6e6569e",
-   "size": 1971530,
+   "ver": "f8dbe5ae8b",
+   "size": 1979297,
    "file": "packs/aunt-jane-s-nieces-in-society.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "aunt-jane-s-nieces-on-the-ranch",
@@ -1182,10 +1182,10 @@
    "series": "珍姑媽的姪女們",
    "series_no": 8,
    "v": 1,
-   "ver": "053fd31902",
-   "size": 1868701,
+   "ver": "f6644e782f",
+   "size": 1876038,
    "file": "packs/aunt-jane-s-nieces-on-the-ranch.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "aunt-jane-s-nieces-on-vacation",
@@ -1208,10 +1208,10 @@
    "series": "珍姑媽的姪女們",
    "series_no": 7,
    "v": 1,
-   "ver": "42584593e4",
-   "size": 2111915,
+   "ver": "5b180c477d",
+   "size": 2119773,
    "file": "packs/aunt-jane-s-nieces-on-vacation.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "aunt-jo-s-scrap-bag",
@@ -1258,10 +1258,10 @@
    "series": "她",
    "series_no": 2,
    "v": 1,
-   "ver": "1b44fec03a",
-   "size": 4087794,
+   "ver": "32e33d78b5",
+   "size": 4097168,
    "file": "packs/ayesha-the-return-of-she.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "baree-son-of-kazan",
@@ -1284,10 +1284,10 @@
    "series": "卡讚",
    "series_no": 2,
    "v": 1,
-   "ver": "0ad6d0ba28",
-   "size": 2696998,
+   "ver": "6a629fc9d0",
+   "size": 2706594,
    "file": "packs/baree-son-of-kazan.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "beasts-of-tarzan",
@@ -1310,10 +1310,10 @@
    "series": "泰山",
    "series_no": 3,
    "v": 1,
-   "ver": "1a4c13007a",
-   "size": 2745104,
+   "ver": "59a3bc786b",
+   "size": 2751734,
    "file": "packs/beasts-of-tarzan.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "beautiful-joe",
@@ -1360,10 +1360,10 @@
    "series": "世界雙胞胎",
    "series_no": 6,
    "v": 1,
-   "ver": "b0f0bc4f48",
-   "size": 989194,
+   "ver": "816da86ea8",
+   "size": 994580,
    "file": "packs/belgian-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "ben-pepper",
@@ -1386,10 +1386,10 @@
    "series": "五個小胡椒",
    "series_no": 8,
    "v": 1,
-   "ver": "bdcd2b01f8",
-   "size": 3156551,
+   "ver": "8aa17c20ba",
+   "size": 3167896,
    "file": "packs/ben-pepper.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "ben-the-luggage-boy",
@@ -1412,10 +1412,10 @@
    "series": "衣衫襤褸的迪克",
    "series_no": 5,
    "v": 1,
-   "ver": "aa9bbb68d3",
-   "size": 1986134,
+   "ver": "a038191b2c",
+   "size": 1997133,
    "file": "packs/ben-the-luggage-boy.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "beric-the-briton",
@@ -1438,10 +1438,10 @@
    "series": "韓蒂歷史冒險",
    "series_no": 8,
    "v": 1,
-   "ver": "6a5001d714",
-   "size": 5112802,
+   "ver": "f5f5063c66",
+   "size": 5121157,
    "file": "packs/beric-the-briton.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "betrothed",
@@ -1462,10 +1462,10 @@
    "genre": "經典",
    "country": "義大利",
    "v": 1,
-   "ver": "98603f6cc4",
-   "size": 6192427,
+   "ver": "c3314c539b",
+   "size": 6206572,
    "file": "packs/betrothed.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "betty-zane",
@@ -1488,10 +1488,10 @@
    "series": "俄亥俄河三部曲",
    "series_no": 1,
    "v": 1,
-   "ver": "a97e218dab",
-   "size": 3435892,
+   "ver": "2baa3e6ab5",
+   "size": 3441359,
    "file": "packs/betty-zane.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "billy-mink",
@@ -1534,16 +1534,16 @@
     "C1": 97.6,
     "C2": 97.7
    },
-   "refined": 0,
+   "refined": 20,
    "genre": "動物",
    "country": "美國",
    "series": "伯吉斯動物故事",
    "series_no": 3,
    "v": 1,
-   "ver": "731032a33a",
-   "size": 1210034,
+   "ver": "76c58d7c3b",
+   "size": 1255894,
    "file": "packs/blacky-the-crow.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "blue-bird",
@@ -1590,10 +1590,10 @@
    "series": "彩色童話",
    "series_no": 1,
    "v": 1,
-   "ver": "b2ae5affae",
-   "size": 4979105,
+   "ver": "dff3396dae",
+   "size": 4996773,
    "file": "packs/blue-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "bobbsey-twins-at-home",
@@ -1924,10 +1924,10 @@
    "genre": "神話",
    "country": "英國",
    "v": 1,
-   "ver": "b5e0777dab",
-   "size": 3593960,
+   "ver": "b5b1ab5c30",
+   "size": 3603444,
    "file": "packs/book-of-myths.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "botchan",
@@ -2024,10 +2024,10 @@
    "series": "彩色童話",
    "series_no": 7,
    "v": 1,
-   "ver": "0bcf58c636",
-   "size": 3680346,
+   "ver": "6c57314aaf",
+   "size": 3695705,
    "file": "packs/brown-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "buddy-and-brighteyes-pigg",
@@ -2074,10 +2074,10 @@
    "genre": "神話",
    "country": "美國",
    "v": 1,
-   "ver": "585d47d64b",
-   "size": 5319860,
+   "ver": "6b9563a9c7",
+   "size": 5329780,
    "file": "packs/bulfinch-s-mythology-the-age-of-fable.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "burgess-animal-book-for-children",
@@ -2178,10 +2178,10 @@
    "series": "布拉德船長",
    "series_no": 1,
    "v": 1,
-   "ver": "37661245c2",
-   "size": 4320011,
+   "ver": "886c10386f",
+   "size": 4328366,
    "file": "packs/captain-blood.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "case-book-of-sherlock-holmes",
@@ -2204,10 +2204,10 @@
    "series": "福爾摩斯",
    "series_no": 9,
    "v": 1,
-   "ver": "a4041b2a94",
-   "size": 2669114,
+   "ver": "70c394e549",
+   "size": 2677186,
    "file": "packs/case-book-of-sherlock-holmes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "cat-of-bubastes",
@@ -2230,10 +2230,10 @@
    "series": "韓蒂歷史冒險",
    "series_no": 6,
    "v": 1,
-   "ver": "9f8fbd7419",
-   "size": 4414838,
+   "ver": "70be18e395",
+   "size": 4423474,
    "file": "packs/cat-of-bubastes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "cave-twins",
@@ -2256,10 +2256,10 @@
    "series": "世界雙胞胎",
    "series_no": 14,
    "v": 1,
-   "ver": "db052761e7",
-   "size": 842612,
+   "ver": "44fd6aac17",
+   "size": 846847,
    "file": "packs/cave-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "celtic-fairy-tales",
@@ -2306,10 +2306,10 @@
    "series": "火星",
    "series_no": 5,
    "v": 1,
-   "ver": "bfea1e30cf",
-   "size": 3277229,
+   "ver": "6921b2ad5c",
+   "size": 3284517,
    "file": "packs/chessmen-of-mars.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "children-of-the-new-forest",
@@ -2330,10 +2330,10 @@
    "genre": "歷史",
    "country": "英國",
    "v": 1,
-   "ver": "a49d16a730",
-   "size": 3858766,
+   "ver": "2b79ae03c7",
+   "size": 3869886,
    "file": "packs/children-of-the-new-forest.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "chinese-fairy-book",
@@ -2380,10 +2380,10 @@
    "series": "清秀佳人",
    "series_no": 7,
    "v": 1,
-   "ver": "fdc13cceee",
-   "size": 2306923,
+   "ver": "7a6474d8c8",
+   "size": 2312860,
    "file": "packs/chronicles-of-avonlea.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "circular-staircase",
@@ -2404,10 +2404,10 @@
    "genre": "偵探",
    "country": "美國",
    "v": 1,
-   "ver": "5148572b0f",
-   "size": 2834246,
+   "ver": "c6e0f68e4b",
+   "size": 2849092,
    "file": "packs/circular-staircase.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "clover",
@@ -2430,10 +2430,10 @@
    "series": "凱蒂",
    "series_no": 4,
    "v": 1,
-   "ver": "3d5612e0b3",
-   "size": 1908131,
+   "ver": "aa1065d2b6",
+   "size": 1912732,
    "file": "packs/clover.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "confessions-of-ars-ne-lupin",
@@ -2456,10 +2456,10 @@
    "series": "亞森・羅蘋",
    "series_no": 6,
    "v": 1,
-   "ver": "15a3ff6482",
-   "size": 2256924,
+   "ver": "527196f7f4",
+   "size": 2261638,
    "file": "packs/confessions-of-ars-ne-lupin.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "coral-island",
@@ -2482,10 +2482,10 @@
    "series": "珊瑚島",
    "series_no": 1,
    "v": 1,
-   "ver": "8986fa5d91",
-   "size": 4139781,
+   "ver": "971ced0301",
+   "size": 4152541,
    "file": "packs/coral-island.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "cranford",
@@ -2556,10 +2556,10 @@
    "series": "彩色童話",
    "series_no": 6,
    "v": 1,
-   "ver": "6af40746f4",
-   "size": 3703403,
+   "ver": "a74d91cd7f",
+   "size": 3718763,
    "file": "packs/crimson-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "crystal-stopper",
@@ -2582,10 +2582,10 @@
    "series": "亞森・羅蘋",
    "series_no": 5,
    "v": 1,
-   "ver": "5c3ca4412e",
-   "size": 2475447,
+   "ver": "9f18ad6889",
+   "size": 2480627,
    "file": "packs/crystal-stopper.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "cuckoo-clock",
@@ -2632,10 +2632,10 @@
    "series": "長腿叔叔",
    "series_no": 1,
    "v": 1,
-   "ver": "61e0b2779c",
-   "size": 1457246,
+   "ver": "0d699a9964",
+   "size": 1463452,
    "file": "packs/daddy-long-legs.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "damsel-in-distress",
@@ -2656,10 +2656,10 @@
    "genre": "幽默",
    "country": "英國",
    "v": 1,
-   "ver": "2544b8449c",
-   "size": 2980814,
+   "ver": "37b5f14301",
+   "size": 2989704,
    "file": "packs/damsel-in-distress.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "david-balfour",
@@ -2682,10 +2682,10 @@
    "series": "綁架",
    "series_no": 2,
    "v": 1,
-   "ver": "5a790305c6",
-   "size": 3533703,
+   "ver": "3d83a27eeb",
+   "size": 3545002,
    "file": "packs/david-balfour.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "dawn",
@@ -2732,10 +2732,10 @@
    "series": "長腿叔叔",
    "series_no": 2,
    "v": 1,
-   "ver": "9644570fe4",
-   "size": 2749631,
+   "ver": "369bafd92b",
+   "size": 2759006,
    "file": "packs/dear-enemy.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "deerslayer",
@@ -2758,10 +2758,10 @@
    "series": "皮襪子故事",
    "series_no": 1,
    "v": 1,
-   "ver": "9fe4a75c4a",
-   "size": 7722991,
+   "ver": "193d8edb4c",
+   "size": 7734129,
    "file": "packs/deerslayer.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "diary-of-a-nobody",
@@ -2808,10 +2808,10 @@
    "series": "杜立德醫生",
    "series_no": 3,
    "v": 1,
-   "ver": "47663bb8ba",
-   "size": 2737859,
+   "ver": "dabaa35ce4",
+   "size": 2751457,
    "file": "packs/doctor-dolittle-s-post-office.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "don-quixote",
@@ -2832,10 +2832,10 @@
    "genre": "經典",
    "country": "西班牙",
    "v": 1,
-   "ver": "95deda878e",
-   "size": 13604165,
+   "ver": "f7308d6beb",
+   "size": 13653091,
    "file": "packs/don-quixote.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "dorothy-and-the-wizard-in-oz",
@@ -2858,10 +2858,10 @@
    "series": "綠野仙蹤",
    "series_no": 4,
    "v": 1,
-   "ver": "7272a8d80e",
-   "size": 1716789,
+   "ver": "aaa67cf10c",
+   "size": 1725630,
    "file": "packs/dorothy-and-the-wizard-in-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "dot-and-tot-of-merryland",
@@ -2882,10 +2882,10 @@
    "genre": "童話",
    "country": "美國",
    "v": 1,
-   "ver": "fd5b75f024",
-   "size": 1434364,
+   "ver": "85ec32730d",
+   "size": 1442215,
    "file": "packs/dot-and-tot-of-merryland.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "dracula",
@@ -2906,10 +2906,10 @@
    "genre": "驚悚",
    "country": "英國",
    "v": 1,
-   "ver": "1ac83cae5e",
-   "size": 5430011,
+   "ver": "c5ae9aa5df",
+   "size": 5443791,
    "file": "packs/dracula.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "dragon-and-the-raven",
@@ -2932,10 +2932,10 @@
    "series": "韓蒂歷史冒險",
    "series_no": 3,
    "v": 1,
-   "ver": "9c6ad72ab2",
-   "size": 3195464,
+   "ver": "0af67c6e13",
+   "size": 3202645,
    "file": "packs/dragon-and-the-raven.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "dutch-twins",
@@ -2952,16 +2952,16 @@
     "C1": 97.1,
     "C2": 97.1
    },
-   "refined": 6,
+   "refined": 5,
    "genre": "生活",
    "country": "美國",
    "series": "世界雙胞胎",
    "series_no": 1,
    "v": 1,
-   "ver": "bdb48c6909",
-   "size": 650504,
+   "ver": "798f58ac9c",
+   "size": 652683,
    "file": "packs/dutch-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "eight-cousins",
@@ -2984,10 +2984,10 @@
    "series": "八個表兄弟",
    "series_no": 1,
    "v": 1,
-   "ver": "eeb8079a1f",
-   "size": 2830430,
+   "ver": "7689028e7e",
+   "size": 2840334,
    "file": "packs/eight-cousins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "elsie-dinsmore",
@@ -3010,10 +3010,10 @@
    "series": "艾爾西",
    "series_no": 1,
    "v": 1,
-   "ver": "8467b70545",
-   "size": 2731061,
+   "ver": "c90bf2cfd2",
+   "size": 2738621,
    "file": "packs/elsie-dinsmore.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "elsie-s-girlhood",
@@ -3036,10 +3036,10 @@
    "series": "艾爾西",
    "series_no": 3,
    "v": 1,
-   "ver": "b5c72960ec",
-   "size": 3286438,
+   "ver": "a02d45885b",
+   "size": 3296946,
    "file": "packs/elsie-s-girlhood.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "elusive-pimpernel",
@@ -3062,10 +3062,10 @@
    "series": "紅花俠",
    "series_no": 3,
    "v": 1,
-   "ver": "fc65542f18",
-   "size": 3625030,
+   "ver": "f12706e610",
+   "size": 3634793,
    "file": "packs/elusive-pimpernel.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "emerald-city-of-oz",
@@ -3088,10 +3088,10 @@
    "series": "綠野仙蹤",
    "series_no": 6,
    "v": 1,
-   "ver": "74dcf96963",
-   "size": 2202053,
+   "ver": "43b476fe20",
+   "size": 2215854,
    "file": "packs/emerald-city-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "emily-of-new-moon",
@@ -3114,10 +3114,10 @@
    "series": "艾蜜莉",
    "series_no": 1,
    "v": 1,
-   "ver": "be9433c36f",
-   "size": 4061486,
+   "ver": "b8fe8a8d73",
+   "size": 4074174,
    "file": "packs/emily-of-new-moon.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "emma",
@@ -3212,10 +3212,10 @@
    "series": "英國童話",
    "series_no": 1,
    "v": 1,
-   "ver": "059baf70d1",
-   "size": 1956062,
+   "ver": "5d987b612e",
+   "size": 1967019,
    "file": "packs/english-fairy-tales.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "eskimo-twins",
@@ -3238,10 +3238,10 @@
    "series": "世界雙胞胎",
    "series_no": 3,
    "v": 1,
-   "ver": "88609bfcf0",
-   "size": 804077,
+   "ver": "db089f294c",
+   "size": 808428,
    "file": "packs/eskimo-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "exploits-of-brigadier-gerard",
@@ -3264,10 +3264,10 @@
    "series": "傑拉德准將",
    "series_no": 1,
    "v": 1,
-   "ver": "77d055aa40",
-   "size": 2515891,
+   "ver": "ecb5b65322",
+   "size": 2519483,
    "file": "packs/exploits-of-brigadier-gerard.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "eye-of-osiris",
@@ -3290,10 +3290,10 @@
    "series": "桑代克醫生",
    "series_no": 3,
    "v": 1,
-   "ver": "6087deb90c",
-   "size": 3525895,
+   "ver": "7699677a96",
+   "size": 3533216,
    "file": "packs/eye-of-osiris.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "fairy-tales-of-charles-perrault",
@@ -3338,10 +3338,10 @@
    "genre": "驚悚",
    "country": "美國",
    "v": 1,
-   "ver": "8c862a7e9b",
-   "size": 329662,
+   "ver": "72eb140e76",
+   "size": 330655,
    "file": "packs/fall-of-the-house-of-usher.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "fame-and-fortune",
@@ -3364,10 +3364,10 @@
    "series": "衣衫襤褸的迪克",
    "series_no": 2,
    "v": 1,
-   "ver": "6da681543f",
-   "size": 1698910,
+   "ver": "416394286a",
+   "size": 1708381,
    "file": "packs/fame-and-fortune.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "fifty-famous-people",
@@ -3442,10 +3442,10 @@
    "series": "沙精",
    "series_no": 1,
    "v": 1,
-   "ver": "0e61c54fe5",
-   "size": 1792832,
+   "ver": "a0e7d97cda",
+   "size": 1798466,
    "file": "packs/five-children-and-it.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "five-little-peppers-and-how-they-grew",
@@ -3468,10 +3468,10 @@
    "series": "五個小胡椒",
    "series_no": 1,
    "v": 1,
-   "ver": "87823728a7",
-   "size": 2558956,
+   "ver": "132f9ce981",
+   "size": 2569790,
    "file": "packs/five-little-peppers-and-how-they-grew.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "five-little-peppers-and-their-friends",
@@ -3494,10 +3494,10 @@
    "series": "五個小胡椒",
    "series_no": 7,
    "v": 1,
-   "ver": "38dd4a7fd7",
-   "size": 3162670,
+   "ver": "d67fa73638",
+   "size": 3173787,
    "file": "packs/five-little-peppers-and-their-friends.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "five-little-peppers-at-school",
@@ -3520,10 +3520,10 @@
    "series": "五個小胡椒",
    "series_no": 6,
    "v": 1,
-   "ver": "b72032c124",
-   "size": 3040090,
+   "ver": "1f93d04734",
+   "size": 3049798,
    "file": "packs/five-little-peppers-at-school.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "five-little-peppers-grown-up",
@@ -3546,10 +3546,10 @@
    "series": "五個小胡椒",
    "series_no": 3,
    "v": 1,
-   "ver": "993048051d",
-   "size": 2773242,
+   "ver": "3fc9166a64",
+   "size": 2783486,
    "file": "packs/five-little-peppers-grown-up.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "five-little-peppers-midway",
@@ -3572,10 +3572,10 @@
    "series": "五個小胡椒",
    "series_no": 2,
    "v": 1,
-   "ver": "83f16c0b26",
-   "size": 2562911,
+   "ver": "d2a2981234",
+   "size": 2572854,
    "file": "packs/five-little-peppers-midway.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "flower-fables",
@@ -3646,10 +3646,10 @@
    "series": "世界雙胞胎",
    "series_no": 7,
    "v": 1,
-   "ver": "c2ac00a091",
-   "size": 1070232,
+   "ver": "7c30426596",
+   "size": 1076036,
    "file": "packs/french-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "from-the-earth-to-the-moon",
@@ -3672,10 +3672,10 @@
    "series": "月球",
    "series_no": 1,
    "v": 1,
-   "ver": "b71f59e8fc",
-   "size": 2054457,
+   "ver": "3c0c73cbea",
+   "size": 2062302,
    "file": "packs/from-the-earth-to-the-moon.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "further-adventures-of-lad",
@@ -3698,10 +3698,10 @@
    "series": "萊德",
    "series_no": 2,
    "v": 1,
-   "ver": "c8d3d6cbe3",
-   "size": 2698459,
+   "ver": "7c20c48434",
+   "size": 2702026,
    "file": "packs/further-adventures-of-lad.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "further-chronicles-of-avonlea",
@@ -3724,10 +3724,10 @@
    "series": "清秀佳人",
    "series_no": 7,
    "v": 1,
-   "ver": "c032079bf1",
-   "size": 2402744,
+   "ver": "3e1305683d",
+   "size": 2410034,
    "file": "packs/further-chronicles-of-avonlea.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "ghost-stories-of-an-antiquary",
@@ -3772,10 +3772,10 @@
    "genre": "少女",
    "country": "美國",
    "v": 1,
-   "ver": "2f0dc926e6",
-   "size": 3922804,
+   "ver": "6fd9a89c65",
+   "size": 3932931,
    "file": "packs/girl-of-the-limberlost.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "glinda-of-oz",
@@ -3798,10 +3798,10 @@
    "series": "綠野仙蹤",
    "series_no": 14,
    "v": 1,
-   "ver": "9fb4b1a3bc",
-   "size": 1739880,
+   "ver": "2b07e2f017",
+   "size": 1749108,
    "file": "packs/glinda-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "gods-of-mars",
@@ -3824,10 +3824,10 @@
    "series": "火星",
    "series_no": 2,
    "v": 1,
-   "ver": "b5411e311d",
-   "size": 3239653,
+   "ver": "9dad976b76",
+   "size": 3247765,
    "file": "packs/gods-of-mars.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "gold-bat",
@@ -3872,10 +3872,10 @@
    "genre": "生活",
    "country": "英國",
    "v": 1,
-   "ver": "95436f9559",
-   "size": 1674183,
+   "ver": "ef15a83256",
+   "size": 1679244,
    "file": "packs/golden-age.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "golden-road",
@@ -3898,10 +3898,10 @@
    "series": "說故事的女孩",
    "series_no": 2,
    "v": 1,
-   "ver": "c36ca686de",
-   "size": 2901255,
+   "ver": "b27e668ba9",
+   "size": 2912768,
    "file": "packs/golden-road.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "golden-triangle",
@@ -3924,10 +3924,10 @@
    "series": "亞森・羅蘋",
    "series_no": 8,
    "v": 1,
-   "ver": "6162aebdc5",
-   "size": 3031768,
+   "ver": "4dbcd01f74",
+   "size": 3038090,
    "file": "packs/golden-triangle.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "gorilla-hunters",
@@ -3950,10 +3950,10 @@
    "series": "珊瑚島",
    "series_no": 2,
    "v": 1,
-   "ver": "16ba359e2a",
-   "size": 3694254,
+   "ver": "37ca6b2a6b",
+   "size": 3703822,
    "file": "packs/gorilla-hunters.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "granny-s-wonderful-chair",
@@ -3974,10 +3974,10 @@
    "genre": "童話",
    "country": "英國",
    "v": 1,
-   "ver": "a8b495e3e1",
-   "size": 841140,
+   "ver": "ce2b8abeb4",
+   "size": 843753,
    "file": "packs/granny-s-wonderful-chair.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "great-expectations",
@@ -4024,10 +4024,10 @@
    "series": "彩色童話",
    "series_no": 3,
    "v": 1,
-   "ver": "f3ae94abf1",
-   "size": 4507445,
+   "ver": "12816ac503",
+   "size": 4525165,
    "file": "packs/green-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "greenmantle",
@@ -4050,10 +4050,10 @@
    "series": "漢內",
    "series_no": 2,
    "v": 1,
-   "ver": "190ec6b5b5",
-   "size": 3545929,
+   "ver": "fe9f137c09",
+   "size": 3557011,
    "file": "packs/greenmantle.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "grey-fairy-book",
@@ -4076,10 +4076,10 @@
    "series": "彩色童話",
    "series_no": 4,
    "v": 1,
-   "ver": "e763e0f941",
-   "size": 3637073,
+   "ver": "75e0adec86",
+   "size": 3650976,
    "file": "packs/grey-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "happy-jack",
@@ -4128,10 +4128,10 @@
    "series": "雅頓",
    "series_no": 2,
    "v": 1,
-   "ver": "82adf86893",
-   "size": 2184931,
+   "ver": "9c624b9c4a",
+   "size": 2190669,
    "file": "packs/harding-s-luck.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "harvester",
@@ -4224,10 +4224,10 @@
    "genre": "神話",
    "country": "英國",
    "v": 1,
-   "ver": "b2cd7050e3",
-   "size": 1671917,
+   "ver": "e518c64434",
+   "size": 1678638,
    "file": "packs/heroes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "his-last-bow",
@@ -4250,10 +4250,10 @@
    "series": "福爾摩斯",
    "series_no": 8,
    "v": 1,
-   "ver": "016bbb37bf",
-   "size": 204764,
+   "ver": "59ec422199",
+   "size": 205268,
    "file": "packs/his-last-bow.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "hollow-needle",
@@ -4276,10 +4276,10 @@
    "series": "亞森・羅蘋",
    "series_no": 3,
    "v": 1,
-   "ver": "28340cf97f",
-   "size": 2220785,
+   "ver": "40ede0b6bc",
+   "size": 2225068,
    "file": "packs/hollow-needle.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "hound-of-the-baskervilles",
@@ -4302,10 +4302,10 @@
    "series": "福爾摩斯",
    "series_no": 5,
    "v": 1,
-   "ver": "cf6593c1ac",
-   "size": 2143935,
+   "ver": "8625864bb5",
+   "size": 2152350,
    "file": "packs/hound-of-the-baskervilles.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "house-at-pooh-corner",
@@ -4354,10 +4354,10 @@
    "series": "雅頓",
    "series_no": 1,
    "v": 1,
-   "ver": "1f6ff96b56",
-   "size": 2444954,
+   "ver": "cf1ea9beee",
+   "size": 2451275,
    "file": "packs/house-of-arden.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "house-without-a-key",
@@ -4380,10 +4380,10 @@
    "series": "陳查理",
    "series_no": 1,
    "v": 1,
-   "ver": "591ce029da",
-   "size": 2790314,
+   "ver": "6ce5b14c1d",
+   "size": 2799405,
    "file": "packs/house-without-a-key.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "i-will-repay",
@@ -4406,10 +4406,10 @@
    "series": "紅花俠",
    "series_no": 2,
    "v": 1,
-   "ver": "849acd01cb",
-   "size": 2840572,
+   "ver": "d556db6d83",
+   "size": 2848994,
    "file": "packs/i-will-repay.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "iliad",
@@ -4430,10 +4430,10 @@
    "genre": "神話",
    "country": "希臘",
    "v": 1,
-   "ver": "eb99d5edf6",
-   "size": 5237305,
+   "ver": "62373d8c22",
+   "size": 5245582,
    "file": "packs/iliad.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "in-freedom-s-cause",
@@ -4456,10 +4456,10 @@
    "series": "韓蒂歷史冒險",
    "series_no": 4,
    "v": 1,
-   "ver": "22ffbc8506",
-   "size": 4473877,
+   "ver": "34185a96a9",
+   "size": 4483624,
    "file": "packs/in-freedom-s-cause.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "in-search-of-the-castaways",
@@ -4481,10 +4481,10 @@
    "country": "法國",
    "series": "尼莫船長",
    "v": 1,
-   "ver": "8864fccf83",
-   "size": 6432160,
+   "ver": "175646aed4",
+   "size": 6453293,
    "file": "packs/in-search-of-the-castaways.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "in-the-days-of-the-comet",
@@ -4505,10 +4505,10 @@
    "genre": "科幻",
    "country": "英國",
    "v": 1,
-   "ver": "4176601531",
-   "size": 3045896,
+   "ver": "fbd2b7e28f",
+   "size": 3050305,
    "file": "packs/in-the-days-of-the-comet.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "in-the-high-valley",
@@ -4531,10 +4531,10 @@
    "series": "凱蒂",
    "series_no": 5,
    "v": 1,
-   "ver": "026496385e",
-   "size": 1794804,
+   "ver": "7acf3439e3",
+   "size": 1799627,
    "file": "packs/in-the-high-valley.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "indian-fairy-tales",
@@ -4555,10 +4555,10 @@
    "genre": "童話",
    "country": "英國",
    "v": 1,
-   "ver": "b7c4acb830",
-   "size": 2053826,
+   "ver": "608a544f56",
+   "size": 2060390,
    "file": "packs/indian-fairy-tales.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "inimitable-jeeves",
@@ -4581,10 +4581,10 @@
    "series": "吉夫斯",
    "series_no": 2,
    "v": 1,
-   "ver": "41049a2a18",
-   "size": 2361789,
+   "ver": "ec3eda2e0f",
+   "size": 2369945,
    "file": "packs/inimitable-jeeves.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "innocence-of-father-brown",
@@ -4607,10 +4607,10 @@
    "series": "布朗神父",
    "series_no": 1,
    "v": 1,
-   "ver": "9bc44f1b14",
-   "size": 2860519,
+   "ver": "e04b8d13bb",
+   "size": 2866347,
    "file": "packs/innocence-of-father-brown.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "invisible-man",
@@ -4631,10 +4631,10 @@
    "genre": "科幻",
    "country": "英國",
    "v": 1,
-   "ver": "833b6c5d93",
-   "size": 2137180,
+   "ver": "0334b8921a",
+   "size": 2147892,
    "file": "packs/invisible-man.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "irish-twins",
@@ -4657,10 +4657,10 @@
    "series": "世界雙胞胎",
    "series_no": 4,
    "v": 1,
-   "ver": "52a62c9ca6",
-   "size": 914295,
+   "ver": "eccf8d3d29",
+   "size": 920640,
    "file": "packs/irish-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "italian-twins",
@@ -4683,10 +4683,10 @@
    "series": "世界雙胞胎",
    "series_no": 10,
    "v": 1,
-   "ver": "cea3bf863b",
-   "size": 817870,
+   "ver": "b0a2b5e5d0",
+   "size": 822861,
    "file": "packs/italian-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "ivanhoe",
@@ -4709,10 +4709,10 @@
    "series": "威佛利小說",
    "series_no": 1,
    "v": 1,
-   "ver": "3207d50692",
-   "size": 6581530,
+   "ver": "2bd6acf9cd",
+   "size": 6594580,
    "file": "packs/ivanhoe.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "jack-and-jill",
@@ -4757,10 +4757,10 @@
    "genre": "經典",
    "country": "英國",
    "v": 1,
-   "ver": "3de7adf18c",
-   "size": 6551233,
+   "ver": "c79421833d",
+   "size": 6567704,
    "file": "packs/jane-eyre.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "japanese-fairy-tales",
@@ -4807,10 +4807,10 @@
    "series": "世界雙胞胎",
    "series_no": 2,
    "v": 1,
-   "ver": "4c1b57aa7a",
-   "size": 636227,
+   "ver": "313855a2b0",
+   "size": 639088,
    "file": "packs/japanese-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "jerry-of-the-islands",
@@ -4833,10 +4833,10 @@
    "series": "傑瑞與麥可",
    "series_no": 1,
    "v": 1,
-   "ver": "69605fb1a5",
-   "size": 2903069,
+   "ver": "9463f362db",
+   "size": 2909809,
    "file": "packs/jerry-of-the-islands.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "jo-s-boys",
@@ -4859,10 +4859,10 @@
    "series": "小婦人",
    "series_no": 4,
    "v": 1,
-   "ver": "07c6bacbe0",
-   "size": 3799649,
+   "ver": "a7c07cdbb7",
+   "size": 3807082,
    "file": "packs/jo-s-boys.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "john-thorndyke-s-cases",
@@ -4885,10 +4885,10 @@
    "series": "桑代克醫生",
    "series_no": 2,
    "v": 1,
-   "ver": "8075a3c16f",
-   "size": 2783905,
+   "ver": "001116da01",
+   "size": 2787681,
    "file": "packs/john-thorndyke-s-cases.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "jungle",
@@ -4935,10 +4935,10 @@
    "series": "泰山",
    "series_no": 6,
    "v": 1,
-   "ver": "36931c63b9",
-   "size": 2842541,
+   "ver": "125796fb24",
+   "size": 2845858,
    "file": "packs/jungle-tales-of-tarzan.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "just-david",
@@ -4985,10 +4985,10 @@
    "series": "佩蒂",
    "series_no": 1,
    "v": 1,
-   "ver": "013c1d3bfc",
-   "size": 1841116,
+   "ver": "e570af50f5",
+   "size": 1845692,
    "file": "packs/just-patty.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "kazan",
@@ -5011,10 +5011,10 @@
    "series": "卡讚",
    "series_no": 1,
    "v": 1,
-   "ver": "20136ea42e",
-   "size": 2643924,
+   "ver": "f92d2a1b82",
+   "size": 2653506,
    "file": "packs/kazan.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "kenilworth",
@@ -5037,10 +5037,10 @@
    "series": "威佛利小說",
    "series_no": 4,
    "v": 1,
-   "ver": "94e36224a4",
-   "size": 6656734,
+   "ver": "f9acb5f933",
+   "size": 6669063,
    "file": "packs/kenilworth.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "kidnapped",
@@ -5063,10 +5063,10 @@
    "series": "綁架",
    "series_no": 1,
    "v": 1,
-   "ver": "5563372128",
-   "size": 3039790,
+   "ver": "a9f96d6f92",
+   "size": 3050932,
    "file": "packs/kidnapped.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "kilmeny-of-the-orchard",
@@ -5113,10 +5113,10 @@
    "series": "夸特曼",
    "series_no": 1,
    "v": 1,
-   "ver": "50aac38a6f",
-   "size": 3111220,
+   "ver": "b732252e97",
+   "size": 3119159,
    "file": "packs/king-solomon-s-mines.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "lad-a-dog",
@@ -5139,10 +5139,10 @@
    "series": "萊德",
    "series_no": 1,
    "v": 1,
-   "ver": "5540ffa12e",
-   "size": 2881610,
+   "ver": "eab5b49a35",
+   "size": 2885402,
    "file": "packs/lad-a-dog.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "laddie",
@@ -5189,10 +5189,10 @@
    "series": "查林傑教授",
    "series_no": 3,
    "v": 1,
-   "ver": "75e0faa155",
-   "size": 2621156,
+   "ver": "2026bd7b92",
+   "size": 2627465,
    "file": "packs/land-of-mist.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "land-of-the-blue-flower",
@@ -5213,10 +5213,10 @@
    "genre": "童話",
    "country": "英國",
    "v": 1,
-   "ver": "3756d8225c",
-   "size": 281435,
+   "ver": "a645dbad2e",
+   "size": 282518,
    "file": "packs/land-of-the-blue-flower.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "last-of-the-mohicans",
@@ -5239,10 +5239,10 @@
    "series": "皮襪子故事",
    "series_no": 2,
    "v": 1,
-   "ver": "c98e110048",
-   "size": 5911007,
+   "ver": "731460c4c4",
+   "size": 5923415,
    "file": "packs/last-of-the-mohicans.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "last-trail",
@@ -5265,10 +5265,10 @@
    "series": "俄亥俄河三部曲",
    "series_no": 3,
    "v": 1,
-   "ver": "c509031192",
-   "size": 2834723,
+   "ver": "595ad8f95b",
+   "size": 2844266,
    "file": "packs/last-trail.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "le-morte-d-arthur",
@@ -5289,10 +5289,10 @@
    "genre": "神話",
    "country": "英國",
    "v": 1,
-   "ver": "f1e7cc0151",
-   "size": 5245439,
+   "ver": "3ebdef1a85",
+   "size": 5265481,
    "file": "packs/le-morte-d-arthur.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "league-of-the-scarlet-pimpernel",
@@ -5315,10 +5315,10 @@
    "series": "紅花俠",
    "series_no": 5,
    "v": 1,
-   "ver": "924bcc6d03",
-   "size": 2912315,
+   "ver": "88fa1d17d3",
+   "size": 2917957,
    "file": "packs/league-of-the-scarlet-pimpernel.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "leave-it-to-psmith",
@@ -5341,10 +5341,10 @@
    "series": "史密斯",
    "series_no": 4,
    "v": 1,
-   "ver": "b61b4a39c8",
-   "size": 3103919,
+   "ver": "3d453dfca0",
+   "size": 3109654,
    "file": "packs/leave-it-to-psmith.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "legend-of-sleepy-hollow",
@@ -5365,10 +5365,10 @@
    "genre": "驚悚",
    "country": "美國",
    "v": 1,
-   "ver": "43b849107e",
-   "size": 560096,
+   "ver": "f2bbf3f1d8",
+   "size": 561317,
    "file": "packs/legend-of-sleepy-hollow.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "les-mis-rables",
@@ -5389,10 +5389,10 @@
    "genre": "經典",
    "country": "法國",
    "v": 1,
-   "ver": "b1f9715755",
-   "size": 21993690,
+   "ver": "d7d1aba862",
+   "size": 22097804,
    "file": "packs/les-mis-rables.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "light-princess",
@@ -5439,10 +5439,10 @@
    "series": "彩色童話",
    "series_no": 10,
    "v": 1,
-   "ver": "79793982d1",
-   "size": 3569479,
+   "ver": "1e683ae80a",
+   "size": 3584096,
    "file": "packs/lilac-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "little-colonel",
@@ -5465,10 +5465,10 @@
    "series": "小上校",
    "series_no": 1,
    "v": 1,
-   "ver": "86f5b4040a",
-   "size": 805846,
+   "ver": "b59004a6c4",
+   "size": 810840,
    "file": "packs/little-colonel.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "little-colonel-at-boarding-school",
@@ -5491,10 +5491,10 @@
    "series": "小上校",
    "series_no": 6,
    "v": 1,
-   "ver": "d450d7cb0f",
-   "size": 2364236,
+   "ver": "82912d1a7d",
+   "size": 2369888,
    "file": "packs/little-colonel-at-boarding-school.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "little-colonel-in-arizona",
@@ -5517,10 +5517,10 @@
    "series": "小上校",
    "series_no": 7,
    "v": 1,
-   "ver": "d1efb1740e",
-   "size": 2497395,
+   "ver": "456f9926fd",
+   "size": 2504490,
    "file": "packs/little-colonel-in-arizona.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "little-colonel-s-hero",
@@ -5543,10 +5543,10 @@
    "series": "小上校",
    "series_no": 5,
    "v": 1,
-   "ver": "213e509e17",
-   "size": 2059325,
+   "ver": "62db5beb6d",
+   "size": 2065370,
    "file": "packs/little-colonel-s-hero.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "little-colonel-s-holidays",
@@ -5569,10 +5569,10 @@
    "series": "小上校",
    "series_no": 4,
    "v": 1,
-   "ver": "938192ba06",
-   "size": 1866476,
+   "ver": "886e9f9e12",
+   "size": 1871923,
    "file": "packs/little-colonel-s-holidays.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "little-colonel-s-house-party",
@@ -5595,10 +5595,10 @@
    "series": "小上校",
    "series_no": 3,
    "v": 1,
-   "ver": "e93cdf8259",
-   "size": 2097926,
+   "ver": "10ac34a7d9",
+   "size": 2103610,
    "file": "packs/little-colonel-s-house-party.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "little-joe-otter",
@@ -5669,10 +5669,10 @@
    "genre": "生活",
    "country": "英國",
    "v": 1,
-   "ver": "c5d8000854",
-   "size": 2071513,
+   "ver": "2aa185664f",
+   "size": 2078162,
    "file": "packs/little-lord-fauntleroy.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "little-men",
@@ -5695,10 +5695,10 @@
    "series": "小婦人",
    "series_no": 3,
    "v": 1,
-   "ver": "869c41f366",
-   "size": 3806141,
+   "ver": "3699c7cf7b",
+   "size": 3814292,
    "file": "packs/little-men.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "little-saint-elizabeth",
@@ -5745,10 +5745,10 @@
    "series": "小婦人",
    "series_no": 1,
    "v": 1,
-   "ver": "c1754dadd3",
-   "size": 7008416,
+   "ver": "d12df24d52",
+   "size": 7026318,
    "file": "packs/little-women.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "lorna-doone",
@@ -5819,10 +5819,10 @@
    "series": "綠野仙蹤",
    "series_no": 11,
    "v": 1,
-   "ver": "93481070e5",
-   "size": 1962803,
+   "ver": "4e40866733",
+   "size": 1974827,
    "file": "packs/lost-princess-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "lost-world",
@@ -5845,10 +5845,10 @@
    "series": "查林傑教授",
    "series_no": 1,
    "v": 1,
-   "ver": "6405e1931d",
-   "size": 2932611,
+   "ver": "dc1465a832",
+   "size": 2939608,
    "file": "packs/lost-world.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "louise-de-la-valliere",
@@ -5871,10 +5871,10 @@
    "series": "三劍客",
    "series_no": 5,
    "v": 1,
-   "ver": "9a8d605fa4",
-   "size": 6122003,
+   "ver": "03bc495d9a",
+   "size": 6147897,
    "file": "packs/louise-de-la-valliere.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "lulu-alice-and-jimmie-wibblewobble",
@@ -5921,10 +5921,10 @@
    "genre": "經典",
    "country": "法國",
    "v": 1,
-   "ver": "21d4751885",
-   "size": 4709603,
+   "ver": "ea941ec0e2",
+   "size": 4723313,
    "file": "packs/madame-bovary.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "magic-city",
@@ -5971,10 +5971,10 @@
    "series": "綠野仙蹤",
    "series_no": 13,
    "v": 1,
-   "ver": "c6bc01da6b",
-   "size": 1637579,
+   "ver": "5640028871",
+   "size": 1647600,
    "file": "packs/magic-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "magic-world",
@@ -5995,10 +5995,10 @@
    "genre": "奇幻",
    "country": "英國",
    "v": 1,
-   "ver": "67b2e3fda0",
-   "size": 1935778,
+   "ver": "e4b23f2e1f",
+   "size": 1940708,
    "file": "packs/magic-world.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "man-in-the-iron-mask",
@@ -6021,10 +6021,10 @@
    "series": "三劍客",
    "series_no": 6,
    "v": 1,
-   "ver": "99ef2fd77a",
-   "size": 6366545,
+   "ver": "74501af241",
+   "size": 6391396,
    "file": "packs/man-in-the-iron-mask.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "mansfield-park",
@@ -6071,10 +6071,10 @@
    "series": "衣衫襤褸的迪克",
    "series_no": 3,
    "v": 1,
-   "ver": "cb4e600bcc",
-   "size": 1831257,
+   "ver": "0b3986422e",
+   "size": 1841935,
    "file": "packs/mark-the-match-boy.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "marvelous-land-of-oz",
@@ -6097,10 +6097,10 @@
    "series": "綠野仙蹤",
    "series_no": 2,
    "v": 1,
-   "ver": "5c368b893a",
-   "size": 1808544,
+   "ver": "6f4c0f5dda",
+   "size": 1818813,
    "file": "packs/marvelous-land-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "mary-louise",
@@ -6123,10 +6123,10 @@
    "series": "瑪麗・露易絲",
    "series_no": 1,
    "v": 1,
-   "ver": "c8dc8a32b1",
-   "size": 2035302,
+   "ver": "773778d2b6",
+   "size": 2044354,
    "file": "packs/mary-louise.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "mary-louise-in-the-country",
@@ -6149,10 +6149,10 @@
    "series": "瑪麗・露易絲",
    "series_no": 2,
    "v": 1,
-   "ver": "0d69d8335e",
-   "size": 2147488,
+   "ver": "954156b0f2",
+   "size": 2157603,
    "file": "packs/mary-louise-in-the-country.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "mary-marie",
@@ -6199,10 +6199,10 @@
    "series": "羅比爾",
    "series_no": 2,
    "v": 1,
-   "ver": "1ef99e7cf6",
-   "size": 1804611,
+   "ver": "eab18bb8e3",
+   "size": 1810901,
    "file": "packs/master-of-the-world.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "masterman-ready",
@@ -6223,10 +6223,10 @@
    "genre": "冒險",
    "country": "英國",
    "v": 1,
-   "ver": "968d1667c1",
-   "size": 4080294,
+   "ver": "0f149649ea",
+   "size": 4108638,
    "file": "packs/masterman-ready.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "mcguffey-s-eclectic-primer",
@@ -6430,10 +6430,10 @@
    "series": "福爾摩斯",
    "series_no": 4,
    "v": 1,
-   "ver": "d12b3050a2",
-   "size": 2989791,
+   "ver": "4581ecae8f",
+   "size": 2998378,
    "file": "packs/memoirs-of-sherlock-holmes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "metamorphosis",
@@ -6480,10 +6480,10 @@
    "series": "世界雙胞胎",
    "series_no": 5,
    "v": 1,
-   "ver": "66a07dab85",
-   "size": 913828,
+   "ver": "92fbd5878c",
+   "size": 917428,
    "file": "packs/mexican-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "michael-brother-of-jerry",
@@ -6506,10 +6506,10 @@
    "series": "傑瑞與麥可",
    "series_no": 2,
    "v": 1,
-   "ver": "adfd80fcd3",
-   "size": 3856014,
+   "ver": "8d6ccea3a3",
+   "size": 3865770,
    "file": "packs/michael-brother-of-jerry.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "michael-o-halloran",
@@ -6556,10 +6556,10 @@
    "series": "史密斯",
    "series_no": 1,
    "v": 1,
-   "ver": "23f7ed442d",
-   "size": 4388497,
+   "ver": "4989113c62",
+   "size": 4408897,
    "file": "packs/mike.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "miss-billy",
@@ -6582,10 +6582,10 @@
    "series": "比莉小姐",
    "series_no": 1,
    "v": 1,
-   "ver": "b0b1f802a6",
-   "size": 2419313,
+   "ver": "27184755ee",
+   "size": 2435946,
    "file": "packs/miss-billy.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "miss-billy-married",
@@ -6608,10 +6608,10 @@
    "series": "比莉小姐",
    "series_no": 3,
    "v": 1,
-   "ver": "e40da0f52a",
-   "size": 2945970,
+   "ver": "c50afd0a5f",
+   "size": 2957747,
    "file": "packs/miss-billy-married.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "miss-billy-s-decision",
@@ -6634,10 +6634,10 @@
    "series": "比莉小姐",
    "series_no": 2,
    "v": 1,
-   "ver": "a2d015bcb1",
-   "size": 2727844,
+   "ver": "212cf0c331",
+   "size": 2741164,
    "file": "packs/miss-billy-s-decision.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "moni-the-goat-boy",
@@ -6732,10 +6732,10 @@
    "series": "英國童話",
    "series_no": 2,
    "v": 1,
-   "ver": "eacc528e3f",
-   "size": 1835393,
+   "ver": "d85806e937",
+   "size": 1847390,
    "file": "packs/more-english-fairy-tales.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "mother-goose-in-prose",
@@ -6756,10 +6756,10 @@
    "genre": "童話",
    "country": "美國",
    "v": 1,
-   "ver": "833f0572c7",
-   "size": 1860481,
+   "ver": "1b7a2cd265",
+   "size": 1870436,
    "file": "packs/mother-goose-in-prose.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "mother-west-wind-how-stories",
@@ -6854,16 +6854,16 @@
     "C1": 97.7,
     "C2": 97.8
    },
-   "refined": 0,
+   "refined": 14,
    "genre": "動物",
    "country": "美國",
    "series": "西風媽媽",
    "series_no": 7,
    "v": 1,
-   "ver": "90d1242bc0",
-   "size": 1103055,
+   "ver": "be3b68af75",
+   "size": 1127531,
    "file": "packs/mother-west-wind-when-stories.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "mother-west-wind-where-stories",
@@ -6938,10 +6938,10 @@
    "series": "漢內",
    "series_no": 3,
    "v": 1,
-   "ver": "24d829d8e6",
-   "size": 4508061,
+   "ver": "9a654ec9d9",
+   "size": 4517593,
    "file": "packs/mr-standfast.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "mrs-dalloway",
@@ -7014,10 +7014,10 @@
    "series": "吉夫斯",
    "series_no": 1,
    "v": 1,
-   "ver": "0ddfa9fd3c",
-   "size": 1623255,
+   "ver": "5a6d927734",
+   "size": 1627493,
    "file": "packs/my-man-jeeves.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "my-ntonia",
@@ -7064,10 +7064,10 @@
    "series": "尼莫船長",
    "series_no": 2,
    "v": 1,
-   "ver": "e5f362f8e1",
-   "size": 7790852,
+   "ver": "4a849de6d2",
+   "size": 7809347,
    "file": "packs/mysterious-island.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "new-chronicles-of-rebecca",
@@ -7090,10 +7090,10 @@
    "series": "蕾貝卡",
    "series_no": 2,
    "v": 1,
-   "ver": "d63dec5d9b",
-   "size": 2210835,
+   "ver": "3009e5a47a",
+   "size": 2215406,
    "file": "packs/new-chronicles-of-rebecca.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "new-treasure-seekers",
@@ -7212,10 +7212,10 @@
    "genre": "經典",
    "country": "俄國",
    "v": 1,
-   "ver": "4341c9ad33",
-   "size": 1877926,
+   "ver": "c8afc23c9f",
+   "size": 1885685,
    "file": "packs/notes-from-the-underground.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "o-pioneers",
@@ -7260,10 +7260,10 @@
    "genre": "生活",
    "country": "美國",
    "v": 1,
-   "ver": "aa1078168c",
-   "size": 2776530,
+   "ver": "4aa0f3ea97",
+   "size": 2785517,
    "file": "packs/oh-money-money.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "old-fashioned-girl",
@@ -7388,10 +7388,10 @@
    "series": "彩色童話",
    "series_no": 9,
    "v": 1,
-   "ver": "a2e623e8a7",
-   "size": 3430189,
+   "ver": "892b46e7f9",
+   "size": 3442633,
    "file": "packs/olive-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "oliver-twist",
@@ -7412,10 +7412,10 @@
    "genre": "經典",
    "country": "英國",
    "v": 1,
-   "ver": "c2dffdc71e",
-   "size": 6207566,
+   "ver": "6a9b7be4cb",
+   "size": 6227414,
    "file": "packs/oliver-twist.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "orange-fairy-book",
@@ -7438,10 +7438,10 @@
    "series": "彩色童話",
    "series_no": 8,
    "v": 1,
-   "ver": "74f12cf23b",
-   "size": 3679472,
+   "ver": "4b255d30c2",
+   "size": 3693203,
    "file": "packs/orange-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "oswald-bastable-and-others",
@@ -7490,10 +7490,10 @@
    "series": "綠野仙蹤",
    "series_no": 3,
    "v": 1,
-   "ver": "2b275abac3",
-   "size": 1617824,
+   "ver": "495bb6a10a",
+   "size": 1627592,
    "file": "packs/ozma-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "patchwork-girl-of-oz",
@@ -7516,10 +7516,10 @@
    "series": "綠野仙蹤",
    "series_no": 7,
    "v": 1,
-   "ver": "8ea430e287",
-   "size": 2251829,
+   "ver": "da2abf8bba",
+   "size": 2263641,
    "file": "packs/patchwork-girl-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "pathfinder",
@@ -7542,10 +7542,10 @@
    "series": "皮襪子故事",
    "series_no": 3,
    "v": 1,
-   "ver": "923ca0c4dd",
-   "size": 6218825,
+   "ver": "4fb4ff9da4",
+   "size": 6228140,
    "file": "packs/pathfinder.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "patty-at-home",
@@ -7568,10 +7568,10 @@
    "series": "佩蒂・費爾菲德",
    "series_no": 2,
    "v": 1,
-   "ver": "1060b4fce1",
-   "size": 1873938,
+   "ver": "fe0afc2035",
+   "size": 1883819,
    "file": "packs/patty-at-home.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "patty-fairfield",
@@ -7594,10 +7594,10 @@
    "series": "佩蒂・費爾菲德",
    "series_no": 1,
    "v": 1,
-   "ver": "bc203588ba",
-   "size": 1783328,
+   "ver": "f67d160ac0",
+   "size": 1791583,
    "file": "packs/patty-fairfield.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "patty-in-the-city",
@@ -7620,10 +7620,10 @@
    "series": "佩蒂・費爾菲德",
    "series_no": 3,
    "v": 1,
-   "ver": "c202426926",
-   "size": 2066963,
+   "ver": "13938878ed",
+   "size": 2075675,
    "file": "packs/patty-in-the-city.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "patty-s-summer-days",
@@ -7646,10 +7646,10 @@
    "series": "佩蒂・費爾菲德",
    "series_no": 4,
    "v": 1,
-   "ver": "1e3359a576",
-   "size": 2291752,
+   "ver": "057a44d44e",
+   "size": 2300710,
    "file": "packs/patty-s-summer-days.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "pellucidar",
@@ -7672,10 +7672,10 @@
    "series": "佩魯西達",
    "series_no": 2,
    "v": 1,
-   "ver": "1762aaa2ab",
-   "size": 2244210,
+   "ver": "33518afebb",
+   "size": 2249508,
    "file": "packs/pellucidar.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "persuasion",
@@ -7721,10 +7721,10 @@
    "country": "英國",
    "series": "彼得潘",
    "v": 1,
-   "ver": "50ef274b04",
-   "size": 604236,
+   "ver": "0e037420d3",
+   "size": 606318,
    "file": "packs/peter-pan-in-kensington-gardens.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "phantom-of-the-opera",
@@ -7745,10 +7745,10 @@
    "genre": "驚悚",
    "country": "法國",
    "v": 1,
-   "ver": "6b2154de25",
-   "size": 3088051,
+   "ver": "103eabba19",
+   "size": 3101622,
    "file": "packs/phantom-of-the-opera.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "phil-the-fiddler",
@@ -7795,10 +7795,10 @@
    "series": "沙精",
    "series_no": 2,
    "v": 1,
-   "ver": "632e01a687",
-   "size": 2046598,
+   "ver": "4795b02746",
+   "size": 2052335,
    "file": "packs/phoenix-and-the-carpet.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "phronsie-pepper",
@@ -7821,10 +7821,10 @@
    "series": "五個小胡椒",
    "series_no": 4,
    "v": 1,
-   "ver": "2f501e7fcc",
-   "size": 2710427,
+   "ver": "ad8f42b02e",
+   "size": 2721893,
    "file": "packs/phronsie-pepper.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "pickwick-papers",
@@ -7845,10 +7845,10 @@
    "genre": "幽默",
    "country": "英國",
    "v": 1,
-   "ver": "3660315c83",
-   "size": 10640476,
+   "ver": "673bc01be3",
+   "size": 10657294,
    "file": "packs/pickwick-papers.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "picture-of-dorian-gray",
@@ -7895,10 +7895,10 @@
    "series": "彩色童話",
    "series_no": 3.6,
    "v": 1,
-   "ver": "bd7d8f71b9",
-   "size": 3740859,
+   "ver": "def5e5ef04",
+   "size": 3757141,
    "file": "packs/pink-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "pioneers",
@@ -7921,10 +7921,10 @@
    "series": "皮襪子故事",
    "series_no": 4,
    "v": 1,
-   "ver": "b098c27e65",
-   "size": 6451581,
+   "ver": "387b357fe6",
+   "size": 6464244,
    "file": "packs/pioneers.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "poison-belt",
@@ -7947,10 +7947,10 @@
    "series": "查林傑教授",
    "series_no": 2,
    "v": 1,
-   "ver": "4884fd6b63",
-   "size": 1090886,
+   "ver": "8c8715bce7",
+   "size": 1093419,
    "file": "packs/poison-belt.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "pollyanna-grows-up",
@@ -7973,10 +7973,10 @@
    "series": "波麗安娜",
    "series_no": 2,
    "v": 1,
-   "ver": "d92796078b",
-   "size": 2777375,
+   "ver": "e40187bc25",
+   "size": 2790931,
    "file": "packs/pollyanna-grows-up.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "prairie",
@@ -7999,10 +7999,10 @@
    "series": "皮襪子故事",
    "series_no": 5,
    "v": 1,
-   "ver": "75808d09ed",
-   "size": 6364761,
+   "ver": "ed8d592d2f",
+   "size": 6375792,
    "file": "packs/prairie.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "pride-and-prejudice",
@@ -8023,10 +8023,10 @@
    "genre": "經典",
    "country": "英國",
    "v": 1,
-   "ver": "8adb2b0ac8",
-   "size": 4986736,
+   "ver": "113371bf91",
+   "size": 5009799,
    "file": "packs/pride-and-prejudice.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "princess-and-curdie",
@@ -8049,10 +8049,10 @@
    "series": "公主與哥布林",
    "series_no": 2,
    "v": 1,
-   "ver": "0cf6a5cebe",
-   "size": 2460731,
+   "ver": "f6fd371abe",
+   "size": 2476350,
    "file": "packs/princess-and-curdie.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "princess-and-goblin",
@@ -8075,10 +8075,10 @@
    "series": "公主與哥布林",
    "series_no": 1,
    "v": 1,
-   "ver": "2a31f9d09b",
-   "size": 2188810,
+   "ver": "d846ca6388",
+   "size": 2201815,
    "file": "packs/princess-and-goblin.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "princess-of-mars",
@@ -8101,10 +8101,10 @@
    "series": "火星",
    "series_no": 1,
    "v": 1,
-   "ver": "50a11994d6",
-   "size": 2989680,
+   "ver": "6ac415861a",
+   "size": 3000741,
    "file": "packs/princess-of-mars.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "prisoner-of-zenda",
@@ -8127,10 +8127,10 @@
    "series": "曾達的囚徒",
    "series_no": 1,
    "v": 1,
-   "ver": "8c5081f94c",
-   "size": 2018065,
+   "ver": "8cee2bbd93",
+   "size": 2028864,
    "file": "packs/prisoner-of-zenda.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "psmith-in-the-city",
@@ -8153,10 +8153,10 @@
    "series": "史密斯",
    "series_no": 2,
    "v": 1,
-   "ver": "1f360ff79b",
-   "size": 2306009,
+   "ver": "125dddc970",
+   "size": 2316691,
    "file": "packs/psmith-in-the-city.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "psmith-journalist",
@@ -8179,10 +8179,10 @@
    "series": "史密斯",
    "series_no": 3,
    "v": 1,
-   "ver": "c1d17129b5",
-   "size": 2370910,
+   "ver": "56a6b5f416",
+   "size": 2380847,
    "file": "packs/psmith-journalist.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "puck-of-pook-s-hill",
@@ -8205,10 +8205,10 @@
    "series": "普克山的精靈",
    "series_no": 1,
    "v": 1,
-   "ver": "f54f169632",
-   "size": 1794374,
+   "ver": "828477d996",
+   "size": 1798578,
    "file": "packs/puck-of-pook-s-hill.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "puritan-twins",
@@ -8231,10 +8231,10 @@
    "series": "世界雙胞胎",
    "series_no": 13,
    "v": 1,
-   "ver": "f177425ca6",
-   "size": 950548,
+   "ver": "0190172ac6",
+   "size": 953652,
    "file": "packs/puritan-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "racketty-packetty-house",
@@ -8281,10 +8281,10 @@
    "series": "萊佛士",
    "series_no": 2,
    "v": 1,
-   "ver": "cb4d6260c0",
-   "size": 1875293,
+   "ver": "9827f7d211",
+   "size": 1878791,
    "file": "packs/raffles-further-adventures-of-the-amateu.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "ragged-dick",
@@ -8307,10 +8307,10 @@
    "series": "衣衫襤褸的迪克",
    "series_no": 1,
    "v": 1,
-   "ver": "2fc6e0880c",
-   "size": 1977500,
+   "ver": "2c9810938a",
+   "size": 1989174,
    "file": "packs/ragged-dick.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "raggedy-andy-stories",
@@ -8385,10 +8385,10 @@
    "series": "紫艾草",
    "series_no": 2,
    "v": 1,
-   "ver": "f63c7205cf",
-   "size": 3399911,
+   "ver": "a09e13082e",
+   "size": 3407819,
    "file": "packs/rainbow-trail.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rainbow-valley",
@@ -8411,10 +8411,10 @@
    "series": "清秀佳人",
    "series_no": 6,
    "v": 1,
-   "ver": "7b96622b4b",
-   "size": 3110167,
+   "ver": "1eb0852560",
+   "size": 3125786,
    "file": "packs/rainbow-valley.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rebecca-of-sunnybrook-farm",
@@ -8437,10 +8437,10 @@
    "series": "蕾貝卡",
    "series_no": 1,
    "v": 1,
-   "ver": "702f95dd31",
-   "size": 3065711,
+   "ver": "0a189a7bb5",
+   "size": 3075815,
    "file": "packs/rebecca-of-sunnybrook-farm.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "red-fairy-book",
@@ -8463,10 +8463,10 @@
    "series": "彩色童話",
    "series_no": 2,
    "v": 1,
-   "ver": "0133164100",
-   "size": 4294767,
+   "ver": "e328267c39",
+   "size": 4312445,
    "file": "packs/red-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "red-thumb-mark",
@@ -8489,10 +8489,10 @@
    "series": "桑代克醫生",
    "series_no": 1,
    "v": 1,
-   "ver": "5d4af55d6b",
-   "size": 2660518,
+   "ver": "aea0c59d43",
+   "size": 2667010,
    "file": "packs/red-thumb-mark.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "return-of-sherlock-holmes",
@@ -8515,10 +8515,10 @@
    "series": "福爾摩斯",
    "series_no": 6,
    "v": 1,
-   "ver": "9103e44229",
-   "size": 3684599,
+   "ver": "a6f37952ba",
+   "size": 3694086,
    "file": "packs/return-of-sherlock-holmes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "return-of-tarzan",
@@ -8541,10 +8541,10 @@
    "series": "泰山",
    "series_no": 2,
    "v": 1,
-   "ver": "17c48ff7a0",
-   "size": 3551370,
+   "ver": "c03780c8e2",
+   "size": 3558051,
    "file": "packs/return-of-tarzan.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rewards-and-fairies",
@@ -8567,10 +8567,10 @@
    "series": "普克山的精靈",
    "series_no": 2,
    "v": 1,
-   "ver": "fc9c116aff",
-   "size": 2203546,
+   "ver": "2f2937881f",
+   "size": 2207730,
    "file": "packs/rewards-and-fairies.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rico-and-wiseli",
@@ -8617,10 +8617,10 @@
    "series": "紫艾草",
    "series_no": 1,
    "v": 1,
-   "ver": "dce3c3f6af",
-   "size": 3747901,
+   "ver": "be21b66466",
+   "size": 3756878,
    "file": "packs/riders-of-the-purple-sage.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rilla-of-ingleside",
@@ -8643,10 +8643,10 @@
    "series": "清秀佳人",
    "series_no": 8,
    "v": 1,
-   "ver": "8ff774c93a",
-   "size": 3899901,
+   "ver": "a8ba746289",
+   "size": 3917238,
    "file": "packs/rilla-of-ingleside.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rinkitink-in-oz",
@@ -8669,10 +8669,10 @@
    "series": "綠野仙蹤",
    "series_no": 10,
    "v": 1,
-   "ver": "053ada0e97",
-   "size": 2117766,
+   "ver": "ac6fc2cb5c",
+   "size": 2129345,
    "file": "packs/rinkitink-in-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "road-to-oz",
@@ -8695,10 +8695,10 @@
    "series": "綠野仙蹤",
    "series_no": 5,
    "v": 1,
-   "ver": "7cef5f91f5",
-   "size": 1739393,
+   "ver": "535fd6be22",
+   "size": 1749842,
    "file": "packs/road-to-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rob-roy",
@@ -8721,10 +8721,10 @@
    "series": "威佛利小說",
    "series_no": 2,
    "v": 1,
-   "ver": "63cd5545cd",
-   "size": 6134507,
+   "ver": "60910a2ef2",
+   "size": 6145031,
    "file": "packs/rob-roy.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "robinson-crusoe",
@@ -8745,10 +8745,10 @@
    "genre": "冒險",
    "country": "英國",
    "v": 1,
-   "ver": "aef3e3b26f",
-   "size": 4184254,
+   "ver": "3c02979700",
+   "size": 4194243,
    "file": "packs/robinson-crusoe.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "robur-the-conqueror",
@@ -8771,10 +8771,10 @@
    "series": "羅比爾",
    "series_no": 1,
    "v": 1,
-   "ver": "e2855f8582",
-   "size": 2268706,
+   "ver": "968006c4d0",
+   "size": 2276596,
    "file": "packs/robur-the-conqueror.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rose-in-bloom",
@@ -8797,10 +8797,10 @@
    "series": "八個表兄弟",
    "series_no": 2,
    "v": 1,
-   "ver": "868a65ebef",
-   "size": 3585103,
+   "ver": "682724c047",
+   "size": 3594175,
    "file": "packs/rose-in-bloom.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rough-and-ready",
@@ -8823,10 +8823,10 @@
    "series": "衣衫襤褸的迪克",
    "series_no": 4,
    "v": 1,
-   "ver": "44267e8050",
-   "size": 1957748,
+   "ver": "e11025d493",
+   "size": 1968743,
    "file": "packs/rough-and-ready.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rover-boys-at-school",
@@ -8849,10 +8849,10 @@
    "series": "羅孚男孩",
    "series_no": 1,
    "v": 1,
-   "ver": "313f2f1727",
-   "size": 1973057,
+   "ver": "039deab98b",
+   "size": 1985188,
    "file": "packs/rover-boys-at-school.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rover-boys-in-the-jungle",
@@ -8875,10 +8875,10 @@
    "series": "羅孚男孩",
    "series_no": 3,
    "v": 1,
-   "ver": "b74e9983af",
-   "size": 1892427,
+   "ver": "900e3d8926",
+   "size": 1904910,
    "file": "packs/rover-boys-in-the-jungle.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rover-boys-in-the-mountains",
@@ -8901,10 +8901,10 @@
    "series": "羅孚男孩",
    "series_no": 6,
    "v": 1,
-   "ver": "caf017c26b",
-   "size": 1984415,
+   "ver": "5603ee0a1f",
+   "size": 1996949,
    "file": "packs/rover-boys-in-the-mountains.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rover-boys-on-the-great-lakes",
@@ -8927,10 +8927,10 @@
    "series": "羅孚男孩",
    "series_no": 5,
    "v": 1,
-   "ver": "7b736cdf7a",
-   "size": 1900042,
+   "ver": "3034b7225a",
+   "size": 1913316,
    "file": "packs/rover-boys-on-the-great-lakes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rover-boys-on-the-ocean",
@@ -8953,10 +8953,10 @@
    "series": "羅孚男孩",
    "series_no": 2,
    "v": 1,
-   "ver": "22bdfb3134",
-   "size": 1844293,
+   "ver": "e54a9d0a4b",
+   "size": 1855874,
    "file": "packs/rover-boys-on-the-ocean.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rover-boys-out-west",
@@ -8979,10 +8979,10 @@
    "series": "羅孚男孩",
    "series_no": 4,
    "v": 1,
-   "ver": "ffe8214390",
-   "size": 1976245,
+   "ver": "215bbaef9c",
+   "size": 1987425,
    "file": "packs/rover-boys-out-west.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rufus-and-rose",
@@ -9005,10 +9005,10 @@
    "series": "衣衫襤褸的迪克",
    "series_no": 6,
    "v": 1,
-   "ver": "d1418cffcc",
-   "size": 1857910,
+   "ver": "d4ed961c02",
+   "size": 1868918,
    "file": "packs/rufus-and-rose.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "rupert-of-hentzau",
@@ -9031,10 +9031,10 @@
    "series": "曾達的囚徒",
    "series_no": 2,
    "v": 1,
-   "ver": "d66b796d0f",
-   "size": 2935666,
+   "ver": "8369bae2d8",
+   "size": 2945708,
    "file": "packs/rupert-of-hentzau.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "sammie-and-susie-littletail",
@@ -9107,10 +9107,10 @@
    "series": "綠野仙蹤",
    "series_no": 9,
    "v": 1,
-   "ver": "d9d8276499",
-   "size": 1904276,
+   "ver": "68c957ae4d",
+   "size": 1914682,
    "file": "packs/scarecrow-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "scarlet-pimpernel",
@@ -9133,10 +9133,10 @@
    "series": "紅花俠",
    "series_no": 1,
    "v": 1,
-   "ver": "3d26e78149",
-   "size": 3472935,
+   "ver": "655b1ed9a0",
+   "size": 3481918,
    "file": "packs/scarlet-pimpernel.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "scotch-twins",
@@ -9159,10 +9159,10 @@
    "series": "世界雙胞胎",
    "series_no": 9,
    "v": 1,
-   "ver": "9f7bcd9dc4",
-   "size": 1212862,
+   "ver": "2d603354b3",
+   "size": 1218605,
    "file": "packs/scotch-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "sea-fairies",
@@ -9185,10 +9185,10 @@
    "series": "小崔特",
    "series_no": 1,
    "v": 1,
-   "ver": "b1562ebe6a",
-   "size": 1756262,
+   "ver": "bcf1dde0c7",
+   "size": 1763741,
    "file": "packs/sea-fairies.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "second-jungle-book",
@@ -9211,10 +9211,10 @@
    "series": "叢林奇譚",
    "series_no": 2,
    "v": 1,
-   "ver": "942c0a23d5",
-   "size": 2105588,
+   "ver": "e1dfcda26c",
+   "size": 2110268,
    "file": "packs/second-jungle-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "sense-and-sensibility",
@@ -9235,10 +9235,10 @@
    "genre": "經典",
    "country": "英國",
    "v": 1,
-   "ver": "15f81427b3",
-   "size": 4784188,
+   "ver": "b2c0fe4aa7",
+   "size": 4803805,
    "file": "packs/sense-and-sensibility.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "she",
@@ -9261,10 +9261,10 @@
    "series": "她",
    "series_no": 1,
    "v": 1,
-   "ver": "77b77529d0",
-   "size": 4171851,
+   "ver": "4b2ccdb52f",
+   "size": 4183736,
    "file": "packs/she.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "siddhartha",
@@ -9311,10 +9311,10 @@
    "series": "福爾摩斯",
    "series_no": 2,
    "v": 1,
-   "ver": "a0c267fdc2",
-   "size": 1622614,
+   "ver": "068b6d0bb9",
+   "size": 1629792,
    "file": "packs/sign-of-the-four.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "sink-or-swim",
@@ -9361,10 +9361,10 @@
    "series": "白色兵團",
    "series_no": 2,
    "v": 1,
-   "ver": "c909efdea0",
-   "size": 4585210,
+   "ver": "6f237d7618",
+   "size": 4592733,
    "file": "packs/sir-nigel.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "sky-island",
@@ -9387,10 +9387,10 @@
    "series": "小崔特",
    "series_no": 2,
    "v": 1,
-   "ver": "6b54f2a04d",
-   "size": 2287333,
+   "ver": "eb0fb07482",
+   "size": 2297202,
    "file": "packs/sky-island.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "skylark-of-space",
@@ -9413,10 +9413,10 @@
    "series": "雲雀號",
    "series_no": 1,
    "v": 1,
-   "ver": "7029de5b58",
-   "size": 3198737,
+   "ver": "a46a828d2b",
+   "size": 3205631,
    "file": "packs/skylark-of-space.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "something-new",
@@ -9439,10 +9439,10 @@
    "series": "布蘭丁斯城堡",
    "series_no": 1,
    "v": 1,
-   "ver": "24f341b3de",
-   "size": 2621814,
+   "ver": "b3dccea8e2",
+   "size": 2626915,
    "file": "packs/something-new.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "son-of-tarzan",
@@ -9465,10 +9465,10 @@
    "series": "泰山",
    "series_no": 4,
    "v": 1,
-   "ver": "5233b71126",
-   "size": 3783685,
+   "ver": "d67b4f689e",
+   "size": 3791399,
    "file": "packs/son-of-tarzan.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "sorrows-of-young-werther",
@@ -9489,10 +9489,10 @@
    "genre": "經典",
    "country": "德國",
    "v": 1,
-   "ver": "b48ee52efe",
-   "size": 1719372,
+   "ver": "62d63aef9d",
+   "size": 1723875,
    "file": "packs/sorrows-of-young-werther.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "spartan-twins",
@@ -9515,10 +9515,10 @@
    "series": "世界雙胞胎",
    "series_no": 8,
    "v": 1,
-   "ver": "104a131553",
-   "size": 742501,
+   "ver": "f2659393ad",
+   "size": 745539,
    "file": "packs/spartan-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "spirit-of-the-border",
@@ -9541,10 +9541,10 @@
    "series": "俄亥俄河三部曲",
    "series_no": 2,
    "v": 1,
-   "ver": "23dc6a2ea6",
-   "size": 3494024,
+   "ver": "603dd39afc",
+   "size": 3504810,
    "file": "packs/spirit-of-the-border.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "stories-polly-pepper-told",
@@ -9567,10 +9567,10 @@
    "series": "五個小胡椒",
    "series_no": 5,
    "v": 1,
-   "ver": "f127ae72c1",
-   "size": 2893043,
+   "ver": "e86d3ab73a",
+   "size": 2904892,
    "file": "packs/stories-polly-pepper-told.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "story-girl",
@@ -9593,10 +9593,10 @@
    "series": "說故事的女孩",
    "series_no": 1,
    "v": 1,
-   "ver": "a31093100b",
-   "size": 3242353,
+   "ver": "d5d73734e3",
+   "size": 3254466,
    "file": "packs/story-girl.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "story-of-doctor-dolittle",
@@ -9619,10 +9619,10 @@
    "series": "杜立德醫生",
    "series_no": 1,
    "v": 1,
-   "ver": "ce20119880",
-   "size": 1142586,
+   "ver": "ae81d7d39c",
+   "size": 1151397,
    "file": "packs/story-of-doctor-dolittle.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "story-of-my-life",
@@ -9695,10 +9695,10 @@
    "series": "沙精",
    "series_no": 3,
    "v": 1,
-   "ver": "5426cc4f3d",
-   "size": 2247949,
+   "ver": "ba88af5c61",
+   "size": 2254463,
    "file": "packs/story-of-the-amulet.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "story-of-the-treasure-seekers",
@@ -9771,10 +9771,10 @@
    "series": "福爾摩斯",
    "series_no": 1,
    "v": 1,
-   "ver": "781d8ad79f",
-   "size": 1772840,
+   "ver": "3ae1896d8d",
+   "size": 1780098,
    "file": "packs/study-in-scarlet.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "sunshine-sketches-of-a-little-town",
@@ -9845,10 +9845,10 @@
    "series": "世界雙胞胎",
    "series_no": 11,
    "v": 1,
-   "ver": "0d20ba5863",
-   "size": 691396,
+   "ver": "6c5b8f42d8",
+   "size": 694026,
    "file": "packs/swiss-twins.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tale-of-two-cities",
@@ -9869,10 +9869,10 @@
    "genre": "經典",
    "country": "英國",
    "v": 1,
-   "ver": "bdb9b89aea",
-   "size": 5204077,
+   "ver": "573d2fcf5e",
+   "size": 5221914,
    "file": "packs/tale-of-two-cities.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tales-from-shakespeare",
@@ -9893,10 +9893,10 @@
    "genre": "經典",
    "country": "英國",
    "v": 1,
-   "ver": "47dd98f42e",
-   "size": 3746142,
+   "ver": "601b0de84c",
+   "size": 3757608,
    "file": "packs/tales-from-shakespeare.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "talisman",
@@ -9919,10 +9919,10 @@
    "series": "威佛利小說",
    "series_no": 3,
    "v": 1,
-   "ver": "91ea9dbbf1",
-   "size": 4776632,
+   "ver": "254d5cc616",
+   "size": 4785387,
    "file": "packs/talisman.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tanglewood-tales",
@@ -9945,10 +9945,10 @@
    "series": "霍桑神話",
    "series_no": 2,
    "v": 1,
-   "ver": "91b6a763cf",
-   "size": 2407359,
+   "ver": "8bf558b0a3",
+   "size": 2411234,
    "file": "packs/tanglewood-tales.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tarzan-and-the-golden-lion",
@@ -9971,10 +9971,10 @@
    "series": "泰山",
    "series_no": 9,
    "v": 1,
-   "ver": "3d84ef8c5c",
-   "size": 3133835,
+   "ver": "1c764a3d65",
+   "size": 3139425,
    "file": "packs/tarzan-and-the-golden-lion.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tarzan-and-the-jewels-of-opar",
@@ -9997,10 +9997,10 @@
    "series": "泰山",
    "series_no": 5,
    "v": 1,
-   "ver": "87cfa70d92",
-   "size": 2891022,
+   "ver": "3db4e6bec1",
+   "size": 2897071,
    "file": "packs/tarzan-and-the-jewels-of-opar.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tarzan-of-the-apes",
@@ -10023,10 +10023,10 @@
    "series": "泰山",
    "series_no": 1,
    "v": 1,
-   "ver": "6bb31ebf71",
-   "size": 3550209,
+   "ver": "3b8241fcc0",
+   "size": 3557912,
    "file": "packs/tarzan-of-the-apes.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tarzan-the-terrible",
@@ -10049,10 +10049,10 @@
    "series": "泰山",
    "series_no": 8,
    "v": 1,
-   "ver": "60f0495064",
-   "size": 3801143,
+   "ver": "a3d79e112c",
+   "size": 3807462,
    "file": "packs/tarzan-the-terrible.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tarzan-the-untamed",
@@ -10075,10 +10075,10 @@
    "series": "泰山",
    "series_no": 7,
    "v": 1,
-   "ver": "0fcf42fa45",
-   "size": 4330123,
+   "ver": "a0076010c8",
+   "size": 4336676,
    "file": "packs/tarzan-the-untamed.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "teeth-of-the-tiger",
@@ -10101,10 +10101,10 @@
    "series": "亞森・羅蘋",
    "series_no": 7,
    "v": 1,
-   "ver": "495098134d",
-   "size": 4265698,
+   "ver": "d0d18f2e6a",
+   "size": 4273685,
    "file": "packs/teeth-of-the-tiger.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "ten-years-later",
@@ -10127,10 +10127,10 @@
    "series": "三劍客",
    "series_no": 4,
    "v": 1,
-   "ver": "3c8c2c0256",
-   "size": 6796408,
+   "ver": "b253c0a3a4",
+   "size": 6820542,
    "file": "packs/ten-years-later.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "thief-in-the-night",
@@ -10153,10 +10153,10 @@
    "series": "萊佛士",
    "series_no": 3,
    "v": 1,
-   "ver": "9c584567d9",
-   "size": 2197200,
+   "ver": "b5ad309790",
+   "size": 2201148,
    "file": "packs/thief-in-the-night.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "thirty-nine-steps",
@@ -10179,10 +10179,10 @@
    "series": "漢內",
    "series_no": 1,
    "v": 1,
-   "ver": "19be91a8af",
-   "size": 1519761,
+   "ver": "0182dd3f3c",
+   "size": 1525442,
    "file": "packs/thirty-nine-steps.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "three-men-in-a-boat",
@@ -10205,10 +10205,10 @@
    "series": "三人同舟",
    "series_no": 1,
    "v": 1,
-   "ver": "0371e3cc0b",
-   "size": 2553396,
+   "ver": "dbf4ba49cd",
+   "size": 2562532,
    "file": "packs/three-men-in-a-boat.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "three-men-on-the-bummel",
@@ -10231,10 +10231,10 @@
    "series": "三人同舟",
    "series_no": 2,
    "v": 1,
-   "ver": "d63492dc84",
-   "size": 2403544,
+   "ver": "b151659948",
+   "size": 2410512,
    "file": "packs/three-men-on-the-bummel.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "three-musketeers",
@@ -10257,10 +10257,10 @@
    "series": "三劍客",
    "series_no": 1,
    "v": 1,
-   "ver": "f28bbf68df",
-   "size": 8049226,
+   "ver": "69eeeef78e",
+   "size": 8075861,
    "file": "packs/three-musketeers.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "thuvia-maid-of-mars",
@@ -10283,10 +10283,10 @@
    "series": "火星",
    "series_no": 4,
    "v": 1,
-   "ver": "20632e3c12",
-   "size": 1833143,
+   "ver": "d091d93090",
+   "size": 1837820,
    "file": "packs/thuvia-maid-of-mars.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tik-tok-of-oz",
@@ -10309,10 +10309,10 @@
    "series": "綠野仙蹤",
    "series_no": 8,
    "v": 1,
-   "ver": "270a267cf8",
-   "size": 1999292,
+   "ver": "59dd9f0a76",
+   "size": 2010465,
    "file": "packs/tik-tok-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tin-woodman-of-oz",
@@ -10335,10 +10335,10 @@
    "series": "綠野仙蹤",
    "series_no": 12,
    "v": 1,
-   "ver": "9a0e58bf6b",
-   "size": 1814259,
+   "ver": "2f36b5e1ad",
+   "size": 1825474,
    "file": "packs/tin-woodman-of-oz.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "toby-tyler",
@@ -10359,10 +10359,10 @@
    "genre": "冒險",
    "country": "美國",
    "v": 1,
-   "ver": "cb7e361360",
-   "size": 1984421,
+   "ver": "29ca16d6e6",
+   "size": 1993480,
    "file": "packs/toby-tyler.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-brown-s-school-days",
@@ -10409,10 +10409,10 @@
    "series": "湯姆歷險記",
    "series_no": 3,
    "v": 1,
-   "ver": "2e4191167e",
-   "size": 1206813,
+   "ver": "4aa4b3f58e",
+   "size": 1212919,
    "file": "packs/tom-sawyer-abroad.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-sawyer-detective",
@@ -10435,10 +10435,10 @@
    "series": "湯姆歷險記",
    "series_no": 4,
    "v": 1,
-   "ver": "579c55d304",
-   "size": 867340,
+   "ver": "662936aa89",
+   "size": 871981,
    "file": "packs/tom-sawyer-detective.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-among-the-diamond-makers",
@@ -10461,10 +10461,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 7,
    "v": 1,
-   "ver": "4939271329",
-   "size": 1738902,
+   "ver": "cdb579a2a7",
+   "size": 1750924,
    "file": "packs/tom-swift-among-the-diamond-makers.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-and-his-air-glider",
@@ -10487,10 +10487,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 12,
    "v": 1,
-   "ver": "ddd2123d0e",
-   "size": 1780545,
+   "ver": "37fb956d65",
+   "size": 1790361,
    "file": "packs/tom-swift-and-his-air-glider.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-and-his-airship",
@@ -10513,10 +10513,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 3,
    "v": 1,
-   "ver": "7010796003",
-   "size": 1831048,
+   "ver": "a07446b5ac",
+   "size": 1841400,
    "file": "packs/tom-swift-and-his-airship.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-and-his-electric-rifle",
@@ -10539,10 +10539,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 10,
    "v": 1,
-   "ver": "5f4520486d",
-   "size": 1859186,
+   "ver": "7fb9ba7848",
+   "size": 1870438,
    "file": "packs/tom-swift-and-his-electric-rifle.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-and-his-electric-runabout",
@@ -10565,10 +10565,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 5,
    "v": 1,
-   "ver": "b8dbf62081",
-   "size": 1817537,
+   "ver": "a9ee0dfb92",
+   "size": 1829436,
    "file": "packs/tom-swift-and-his-electric-runabout.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-and-his-motor-boat",
@@ -10591,10 +10591,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 2,
    "v": 1,
-   "ver": "4465f98498",
-   "size": 1801992,
+   "ver": "b52a7bc585",
+   "size": 1812894,
    "file": "packs/tom-swift-and-his-motor-boat.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-and-his-motor-cycle",
@@ -10617,10 +10617,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 1,
    "v": 1,
-   "ver": "5c4c2f3e89",
-   "size": 1734786,
+   "ver": "52c66b73c5",
+   "size": 1745176,
    "file": "packs/tom-swift-and-his-motor-cycle.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-and-his-sky-racer",
@@ -10643,10 +10643,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 9,
    "v": 1,
-   "ver": "d467d675d7",
-   "size": 1724307,
+   "ver": "8481db6416",
+   "size": 1736046,
    "file": "packs/tom-swift-and-his-sky-racer.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-and-his-submarine-boat",
@@ -10669,10 +10669,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 4,
    "v": 1,
-   "ver": "816369784e",
-   "size": 1877787,
+   "ver": "b934f66a80",
+   "size": 1890106,
    "file": "packs/tom-swift-and-his-submarine-boat.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-and-his-wireless-message",
@@ -10695,10 +10695,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 6,
    "v": 1,
-   "ver": "2180b7c22d",
-   "size": 1761578,
+   "ver": "9d14a0f9ce",
+   "size": 1772834,
    "file": "packs/tom-swift-and-his-wireless-message.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-in-the-caves-of-ice",
@@ -10721,10 +10721,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 8,
    "v": 1,
-   "ver": "4fd1168082",
-   "size": 1777150,
+   "ver": "d6bb8a51cb",
+   "size": 1788231,
    "file": "packs/tom-swift-in-the-caves-of-ice.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "tom-swift-in-the-city-of-gold",
@@ -10747,10 +10747,10 @@
    "series": "湯姆・史威夫特",
    "series_no": 11,
    "v": 1,
-   "ver": "204263593f",
-   "size": 1833402,
+   "ver": "5d182509c2",
+   "size": 1845093,
    "file": "packs/tom-swift-in-the-city-of-gold.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "trent-s-last-case",
@@ -10821,10 +10821,10 @@
    "series": "尼莫船長",
    "series_no": 1,
    "v": 1,
-   "ver": "6c97ad7c99",
-   "size": 4354800,
+   "ver": "89a3611825",
+   "size": 4370015,
    "file": "packs/twenty-thousand-leagues-under-the-sea.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "twenty-years-after",
@@ -10847,10 +10847,10 @@
    "series": "三劍客",
    "series_no": 2,
    "v": 1,
-   "ver": "db8fbd3117",
-   "size": 8544243,
+   "ver": "e473f469a3",
+   "size": 8579394,
    "file": "packs/twenty-years-after.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "uncle-tom-s-cabin",
@@ -10871,10 +10871,10 @@
    "genre": "經典",
    "country": "美國",
    "v": 1,
-   "ver": "9fac4ec5af",
-   "size": 6581906,
+   "ver": "79a40521c5",
+   "size": 6598246,
    "file": "packs/uncle-tom-s-cabin.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "uncle-wiggily-in-the-woods",
@@ -10897,10 +10897,10 @@
    "series": "威格利叔叔",
    "series_no": 5,
    "v": 1,
-   "ver": "7aee84140e",
-   "size": 1494139,
+   "ver": "f840b1b13c",
+   "size": 1504111,
    "file": "packs/uncle-wiggily-in-the-woods.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "uncle-wiggily-s-adventures",
@@ -10923,10 +10923,10 @@
    "series": "威格利叔叔",
    "series_no": 1,
    "v": 1,
-   "ver": "8041652e30",
-   "size": 1677409,
+   "ver": "efdc2c0eb6",
+   "size": 1686835,
    "file": "packs/uncle-wiggily-s-adventures.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "uncle-wiggily-s-airship",
@@ -10949,10 +10949,10 @@
    "series": "威格利叔叔",
    "series_no": 4,
    "v": 1,
-   "ver": "2a23870515",
-   "size": 1614105,
+   "ver": "94aebdaa87",
+   "size": 1625634,
    "file": "packs/uncle-wiggily-s-airship.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "uncle-wiggily-s-automobile",
@@ -10975,10 +10975,10 @@
    "series": "威格利叔叔",
    "series_no": 3,
    "v": 1,
-   "ver": "d11edce984",
-   "size": 969317,
+   "ver": "ae745e8f47",
+   "size": 975258,
    "file": "packs/uncle-wiggily-s-automobile.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "uncle-wiggily-s-fortune",
@@ -11001,10 +11001,10 @@
    "series": "威格利叔叔",
    "series_no": 7,
    "v": 1,
-   "ver": "4a603b83f0",
-   "size": 1798769,
+   "ver": "3e06df7ea1",
+   "size": 1809492,
    "file": "packs/uncle-wiggily-s-fortune.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "uncle-wiggily-s-travels",
@@ -11027,10 +11027,10 @@
    "series": "威格利叔叔",
    "series_no": 2,
    "v": 1,
-   "ver": "7656b410e6",
-   "size": 1708298,
+   "ver": "131c810987",
+   "size": 1718575,
    "file": "packs/uncle-wiggily-s-travels.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "under-drake-s-flag",
@@ -11053,10 +11053,10 @@
    "series": "韓蒂歷史冒險",
    "series_no": 2,
    "v": 1,
-   "ver": "5f1ab11b1d",
-   "size": 4199591,
+   "ver": "0a63711f11",
+   "size": 4208728,
    "file": "packs/under-drake-s-flag.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "understood-betsy",
@@ -11077,10 +11077,10 @@
    "genre": "生活",
    "country": "美國",
    "v": 1,
-   "ver": "a2287d305a",
-   "size": 1730319,
+   "ver": "7091737926",
+   "size": 1735133,
    "file": "packs/understood-betsy.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "uneasy-money",
@@ -11101,10 +11101,10 @@
    "genre": "幽默",
    "country": "英國",
    "v": 1,
-   "ver": "adeb0c3761",
-   "size": 2594009,
+   "ver": "56226a50b0",
+   "size": 2603610,
    "file": "packs/uneasy-money.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "up-from-slavery",
@@ -11151,10 +11151,10 @@
    "series": "福爾摩斯",
    "series_no": 7,
    "v": 1,
-   "ver": "9f7aa42524",
-   "size": 2013859,
+   "ver": "23877a3f0b",
+   "size": 2021296,
    "file": "packs/valley-of-fear.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "velveteen-rabbit",
@@ -11201,10 +11201,10 @@
    "series": "三劍客",
    "series_no": 3,
    "v": 1,
-   "ver": "47be5a4a38",
-   "size": 6938387,
+   "ver": "c651936670",
+   "size": 6968244,
    "file": "packs/vicomte-de-bragelonne.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "violet-fairy-book",
@@ -11227,10 +11227,10 @@
    "series": "彩色童話",
    "series_no": 5,
    "v": 1,
-   "ver": "395790160c",
-   "size": 3731397,
+   "ver": "f5eb78d94c",
+   "size": 3747232,
    "file": "packs/violet-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "voyages-of-doctor-dolittle",
@@ -11253,10 +11253,10 @@
    "series": "杜立德醫生",
    "series_no": 2,
    "v": 1,
-   "ver": "7ce7d8d866",
-   "size": 3370364,
+   "ver": "c0e5a241b4",
+   "size": 3393923,
    "file": "packs/voyages-of-doctor-dolittle.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "war-and-peace",
@@ -11277,10 +11277,10 @@
    "genre": "經典",
    "country": "俄國",
    "v": 1,
-   "ver": "871c90d692",
-   "size": 22762988,
+   "ver": "cd597ce95a",
+   "size": 22903745,
    "file": "packs/war-and-peace.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "water-babies",
@@ -11301,10 +11301,10 @@
    "genre": "奇幻",
    "country": "英國",
    "v": 1,
-   "ver": "72f55d4694",
-   "size": 1922317,
+   "ver": "893590cdbb",
+   "size": 1926615,
    "file": "packs/water-babies.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "wet-magic",
@@ -11351,10 +11351,10 @@
    "series": "凱蒂",
    "series_no": 1,
    "v": 1,
-   "ver": "309260c1d6",
-   "size": 1766221,
+   "ver": "b67370eec5",
+   "size": 1772588,
    "file": "packs/what-katy-did.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "what-katy-did-at-school",
@@ -11377,10 +11377,10 @@
    "series": "凱蒂",
    "series_no": 2,
    "v": 1,
-   "ver": "124fa0c746",
-   "size": 1824629,
+   "ver": "ce18181467",
+   "size": 1830714,
    "file": "packs/what-katy-did-at-school.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "what-katy-did-next",
@@ -11403,10 +11403,10 @@
    "series": "凱蒂",
    "series_no": 3,
    "v": 1,
-   "ver": "afbaa0769c",
-   "size": 2098465,
+   "ver": "e099cfe1bf",
+   "size": 2103774,
    "file": "packs/what-katy-did-next.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "when-patty-went-to-college",
@@ -11429,10 +11429,10 @@
    "series": "佩蒂",
    "series_no": 2,
    "v": 1,
-   "ver": "ed69b1f740",
-   "size": 1443057,
+   "ver": "de5f9f4680",
+   "size": 1447885,
    "file": "packs/when-patty-went-to-college.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "where-angels-fear-to-tread",
@@ -11479,10 +11479,10 @@
    "series": "白色兵團",
    "series_no": 1,
    "v": 1,
-   "ver": "e8db675b1a",
-   "size": 5445667,
+   "ver": "3d3d350f33",
+   "size": 5458040,
    "file": "packs/white-company.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "white-fang",
@@ -11503,10 +11503,10 @@
    "genre": "動物",
    "country": "美國",
    "v": 1,
-   "ver": "8a110a4fd3",
-   "size": 2892462,
+   "ver": "8d6b21b08c",
+   "size": 2899056,
    "file": "packs/white-fang.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "white-nights-and-other-stories",
@@ -11547,16 +11547,16 @@
     "C1": 97.5,
     "C2": 97.5
    },
-   "refined": 0,
+   "refined": 22,
    "genre": "動物",
    "country": "美國",
    "series": "伯吉斯動物故事",
    "series_no": 4,
    "v": 1,
-   "ver": "bfef8b66ef",
-   "size": 1097564,
+   "ver": "61742db785",
+   "size": 1140418,
    "file": "packs/whitefoot-the-wood-mouse.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "whose-body",
@@ -11579,10 +11579,10 @@
    "series": "溫西勳爵",
    "series_no": 1,
    "v": 1,
-   "ver": "9acbd686e6",
-   "size": 2087604,
+   "ver": "81a985d5db",
+   "size": 2092535,
    "file": "packs/whose-body.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "wild-animals-i-have-known",
@@ -11605,10 +11605,10 @@
    "series": "西頓動物記",
    "series_no": 1,
    "v": 1,
-   "ver": "14a77efa63",
-   "size": 1937972,
+   "ver": "d15c7288b0",
+   "size": 1942372,
    "file": "packs/wild-animals-i-have-known.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "winnie-the-pooh",
@@ -11657,10 +11657,10 @@
    "series": "布朗神父",
    "series_no": 2,
    "v": 1,
-   "ver": "0a76683c0b",
-   "size": 2644333,
+   "ver": "4140decca1",
+   "size": 2650062,
    "file": "packs/wisdom-of-father-brown.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "with-clive-in-india",
@@ -11683,10 +11683,10 @@
    "series": "韓蒂歷史冒險",
    "series_no": 1,
    "v": 1,
-   "ver": "96d6b56e26",
-   "size": 4729726,
+   "ver": "030e917482",
+   "size": 4740513,
    "file": "packs/with-clive-in-india.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "with-wolfe-in-canada",
@@ -11709,10 +11709,10 @@
    "series": "韓蒂歷史冒險",
    "series_no": 7,
    "v": 1,
-   "ver": "3fcf0e305e",
-   "size": 4362311,
+   "ver": "69a6f7d36c",
+   "size": 4371331,
    "file": "packs/with-wolfe-in-canada.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "woman-in-white",
@@ -11759,10 +11759,10 @@
    "series": "霍桑神話",
    "series_no": 1,
    "v": 1,
-   "ver": "0e2bc05bf4",
-   "size": 2009445,
+   "ver": "18919a1496",
+   "size": 2014728,
    "file": "packs/wonder-book-for-girls-and-boys.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "wonderful-adventures-of-nils",
@@ -11807,10 +11807,10 @@
    "genre": "奇幻",
    "country": "英國",
    "v": 1,
-   "ver": "c615f1960c",
-   "size": 2475311,
+   "ver": "02515e2b2f",
+   "size": 2484884,
    "file": "packs/wonderful-garden.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "wouldbegoods",
@@ -11859,10 +11859,10 @@
    "series": "韓蒂歷史冒險",
    "series_no": 9,
    "v": 1,
-   "ver": "c29ca3654e",
-   "size": 4537698,
+   "ver": "0f82f5b447",
+   "size": 4546775,
    "file": "packs/wulf-the-saxon.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "wuthering-heights",
@@ -11883,10 +11883,10 @@
    "genre": "經典",
    "country": "英國",
    "v": 1,
-   "ver": "3f8f0d5ae7",
-   "size": 4411813,
+   "ver": "0e833f55f5",
+   "size": 4424186,
    "file": "packs/wuthering-heights.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "yellow-fairy-book",
@@ -11909,10 +11909,10 @@
    "series": "彩色童話",
    "series_no": 3.5,
    "v": 1,
-   "ver": "bb8103cc97",
-   "size": 4292544,
+   "ver": "e9d59442e1",
+   "size": 4312696,
    "file": "packs/yellow-fairy-book.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   },
   {
    "id": "yellow-wallpaper",
@@ -11959,10 +11959,10 @@
    "series": "韓蒂歷史冒險",
    "series_no": 5,
    "v": 1,
-   "ver": "cdff0ff048",
-   "size": 4501748,
+   "ver": "56e2ba954f",
+   "size": 4510373,
    "file": "packs/young-carthaginian.json",
-   "updated": "2026-11-23"
+   "updated": "2026-11-28"
   }
  ]
 }
